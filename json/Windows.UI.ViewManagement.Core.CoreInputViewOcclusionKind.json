@@ -1,0 +1,15 @@
+{
+  "Name": "CoreInputViewOcclusionKind",
+  "Namespace": "Windows.UI.ViewManagement.Core",
+  "Values": {
+    "Docked": 0,
+    "Floating": 1,
+    "Overlay": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

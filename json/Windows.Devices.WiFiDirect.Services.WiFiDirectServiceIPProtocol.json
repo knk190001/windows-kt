@@ -1,0 +1,14 @@
+{
+  "Name": "WiFiDirectServiceIPProtocol",
+  "Namespace": "Windows.Devices.WiFiDirect.Services",
+  "Values": {
+    "Tcp": 6,
+    "Udp": 17
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "LearningModelPixelRange",
+  "Namespace": "Windows.AI.MachineLearning",
+  "Values": {
+    "ZeroTo255": 0,
+    "ZeroToOne": 1,
+    "MinusOneToOne": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

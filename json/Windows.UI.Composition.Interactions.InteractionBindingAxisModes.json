@@ -1,0 +1,19 @@
+{
+  "Name": "InteractionBindingAxisModes",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Values": {
+    "None": 0,
+    "PositionX": 1,
+    "PositionY": 2,
+    "Scale": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

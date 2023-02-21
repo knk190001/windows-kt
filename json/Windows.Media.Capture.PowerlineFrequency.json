@@ -1,0 +1,16 @@
+{
+  "Name": "PowerlineFrequency",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Disabled": 0,
+    "FiftyHertz": 1,
+    "SixtyHertz": 2,
+    "Auto": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

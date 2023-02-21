@@ -1,0 +1,19 @@
+{
+  "Name": "AllJoynAuthenticationMechanism",
+  "Namespace": "Windows.Devices.AllJoyn",
+  "Values": {
+    "None": 0,
+    "SrpAnonymous": 1,
+    "SrpLogon": 2,
+    "EcdheNull": 3,
+    "EcdhePsk": 4,
+    "EcdheEcdsa": 5,
+    "EcdheSpeke": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "IVpnTrafficFilterFactory",
+  "Namespace": "Windows.Networking.Vpn",
+  "Guid": "480d41d57f99474c86ee96df168318f1",
+  "Methods": [
+    {
+      "Name": "Create",
+      "Parameters": [
+        {
+          "Name": "appId",
+          "Type": {
+            "Name": "VpnAppId",
+            "Namespace": "Windows.Networking.Vpn",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "VpnTrafficFilter",
+        "Namespace": "Windows.Networking.Vpn",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "FillBehavior",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Values": {
+    "HoldEnd": 0,
+    "Stop": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

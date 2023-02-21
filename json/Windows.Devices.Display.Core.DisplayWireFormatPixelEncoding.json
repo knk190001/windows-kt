@@ -1,0 +1,17 @@
+{
+  "Name": "DisplayWireFormatPixelEncoding",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "Rgb444": 0,
+    "Ycc444": 1,
+    "Ycc422": 2,
+    "Ycc420": 3,
+    "Intensity": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "UiccAppRecordKind",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Unknown": 0,
+    "Transparent": 1,
+    "RecordOriented": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

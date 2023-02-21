@@ -1,0 +1,15 @@
+{
+  "Name": "CharacterCasing",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Normal": 0,
+    "Lower": 1,
+    "Upper": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

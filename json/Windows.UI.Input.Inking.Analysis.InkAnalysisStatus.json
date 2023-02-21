@@ -1,0 +1,14 @@
+{
+  "Name": "InkAnalysisStatus",
+  "Namespace": "Windows.UI.Input.Inking.Analysis",
+  "Values": {
+    "Updated": 0,
+    "Unchanged": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

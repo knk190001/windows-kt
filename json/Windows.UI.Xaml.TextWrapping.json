@@ -1,0 +1,15 @@
+{
+  "Name": "TextWrapping",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "NoWrap": 1,
+    "Wrap": 2,
+    "WrapWholeWords": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

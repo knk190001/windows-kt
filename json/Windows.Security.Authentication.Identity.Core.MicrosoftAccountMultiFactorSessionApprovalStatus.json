@@ -1,0 +1,15 @@
+{
+  "Name": "MicrosoftAccountMultiFactorSessionApprovalStatus",
+  "Namespace": "Windows.Security.Authentication.Identity.Core",
+  "Values": {
+    "Pending": 0,
+    "Approved": 1,
+    "Denied": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "MarkerAlignment",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Undefined": 0,
+    "Left": 1,
+    "Center": 2,
+    "Right": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

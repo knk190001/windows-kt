@@ -1,0 +1,22 @@
+{
+  "Name": "DetectionConfigurationTrainingStatus",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "Success": 0,
+    "FormatNotSupported": 1,
+    "VoiceTooQuiet": 2,
+    "VoiceTooLoud": 3,
+    "VoiceTooFast": 4,
+    "VoiceTooSlow": 5,
+    "VoiceQualityProblem": 6,
+    "TrainingSystemInternalError": 7,
+    "TrainingTimedOut": 8,
+    "ConfigurationNotFound": 9
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

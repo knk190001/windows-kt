@@ -1,0 +1,16 @@
+{
+  "Name": "PackageInstallState",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "NotInstalled": 0,
+    "Staged": 1,
+    "Installed": 2,
+    "Paused": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

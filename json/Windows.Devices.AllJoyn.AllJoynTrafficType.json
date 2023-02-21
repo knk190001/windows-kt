@@ -1,0 +1,16 @@
+{
+  "Name": "AllJoynTrafficType",
+  "Namespace": "Windows.Devices.AllJoyn",
+  "Values": {
+    "Unknown": 0,
+    "Messages": 1,
+    "RawUnreliable": 2,
+    "RawReliable": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

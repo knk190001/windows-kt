@@ -1,0 +1,14 @@
+{
+  "Name": "PaymentRequestChangeKind",
+  "Namespace": "Windows.ApplicationModel.Payments",
+  "Values": {
+    "ShippingOption": 0,
+    "ShippingAddress": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

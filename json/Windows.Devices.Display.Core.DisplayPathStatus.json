@@ -1,0 +1,18 @@
+{
+  "Name": "DisplayPathStatus",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "Unknown": 0,
+    "Succeeded": 1,
+    "Pending": 2,
+    "Failed": 3,
+    "FailedAsync": 4,
+    "InvalidatedAsync": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

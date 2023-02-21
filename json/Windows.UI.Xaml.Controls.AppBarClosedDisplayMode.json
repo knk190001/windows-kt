@@ -1,0 +1,15 @@
+{
+  "Name": "AppBarClosedDisplayMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Compact": 0,
+    "Minimal": 1,
+    "Hidden": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

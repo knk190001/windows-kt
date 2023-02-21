@@ -1,0 +1,16 @@
+{
+  "Name": "FocusMode",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Auto": 0,
+    "Single": 1,
+    "Continuous": 2,
+    "Manual": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

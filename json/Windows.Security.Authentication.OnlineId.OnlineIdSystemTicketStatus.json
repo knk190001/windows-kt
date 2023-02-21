@@ -1,0 +1,15 @@
+{
+  "Name": "OnlineIdSystemTicketStatus",
+  "Namespace": "Windows.Security.Authentication.OnlineId",
+  "Values": {
+    "Success": 0,
+    "Error": 1,
+    "ServiceConnectionError": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

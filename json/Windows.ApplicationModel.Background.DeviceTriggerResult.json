@@ -1,0 +1,16 @@
+{
+  "Name": "DeviceTriggerResult",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "Allowed": 0,
+    "DeniedByUser": 1,
+    "DeniedBySystem": 2,
+    "LowBattery": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

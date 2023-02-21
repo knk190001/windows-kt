@@ -1,0 +1,14 @@
+{
+  "Name": "UserInteractionMode",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "Mouse": 0,
+    "Touch": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

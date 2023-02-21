@@ -1,0 +1,14 @@
+{
+  "Name": "GameServiceScoreKind",
+  "Namespace": "Windows.Phone.System.UserProfile.GameServices.Core",
+  "Values": {
+    "Number": 0,
+    "Time": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

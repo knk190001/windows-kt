@@ -1,0 +1,14 @@
+{
+  "Name": "MediaFrameReaderAcquisitionMode",
+  "Namespace": "Windows.Media.Capture.Frames",
+  "Values": {
+    "Realtime": 0,
+    "Buffered": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

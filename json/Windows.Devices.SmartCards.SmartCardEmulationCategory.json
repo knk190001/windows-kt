@@ -1,0 +1,14 @@
+{
+  "Name": "SmartCardEmulationCategory",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Other": 0,
+    "Payment": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

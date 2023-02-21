@@ -1,0 +1,15 @@
+{
+  "Name": "CausalitySynchronousWork",
+  "Namespace": "Windows.Foundation.Diagnostics",
+  "Values": {
+    "CompletionNotification": 0,
+    "ProgressNotification": 1,
+    "Execution": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "DispatcherQueuePriority",
+  "Namespace": "Windows.System",
+  "Values": {
+    "Low": -10,
+    "Normal": 0,
+    "High": 10
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

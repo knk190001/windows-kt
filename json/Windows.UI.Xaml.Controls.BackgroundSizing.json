@@ -1,0 +1,14 @@
+{
+  "Name": "BackgroundSizing",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "InnerBorderEdge": 0,
+    "OuterBorderEdge": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

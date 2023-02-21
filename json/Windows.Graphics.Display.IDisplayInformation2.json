@@ -1,0 +1,21 @@
+{
+  "Name": "IDisplayInformation2",
+  "Namespace": "Windows.Graphics.Display",
+  "Guid": "4dcd0021fad14b8e8edf775887b8bf19",
+  "Methods": [
+    {
+      "Name": "get_RawPixelsPerViewPixel",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "Double",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

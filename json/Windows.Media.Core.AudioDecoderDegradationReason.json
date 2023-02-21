@@ -1,0 +1,15 @@
+{
+  "Name": "AudioDecoderDegradationReason",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "None": 0,
+    "LicensingRequirement": 1,
+    "SpatialAudioNotSupported": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

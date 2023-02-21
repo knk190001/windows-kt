@@ -1,0 +1,15 @@
+{
+  "Name": "AppointmentStoreAccessType",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "AppCalendarsReadWrite": 0,
+    "AllCalendarsReadOnly": 1,
+    "AllCalendarsReadWrite": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

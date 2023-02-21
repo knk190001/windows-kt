@@ -1,0 +1,14 @@
+{
+  "Name": "VpnPacketBufferStatus",
+  "Namespace": "Windows.Networking.Vpn",
+  "Values": {
+    "Ok": 0,
+    "InvalidBufferSize": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

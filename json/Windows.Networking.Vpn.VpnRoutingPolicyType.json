@@ -1,0 +1,14 @@
+{
+  "Name": "VpnRoutingPolicyType",
+  "Namespace": "Windows.Networking.Vpn",
+  "Values": {
+    "SplitRouting": 0,
+    "ForceAllTrafficOverVpn": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

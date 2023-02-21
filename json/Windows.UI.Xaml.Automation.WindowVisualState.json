@@ -1,0 +1,15 @@
+{
+  "Name": "WindowVisualState",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "Normal": 0,
+    "Maximized": 1,
+    "Minimized": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

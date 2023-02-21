@@ -1,0 +1,17 @@
+{
+  "Name": "DisplayModeQueryOptions",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "None": 0,
+    "OnlyPreferredResolution": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

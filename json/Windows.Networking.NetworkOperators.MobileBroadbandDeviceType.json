@@ -1,0 +1,16 @@
+{
+  "Name": "MobileBroadbandDeviceType",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Unknown": 0,
+    "Embedded": 1,
+    "Removable": 2,
+    "Remote": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

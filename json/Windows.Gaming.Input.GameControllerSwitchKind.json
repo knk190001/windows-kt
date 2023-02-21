@@ -1,0 +1,15 @@
+{
+  "Name": "GameControllerSwitchKind",
+  "Namespace": "Windows.Gaming.Input",
+  "Values": {
+    "TwoWay": 0,
+    "FourWay": 1,
+    "EightWay": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

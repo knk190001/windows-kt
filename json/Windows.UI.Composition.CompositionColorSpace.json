@@ -1,0 +1,17 @@
+{
+  "Name": "CompositionColorSpace",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Auto": 0,
+    "Hsl": 1,
+    "Rgb": 2,
+    "HslLinear": 3,
+    "RgbLinear": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

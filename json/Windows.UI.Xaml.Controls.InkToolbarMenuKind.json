@@ -1,0 +1,13 @@
+{
+  "Name": "InkToolbarMenuKind",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Stencil": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

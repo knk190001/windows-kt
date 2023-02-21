@@ -1,0 +1,15 @@
+{
+  "Name": "AddContactResult",
+  "Namespace": "Windows.ApplicationModel.Contacts.Provider",
+  "Values": {
+    "Added": 0,
+    "AlreadyAdded": 1,
+    "Unavailable": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

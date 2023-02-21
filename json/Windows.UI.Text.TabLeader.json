@@ -1,0 +1,18 @@
+{
+  "Name": "TabLeader",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Spaces": 0,
+    "Dots": 1,
+    "Dashes": 2,
+    "Lines": 3,
+    "ThickLines": 4,
+    "Equals": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

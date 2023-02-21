@@ -1,0 +1,14 @@
+{
+  "Name": "MicrosoftAccountMultiFactorSessionAuthenticationStatus",
+  "Namespace": "Windows.Security.Authentication.Identity.Core",
+  "Values": {
+    "Authenticated": 0,
+    "Unauthenticated": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

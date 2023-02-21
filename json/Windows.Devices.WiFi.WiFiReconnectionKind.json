@@ -1,0 +1,14 @@
+{
+  "Name": "WiFiReconnectionKind",
+  "Namespace": "Windows.Devices.WiFi",
+  "Values": {
+    "Automatic": 0,
+    "Manual": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

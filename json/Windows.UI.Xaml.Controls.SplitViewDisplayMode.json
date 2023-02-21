@@ -1,0 +1,16 @@
+{
+  "Name": "SplitViewDisplayMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Overlay": 0,
+    "Inline": 1,
+    "CompactOverlay": 2,
+    "CompactInline": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

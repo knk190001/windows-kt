@@ -1,0 +1,29 @@
+{
+  "Name": "TappedRoutedEventArgs",
+  "Namespace": "Windows.UI.Xaml.Input",
+  "Interfaces": [
+    {
+      "Name": "ITappedRoutedEventArgs",
+      "Namespace": "Windows.UI.Xaml.Input",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "TraitType": "DirectActivation"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "ITappedRoutedEventArgs",
+        "Namespace": "Windows.UI.Xaml.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

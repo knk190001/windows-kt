@@ -1,0 +1,17 @@
+{
+  "Name": "NotificationKinds",
+  "Namespace": "Windows.UI.Notifications",
+  "Values": {
+    "Unknown": 0,
+    "Toast": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

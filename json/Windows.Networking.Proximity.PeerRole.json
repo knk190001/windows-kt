@@ -1,0 +1,15 @@
+{
+  "Name": "PeerRole",
+  "Namespace": "Windows.Networking.Proximity",
+  "Values": {
+    "Peer": 0,
+    "Host": 1,
+    "Client": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

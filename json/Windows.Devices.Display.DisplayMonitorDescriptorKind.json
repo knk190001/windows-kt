@@ -1,0 +1,14 @@
+{
+  "Name": "DisplayMonitorDescriptorKind",
+  "Namespace": "Windows.Devices.Display",
+  "Values": {
+    "Edid": 0,
+    "DisplayId": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

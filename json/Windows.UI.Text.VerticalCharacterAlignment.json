@@ -1,0 +1,15 @@
+{
+  "Name": "VerticalCharacterAlignment",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Top": 0,
+    "Baseline": 1,
+    "Bottom": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "LaunchQuerySupportStatus",
+  "Namespace": "Windows.System",
+  "Values": {
+    "Available": 0,
+    "AppNotInstalled": 1,
+    "AppUnavailable": 2,
+    "NotSupported": 3,
+    "Unknown": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

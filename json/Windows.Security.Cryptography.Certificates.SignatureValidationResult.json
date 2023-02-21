@@ -1,0 +1,17 @@
+{
+  "Name": "SignatureValidationResult",
+  "Namespace": "Windows.Security.Cryptography.Certificates",
+  "Values": {
+    "Success": 0,
+    "InvalidParameter": 1,
+    "BadMessage": 2,
+    "InvalidSignature": 3,
+    "OtherErrors": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

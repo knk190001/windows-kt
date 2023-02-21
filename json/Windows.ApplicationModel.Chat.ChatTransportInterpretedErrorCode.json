@@ -1,0 +1,18 @@
+{
+  "Name": "ChatTransportInterpretedErrorCode",
+  "Namespace": "Windows.ApplicationModel.Chat",
+  "Values": {
+    "None": 0,
+    "Unknown": 1,
+    "InvalidRecipientAddress": 2,
+    "NetworkConnectivity": 3,
+    "ServiceDenied": 4,
+    "Timeout": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

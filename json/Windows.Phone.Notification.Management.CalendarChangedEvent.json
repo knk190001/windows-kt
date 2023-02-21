@@ -1,0 +1,19 @@
+{
+  "Name": "CalendarChangedEvent",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "LostEvents": 0,
+    "AppointmentAdded": 1,
+    "AppointmentChanged": 2,
+    "AppointmentDeleted": 3,
+    "CalendarAdded": 4,
+    "CalendarChanged": 5,
+    "CalendarDeleted": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

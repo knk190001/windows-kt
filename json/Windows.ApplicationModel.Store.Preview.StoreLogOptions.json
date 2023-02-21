@@ -1,0 +1,17 @@
+{
+  "Name": "StoreLogOptions",
+  "Namespace": "Windows.ApplicationModel.Store.Preview",
+  "Values": {
+    "None": 0,
+    "TryElevate": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

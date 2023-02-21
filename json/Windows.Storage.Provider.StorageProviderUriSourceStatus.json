@@ -1,0 +1,15 @@
+{
+  "Name": "StorageProviderUriSourceStatus",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "Success": 0,
+    "NoSyncRoot": 1,
+    "FileNotFound": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

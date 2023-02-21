@@ -1,0 +1,14 @@
+{
+  "Name": "CustomSystemEventTriggerRecurrence",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "Once": 0,
+    "Always": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

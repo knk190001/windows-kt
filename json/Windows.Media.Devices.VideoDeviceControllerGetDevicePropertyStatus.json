@@ -1,0 +1,19 @@
+{
+  "Name": "VideoDeviceControllerGetDevicePropertyStatus",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Success": 0,
+    "UnknownFailure": 1,
+    "BufferTooSmall": 2,
+    "NotSupported": 3,
+    "DeviceNotAvailable": 4,
+    "MaxPropertyValueSizeTooSmall": 5,
+    "MaxPropertyValueSizeRequired": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

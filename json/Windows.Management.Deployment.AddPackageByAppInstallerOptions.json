@@ -1,0 +1,20 @@
+{
+  "Name": "AddPackageByAppInstallerOptions",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "None": 0,
+    "InstallAllResources": 32,
+    "ForceTargetAppShutdown": 64,
+    "RequiredContentGroupOnly": 256,
+    "LimitToExistingPackages": 512
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "RemoteSystemSessionMessageChannelReliability",
+  "Namespace": "Windows.System.RemoteSystems",
+  "Values": {
+    "Reliable": 0,
+    "Unreliable": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

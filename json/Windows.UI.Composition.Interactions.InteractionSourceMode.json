@@ -1,0 +1,15 @@
+{
+  "Name": "InteractionSourceMode",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Values": {
+    "Disabled": 0,
+    "EnabledWithInertia": 1,
+    "EnabledWithoutInertia": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

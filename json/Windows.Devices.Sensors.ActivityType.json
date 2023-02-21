@@ -1,0 +1,20 @@
+{
+  "Name": "ActivityType",
+  "Namespace": "Windows.Devices.Sensors",
+  "Values": {
+    "Unknown": 0,
+    "Idle": 1,
+    "Stationary": 2,
+    "Fidgeting": 3,
+    "Walking": 4,
+    "Running": 5,
+    "InVehicle": 6,
+    "Biking": 7
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

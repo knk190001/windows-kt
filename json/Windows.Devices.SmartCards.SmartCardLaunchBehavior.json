@@ -1,0 +1,14 @@
+{
+  "Name": "SmartCardLaunchBehavior",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Default": 0,
+    "AboveLock": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

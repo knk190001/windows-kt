@@ -1,0 +1,21 @@
+{
+  "Name": "IChatMessageChangedEventArgs",
+  "Namespace": "Windows.ApplicationModel.Chat",
+  "Guid": "b6b73e2d691c4edf86606eb9896892e3",
+  "Methods": [
+    {
+      "Name": "GetDeferral",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "ChatMessageChangedDeferral",
+        "Namespace": "Windows.ApplicationModel.Chat",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "SmartCardEmulatorConnectionSource",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Unknown": 0,
+    "NfcReader": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

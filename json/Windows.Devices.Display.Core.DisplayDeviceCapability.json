@@ -1,0 +1,13 @@
+{
+  "Name": "DisplayDeviceCapability",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "FlipOverride": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

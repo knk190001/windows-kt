@@ -1,0 +1,18 @@
+{
+  "Name": "SharedPackageContainerOperationStatus",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "Success": 0,
+    "BlockedByPolicy": 1,
+    "AlreadyExists": 2,
+    "PackageFamilyExistsInAnotherContainer": 3,
+    "NotFound": 4,
+    "UnknownFailure": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

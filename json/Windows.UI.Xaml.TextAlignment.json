@@ -1,0 +1,19 @@
+{
+  "Name": "TextAlignment",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Center": 0,
+    "Left": 1,
+    "Start": 1,
+    "Right": 2,
+    "End": 2,
+    "Justify": 3,
+    "DetectFromContent": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

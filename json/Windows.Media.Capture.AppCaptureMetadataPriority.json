@@ -1,0 +1,14 @@
+{
+  "Name": "AppCaptureMetadataPriority",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Informational": 0,
+    "Important": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

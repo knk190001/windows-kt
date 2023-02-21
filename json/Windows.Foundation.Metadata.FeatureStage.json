@@ -1,0 +1,16 @@
+{
+  "Name": "FeatureStage",
+  "Namespace": "Windows.Foundation.Metadata",
+  "Values": {
+    "AlwaysDisabled": 0,
+    "DisabledByDefault": 1,
+    "EnabledByDefault": 2,
+    "AlwaysEnabled": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

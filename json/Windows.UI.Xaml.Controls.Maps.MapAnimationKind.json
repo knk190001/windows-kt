@@ -1,0 +1,16 @@
+{
+  "Name": "MapAnimationKind",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Default": 0,
+    "None": 1,
+    "Linear": 2,
+    "Bow": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

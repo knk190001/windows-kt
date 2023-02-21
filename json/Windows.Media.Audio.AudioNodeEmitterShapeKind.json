@@ -1,0 +1,14 @@
+{
+  "Name": "AudioNodeEmitterShapeKind",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "Omnidirectional": 0,
+    "Cone": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

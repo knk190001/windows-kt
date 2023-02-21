@@ -1,0 +1,18 @@
+{
+  "Name": "PrintColorMode",
+  "Namespace": "Windows.Graphics.Printing",
+  "Values": {
+    "Default": 0,
+    "NotAvailable": 1,
+    "PrinterCustom": 2,
+    "Color": 3,
+    "Grayscale": 4,
+    "Monochrome": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

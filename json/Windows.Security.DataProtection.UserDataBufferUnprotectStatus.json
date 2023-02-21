@@ -1,0 +1,14 @@
+{
+  "Name": "UserDataBufferUnprotectStatus",
+  "Namespace": "Windows.Security.DataProtection",
+  "Values": {
+    "Succeeded": 0,
+    "Unavailable": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

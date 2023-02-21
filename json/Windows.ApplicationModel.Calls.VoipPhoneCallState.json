@@ -1,0 +1,17 @@
+{
+  "Name": "VoipPhoneCallState",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Ended": 0,
+    "Held": 1,
+    "Active": 2,
+    "Incoming": 3,
+    "Outgoing": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

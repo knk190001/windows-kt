@@ -1,0 +1,14 @@
+{
+  "Name": "ZoomMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Disabled": 0,
+    "Enabled": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

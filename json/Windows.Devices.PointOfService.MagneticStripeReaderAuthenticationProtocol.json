@@ -1,0 +1,14 @@
+{
+  "Name": "MagneticStripeReaderAuthenticationProtocol",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "None": 0,
+    "ChallengeResponse": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

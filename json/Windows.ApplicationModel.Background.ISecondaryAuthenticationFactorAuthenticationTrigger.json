@@ -1,0 +1,9 @@
+{
+  "Name": "ISecondaryAuthenticationFactorAuthenticationTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "f237f32751814f2496a7700a4e5fac62",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

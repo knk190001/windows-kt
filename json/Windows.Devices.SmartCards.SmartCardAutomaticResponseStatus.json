@@ -1,0 +1,15 @@
+{
+  "Name": "SmartCardAutomaticResponseStatus",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "None": 0,
+    "Success": 1,
+    "UnknownError": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

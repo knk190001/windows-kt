@@ -1,0 +1,15 @@
+{
+  "Name": "ScrollMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Disabled": 0,
+    "Enabled": 1,
+    "Auto": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

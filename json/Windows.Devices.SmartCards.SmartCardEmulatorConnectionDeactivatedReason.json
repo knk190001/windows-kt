@@ -1,0 +1,14 @@
+{
+  "Name": "SmartCardEmulatorConnectionDeactivatedReason",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "ConnectionLost": 0,
+    "ConnectionRedirected": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

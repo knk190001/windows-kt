@@ -1,0 +1,17 @@
+{
+  "Name": "StorePurchaseStatus",
+  "Namespace": "Windows.Services.Store",
+  "Values": {
+    "Succeeded": 0,
+    "AlreadyPurchased": 1,
+    "NotPurchased": 2,
+    "NetworkError": 3,
+    "ServerError": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

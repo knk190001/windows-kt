@@ -1,0 +1,20 @@
+{
+  "Name": "SelectionOptions",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "StartActive": 1,
+    "AtEndOfLine": 2,
+    "Overtype": 4,
+    "Active": 8,
+    "Replace": 16
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

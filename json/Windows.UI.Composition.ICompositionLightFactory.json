@@ -1,0 +1,9 @@
+{
+  "Name": "ICompositionLightFactory",
+  "Namespace": "Windows.UI.Composition",
+  "Guid": "069cf306da3c4b44838a5e03d51ace55",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

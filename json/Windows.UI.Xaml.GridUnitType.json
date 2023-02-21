@@ -1,0 +1,15 @@
+{
+  "Name": "GridUnitType",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Auto": 0,
+    "Pixel": 1,
+    "Star": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

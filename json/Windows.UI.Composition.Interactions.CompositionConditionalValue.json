@@ -1,0 +1,35 @@
+{
+  "Name": "CompositionConditionalValue",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Interfaces": [
+    {
+      "Name": "ICompositionConditionalValue",
+      "Namespace": "Windows.UI.Composition.Interactions",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "Interfaces": [
+        {
+          "Name": "ICompositionConditionalValueStatics",
+          "Namespace": "Windows.UI.Composition.Interactions"
+        }
+      ],
+      "TraitType": "Static"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "ICompositionConditionalValue",
+        "Namespace": "Windows.UI.Composition.Interactions",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

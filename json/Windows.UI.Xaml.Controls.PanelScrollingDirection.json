@@ -1,0 +1,15 @@
+{
+  "Name": "PanelScrollingDirection",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "None": 0,
+    "Forward": 1,
+    "Backward": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

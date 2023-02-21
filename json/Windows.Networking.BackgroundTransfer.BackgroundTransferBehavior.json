@@ -1,0 +1,14 @@
+{
+  "Name": "BackgroundTransferBehavior",
+  "Namespace": "Windows.Networking.BackgroundTransfer",
+  "Values": {
+    "Parallel": 0,
+    "Serialized": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

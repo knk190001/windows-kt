@@ -1,0 +1,18 @@
+{
+  "Name": "MapManeuverNotices",
+  "Namespace": "Windows.Services.Maps",
+  "Values": {
+    "None": 0,
+    "Toll": 1,
+    "Unpaved": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

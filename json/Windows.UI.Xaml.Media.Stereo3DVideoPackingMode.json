@@ -1,0 +1,15 @@
+{
+  "Name": "Stereo3DVideoPackingMode",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "None": 0,
+    "SideBySide": 1,
+    "TopBottom": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

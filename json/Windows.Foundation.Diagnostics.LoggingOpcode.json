@@ -1,0 +1,19 @@
+{
+  "Name": "LoggingOpcode",
+  "Namespace": "Windows.Foundation.Diagnostics",
+  "Values": {
+    "Info": 0,
+    "Start": 1,
+    "Stop": 2,
+    "Reply": 6,
+    "Resume": 7,
+    "Suspend": 8,
+    "Send": 9
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

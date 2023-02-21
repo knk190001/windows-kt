@@ -1,0 +1,36 @@
+{
+  "Name": "VisualState",
+  "Namespace": "Windows.UI.Xaml",
+  "Interfaces": [
+    {
+      "Name": "IVisualState",
+      "Namespace": "Windows.UI.Xaml",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IVisualState2",
+      "Namespace": "Windows.UI.Xaml",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "TraitType": "DirectActivation"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "IVisualState",
+        "Namespace": "Windows.UI.Xaml",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

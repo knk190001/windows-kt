@@ -1,0 +1,14 @@
+{
+  "Name": "SpatialInteractionSourcePositionAccuracy",
+  "Namespace": "Windows.UI.Input.Spatial",
+  "Values": {
+    "High": 0,
+    "Approximate": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

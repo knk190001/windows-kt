@@ -1,0 +1,16 @@
+{
+  "Name": "ConnectionProfileDeleteStatus",
+  "Namespace": "Windows.Networking.Connectivity",
+  "Values": {
+    "Success": 0,
+    "DeniedByUser": 1,
+    "DeniedBySystem": 2,
+    "UnknownError": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

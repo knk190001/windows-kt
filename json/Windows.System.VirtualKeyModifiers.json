@@ -1,0 +1,20 @@
+{
+  "Name": "VirtualKeyModifiers",
+  "Namespace": "Windows.System",
+  "Values": {
+    "None": 0,
+    "Control": 1,
+    "Menu": 2,
+    "Shift": 4,
+    "Windows": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "PrintTicketValueType",
+  "Namespace": "Windows.Graphics.Printing.PrintTicket",
+  "Values": {
+    "Integer": 0,
+    "String": 1,
+    "Unknown": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ReadActivationMode",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "NotNeeded": 0,
+    "BeforeAccess": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "AnimationStopBehavior",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "LeaveCurrentValue": 0,
+    "SetToInitialValue": 1,
+    "SetToFinalValue": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "AnimationDirection",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Normal": 0,
+    "Reverse": 1,
+    "Alternate": 2,
+    "AlternateReverse": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "ContactStoreAccessType",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "AppContactsReadWrite": 0,
+    "AllContactsReadOnly": 1,
+    "AllContactsReadWrite": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "AppResourceGroupExecutionState",
+  "Namespace": "Windows.System",
+  "Values": {
+    "Unknown": 0,
+    "Running": 1,
+    "Suspending": 2,
+    "Suspended": 3,
+    "NotRunning": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ShutdownKind",
+  "Namespace": "Windows.System",
+  "Values": {
+    "Shutdown": 0,
+    "Restart": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

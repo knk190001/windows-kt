@@ -1,0 +1,17 @@
+{
+  "Name": "RangeGravity",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "UIBehavior": 0,
+    "Backward": 1,
+    "Forward": 2,
+    "Inward": 3,
+    "Outward": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

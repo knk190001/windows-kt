@@ -1,0 +1,14 @@
+{
+  "Name": "DtmfToneAudioPlayback",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Play": 0,
+    "DoNotPlay": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

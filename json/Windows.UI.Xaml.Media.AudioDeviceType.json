@@ -1,0 +1,15 @@
+{
+  "Name": "AudioDeviceType",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Console": 0,
+    "Multimedia": 1,
+    "Communications": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

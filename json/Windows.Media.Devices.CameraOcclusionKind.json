@@ -1,0 +1,14 @@
+{
+  "Name": "CameraOcclusionKind",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Lid": 0,
+    "CameraHardware": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

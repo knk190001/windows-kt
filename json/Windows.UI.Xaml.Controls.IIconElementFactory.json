@@ -1,0 +1,9 @@
+{
+  "Name": "IIconElementFactory",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Guid": "cf37a562042443c78bea720fba973ef1",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

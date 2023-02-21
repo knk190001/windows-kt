@@ -1,0 +1,21 @@
+{
+  "Name": "IWebAuthenticationBrokerContinuationEventArgs",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "75dda3d47714453db7ffb95e3a1709da",
+  "Methods": [
+    {
+      "Name": "get_WebAuthenticationResult",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "WebAuthenticationResult",
+        "Namespace": "Windows.Security.Authentication.Web",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "AutomationLiveSetting",
+  "Namespace": "Windows.UI.Xaml.Automation.Peers",
+  "Values": {
+    "Off": 0,
+    "Polite": 1,
+    "Assertive": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

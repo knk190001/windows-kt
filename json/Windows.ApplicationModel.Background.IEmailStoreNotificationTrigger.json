@@ -1,0 +1,9 @@
+{
+  "Name": "IEmailStoreNotificationTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "986d06da47eb4268a4f2f3f77188388a",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

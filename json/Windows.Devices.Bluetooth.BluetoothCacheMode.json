@@ -1,0 +1,14 @@
+{
+  "Name": "BluetoothCacheMode",
+  "Namespace": "Windows.Devices.Bluetooth",
+  "Values": {
+    "Cached": 0,
+    "Uncached": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

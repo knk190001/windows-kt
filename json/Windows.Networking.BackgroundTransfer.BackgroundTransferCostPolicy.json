@@ -1,0 +1,15 @@
+{
+  "Name": "BackgroundTransferCostPolicy",
+  "Namespace": "Windows.Networking.BackgroundTransfer",
+  "Values": {
+    "Default": 0,
+    "UnrestrictedOnly": 1,
+    "Always": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

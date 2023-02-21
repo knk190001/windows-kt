@@ -1,0 +1,14 @@
+{
+  "Name": "SpatialLookDirectionRange",
+  "Namespace": "Windows.Perception.Spatial",
+  "Values": {
+    "ForwardOnly": 0,
+    "Omnidirectional": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

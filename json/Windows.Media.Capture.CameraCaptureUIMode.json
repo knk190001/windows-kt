@@ -1,0 +1,15 @@
+{
+  "Name": "CameraCaptureUIMode",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "PhotoOrVideo": 0,
+    "Photo": 1,
+    "Video": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "PhoneNotificationType",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "NewCall": 0,
+    "CallChanged": 1,
+    "LineChanged": 2,
+    "PhoneCallAudioEndpointChanged": 3,
+    "PhoneMuteChanged": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

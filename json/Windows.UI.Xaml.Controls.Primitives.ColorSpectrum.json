@@ -1,0 +1,47 @@
+{
+  "Name": "ColorSpectrum",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Interfaces": [
+    {
+      "Name": "IColorSpectrum",
+      "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "Interfaces": [
+        {
+          "Name": "IColorSpectrumStatics",
+          "Namespace": "Windows.UI.Xaml.Controls.Primitives"
+        }
+      ],
+      "TraitType": "Static"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "IColorSpectrum",
+        "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    },
+    {
+      "CompositionFactoryTypes": [
+        {
+          "Name": "IColorSpectrumFactory",
+          "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+          "GenericParameters": null,
+          "IsArray": false,
+          "IsReference": false
+        }
+      ],
+      "TraitType": "CompositionActivation"
+    }
+  ],
+  "Type": "Class"
+}

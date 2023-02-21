@@ -1,0 +1,16 @@
+{
+  "Name": "CameraStreamState",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "NotStreaming": 0,
+    "Streaming": 1,
+    "BlockedForPrivacy": 2,
+    "Shutdown": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "IsolatedWindowsEnvironmentActivator",
+  "Namespace": "Windows.Security.Isolation",
+  "Values": {
+    "System": 0,
+    "User": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

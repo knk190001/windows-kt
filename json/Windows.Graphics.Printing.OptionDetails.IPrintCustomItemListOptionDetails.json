@@ -1,0 +1,44 @@
+{
+  "Name": "IPrintCustomItemListOptionDetails",
+  "Namespace": "Windows.Graphics.Printing.OptionDetails",
+  "Guid": "a5fafd8858f24ebdb90f51e4f2944c5d",
+  "Methods": [
+    {
+      "Name": "AddItem",
+      "Parameters": [
+        {
+          "Name": "itemId",
+          "Type": {
+            "Name": "String",
+            "Namespace": "System",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        },
+        {
+          "Name": "displayName",
+          "Type": {
+            "Name": "String",
+            "Namespace": "System",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "Void",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

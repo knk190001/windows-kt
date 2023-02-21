@@ -1,0 +1,15 @@
+{
+  "Name": "LineStackingStrategy",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "MaxHeight": 0,
+    "BlockLineHeight": 1,
+    "BaselineToBaseline": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

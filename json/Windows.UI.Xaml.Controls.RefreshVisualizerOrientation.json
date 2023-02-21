@@ -1,0 +1,16 @@
+{
+  "Name": "RefreshVisualizerOrientation",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Auto": 0,
+    "Normal": 1,
+    "Rotate90DegreesCounterclockwise": 2,
+    "Rotate270DegreesCounterclockwise": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

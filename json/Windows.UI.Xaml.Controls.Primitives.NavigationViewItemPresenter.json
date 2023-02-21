@@ -1,0 +1,47 @@
+{
+  "Name": "NavigationViewItemPresenter",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Interfaces": [
+    {
+      "Name": "INavigationViewItemPresenter",
+      "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "Interfaces": [
+        {
+          "Name": "INavigationViewItemPresenterStatics",
+          "Namespace": "Windows.UI.Xaml.Controls.Primitives"
+        }
+      ],
+      "TraitType": "Static"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "INavigationViewItemPresenter",
+        "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    },
+    {
+      "CompositionFactoryTypes": [
+        {
+          "Name": "INavigationViewItemPresenterFactory",
+          "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+          "GenericParameters": null,
+          "IsArray": false,
+          "IsReference": false
+        }
+      ],
+      "TraitType": "CompositionActivation"
+    }
+  ],
+  "Type": "Class"
+}

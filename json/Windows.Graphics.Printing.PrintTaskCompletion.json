@@ -1,0 +1,16 @@
+{
+  "Name": "PrintTaskCompletion",
+  "Namespace": "Windows.Graphics.Printing",
+  "Values": {
+    "Abandoned": 0,
+    "Canceled": 1,
+    "Failed": 2,
+    "Submitted": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

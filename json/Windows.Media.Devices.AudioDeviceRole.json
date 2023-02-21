@@ -1,0 +1,14 @@
+{
+  "Name": "AudioDeviceRole",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Default": 0,
+    "Communications": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

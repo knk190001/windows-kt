@@ -1,0 +1,17 @@
+{
+  "Name": "ApplicationExecutionState",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Values": {
+    "NotRunning": 0,
+    "Running": 1,
+    "Suspended": 2,
+    "Terminated": 3,
+    "ClosedByUser": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

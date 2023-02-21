@@ -1,0 +1,18 @@
+{
+  "Name": "ApplicationViewSwitchingOptions",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "Default": 0,
+    "SkipAnimation": 1,
+    "ConsolidateViews": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "ApplicationViewWindowingMode",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "Auto": 0,
+    "PreferredLaunchViewSize": 1,
+    "FullScreen": 2,
+    "CompactOverlay": 3,
+    "Maximized": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

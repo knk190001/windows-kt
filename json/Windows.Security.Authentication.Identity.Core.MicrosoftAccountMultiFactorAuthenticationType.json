@@ -1,0 +1,14 @@
+{
+  "Name": "MicrosoftAccountMultiFactorAuthenticationType",
+  "Namespace": "Windows.Security.Authentication.Identity.Core",
+  "Values": {
+    "User": 0,
+    "Device": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "GameBarCommandOrigin",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "ShortcutKey": 0,
+    "Cortana": 1,
+    "AppCommand": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

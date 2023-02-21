@@ -1,0 +1,17 @@
+{
+  "Name": "MagneticStripeReaderTrackIds",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "None": 0,
+    "Track1": 1,
+    "Track2": 2,
+    "Track3": 4,
+    "Track4": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

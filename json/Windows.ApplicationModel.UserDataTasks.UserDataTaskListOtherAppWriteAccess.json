@@ -1,0 +1,14 @@
+{
+  "Name": "UserDataTaskListOtherAppWriteAccess",
+  "Namespace": "Windows.ApplicationModel.UserDataTasks",
+  "Values": {
+    "Limited": 0,
+    "None": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

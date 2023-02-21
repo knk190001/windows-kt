@@ -1,0 +1,14 @@
+{
+  "Name": "FullScreenSystemOverlayMode",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "Standard": 0,
+    "Minimal": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

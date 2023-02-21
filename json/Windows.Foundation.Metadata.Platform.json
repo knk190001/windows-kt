@@ -1,0 +1,14 @@
+{
+  "Name": "Platform",
+  "Namespace": "Windows.Foundation.Metadata",
+  "Values": {
+    "Windows": 0,
+    "WindowsPhone": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

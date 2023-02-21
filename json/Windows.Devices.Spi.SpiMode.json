@@ -1,0 +1,16 @@
+{
+  "Name": "SpiMode",
+  "Namespace": "Windows.Devices.Spi",
+  "Values": {
+    "Mode0": 0,
+    "Mode1": 1,
+    "Mode2": 2,
+    "Mode3": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "UserDataTaskStoreAccessType",
+  "Namespace": "Windows.ApplicationModel.UserDataTasks",
+  "Values": {
+    "AppTasksReadWrite": 0,
+    "AllTasksLimitedReadWrite": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ProtectionPolicyRequestAccessBehavior",
+  "Namespace": "Windows.Security.EnterpriseData",
+  "Values": {
+    "Decrypt": 0,
+    "TreatOverridePolicyAsBlock": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "GraphicsCaptureAccessKind",
+  "Namespace": "Windows.Graphics.Capture",
+  "Values": {
+    "Borderless": 0,
+    "Programmatic": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

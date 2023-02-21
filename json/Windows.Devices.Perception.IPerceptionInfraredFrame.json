@@ -1,0 +1,21 @@
+{
+  "Name": "IPerceptionInfraredFrame",
+  "Namespace": "Windows.Devices.Perception",
+  "Guid": "b0886276849e4c7a8ae6b56064532153",
+  "Methods": [
+    {
+      "Name": "get_VideoFrame",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "VideoFrame",
+        "Namespace": "Windows.Media",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

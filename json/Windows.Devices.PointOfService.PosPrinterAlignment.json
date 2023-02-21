@@ -1,0 +1,15 @@
+{
+  "Name": "PosPrinterAlignment",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Left": 0,
+    "Center": 1,
+    "Right": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

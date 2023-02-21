@@ -1,0 +1,9 @@
+{
+  "Name": "IPenTailButtonLongPressedEventArgs",
+  "Namespace": "Windows.Devices.Input",
+  "Guid": "f37c606ec60a5f42b818a53112406c13",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

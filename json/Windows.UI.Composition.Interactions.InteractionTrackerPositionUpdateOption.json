@@ -1,0 +1,14 @@
+{
+  "Name": "InteractionTrackerPositionUpdateOption",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Values": {
+    "Default": 0,
+    "AllowActiveCustomScaleAnimation": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

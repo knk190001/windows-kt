@@ -1,0 +1,14 @@
+{
+  "Name": "AudioProcessing",
+  "Namespace": "Windows.Media",
+  "Values": {
+    "Default": 0,
+    "Raw": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

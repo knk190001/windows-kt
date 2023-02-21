@@ -1,0 +1,14 @@
+{
+  "Name": "MediaCapturePauseBehavior",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "RetainHardwareResources": 0,
+    "ReleaseHardwareResources": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

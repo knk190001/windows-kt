@@ -1,0 +1,15 @@
+{
+  "Name": "GradientSpreadMethod",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Pad": 0,
+    "Reflect": 1,
+    "Repeat": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

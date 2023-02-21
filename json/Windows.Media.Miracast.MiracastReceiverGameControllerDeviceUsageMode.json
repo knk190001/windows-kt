@@ -1,0 +1,14 @@
+{
+  "Name": "MiracastReceiverGameControllerDeviceUsageMode",
+  "Namespace": "Windows.Media.Miracast",
+  "Values": {
+    "AsGameController": 0,
+    "AsMouseAndKeyboard": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

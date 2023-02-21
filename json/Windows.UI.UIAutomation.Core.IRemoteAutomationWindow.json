@@ -1,0 +1,32 @@
+{
+  "Name": "IRemoteAutomationWindow",
+  "Namespace": "Windows.UI.UIAutomation.Core",
+  "Guid": "7c607689496d512a9bd5c050cfaf1428",
+  "Methods": [
+    {
+      "Name": "get_AutomationProvider",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "Object",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "UnregisterAsync",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "IAsyncAction",
+        "Namespace": "Windows.Foundation",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

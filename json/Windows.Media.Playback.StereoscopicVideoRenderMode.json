@@ -1,0 +1,14 @@
+{
+  "Name": "StereoscopicVideoRenderMode",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "Mono": 0,
+    "Stereo": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

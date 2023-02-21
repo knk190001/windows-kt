@@ -1,0 +1,16 @@
+{
+  "Name": "PrintWorkflowUICompletionStatus",
+  "Namespace": "Windows.Graphics.Printing.Workflow",
+  "Values": {
+    "Completed": 0,
+    "LaunchFailed": 1,
+    "JobFailed": 2,
+    "UserCanceled": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

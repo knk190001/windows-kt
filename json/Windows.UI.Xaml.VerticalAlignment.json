@@ -1,0 +1,16 @@
+{
+  "Name": "VerticalAlignment",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Top": 0,
+    "Center": 1,
+    "Bottom": 2,
+    "Stretch": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

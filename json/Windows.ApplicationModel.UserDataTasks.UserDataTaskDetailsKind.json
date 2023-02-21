@@ -1,0 +1,14 @@
+{
+  "Name": "UserDataTaskDetailsKind",
+  "Namespace": "Windows.ApplicationModel.UserDataTasks",
+  "Values": {
+    "PlainText": 0,
+    "Html": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

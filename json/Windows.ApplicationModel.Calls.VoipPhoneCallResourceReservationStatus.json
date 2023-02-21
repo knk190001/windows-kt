@@ -1,0 +1,14 @@
+{
+  "Name": "VoipPhoneCallResourceReservationStatus",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Success": 0,
+    "ResourcesNotAvailable": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

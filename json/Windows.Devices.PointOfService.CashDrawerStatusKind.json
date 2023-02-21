@@ -1,0 +1,17 @@
+{
+  "Name": "CashDrawerStatusKind",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Online": 0,
+    "Off": 1,
+    "Offline": 2,
+    "OffOrOffline": 3,
+    "Extended": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

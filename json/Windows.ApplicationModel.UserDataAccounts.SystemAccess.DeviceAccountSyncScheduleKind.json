@@ -1,0 +1,19 @@
+{
+  "Name": "DeviceAccountSyncScheduleKind",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts.SystemAccess",
+  "Values": {
+    "Manual": 0,
+    "Every15Minutes": 1,
+    "Every30Minutes": 2,
+    "Every60Minutes": 3,
+    "Every2Hours": 4,
+    "Daily": 5,
+    "AsItemsArrive": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

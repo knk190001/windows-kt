@@ -1,0 +1,16 @@
+{
+  "Name": "UIStatus",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "Unavailable": 0,
+    "Hidden": 1,
+    "Visible": 2,
+    "Complete": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

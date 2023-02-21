@@ -1,0 +1,14 @@
+{
+  "Name": "UserActivityState",
+  "Namespace": "Windows.ApplicationModel.UserActivities",
+  "Values": {
+    "New": 0,
+    "Published": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "MobileBroadbandRadioState",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Off": 0,
+    "On": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

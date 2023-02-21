@@ -1,0 +1,14 @@
+{
+  "Name": "TimedTextScrollMode",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Popon": 0,
+    "Rollup": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

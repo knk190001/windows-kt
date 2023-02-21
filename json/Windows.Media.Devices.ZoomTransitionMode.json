@@ -1,0 +1,15 @@
+{
+  "Name": "ZoomTransitionMode",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Auto": 0,
+    "Direct": 1,
+    "Smooth": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

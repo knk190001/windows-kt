@@ -1,0 +1,17 @@
+{
+  "Name": "AudioNodeEmitterSettings",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "None": 0,
+    "DisableDoppler": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

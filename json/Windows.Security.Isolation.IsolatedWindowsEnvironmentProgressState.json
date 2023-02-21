@@ -1,0 +1,15 @@
+{
+  "Name": "IsolatedWindowsEnvironmentProgressState",
+  "Namespace": "Windows.Security.Isolation",
+  "Values": {
+    "Queued": 0,
+    "Processing": 1,
+    "Completed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

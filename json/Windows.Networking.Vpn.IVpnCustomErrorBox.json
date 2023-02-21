@@ -1,0 +1,9 @@
+{
+  "Name": "IVpnCustomErrorBox",
+  "Namespace": "Windows.Networking.Vpn",
+  "Guid": "9ec4efb2c94242afb223588b48328721",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

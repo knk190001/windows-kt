@@ -1,0 +1,9 @@
+{
+  "Name": "ISpatialBoundingVolume",
+  "Namespace": "Windows.Perception.Spatial",
+  "Guid": "fb2065da68c333dfb7af4c787207999c",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

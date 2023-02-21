@@ -1,0 +1,14 @@
+{
+  "Name": "Capi1KdfTargetAlgorithm",
+  "Namespace": "Windows.Security.Cryptography.Core",
+  "Values": {
+    "NotAes": 0,
+    "Aes": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

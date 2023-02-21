@@ -1,0 +1,15 @@
+{
+  "Name": "EmailBatchStatus",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "Success": 0,
+    "ServerSearchSyncManagerError": 1,
+    "ServerSearchUnknownError": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

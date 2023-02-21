@@ -1,0 +1,15 @@
+{
+  "Name": "TargetedContentAvailability",
+  "Namespace": "Windows.Services.TargetedContent",
+  "Values": {
+    "None": 0,
+    "Partial": 1,
+    "All": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "AutoFocusRange",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "FullRange": 0,
+    "Macro": 1,
+    "Normal": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

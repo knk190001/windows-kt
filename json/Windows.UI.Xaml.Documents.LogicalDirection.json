@@ -1,0 +1,14 @@
+{
+  "Name": "LogicalDirection",
+  "Namespace": "Windows.UI.Xaml.Documents",
+  "Values": {
+    "Backward": 0,
+    "Forward": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

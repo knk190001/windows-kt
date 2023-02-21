@@ -1,0 +1,9 @@
+{
+  "Name": "IPlayReadyRevocationServiceRequest",
+  "Namespace": "Windows.Media.Protection.PlayReady",
+  "Guid": "543d66acfaf0456084a50e4acec939e4",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

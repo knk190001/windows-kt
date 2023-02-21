@@ -1,0 +1,17 @@
+{
+  "Name": "AudioDeviceNodeCreationStatus",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "Success": 0,
+    "DeviceNotAvailable": 1,
+    "FormatNotSupported": 2,
+    "UnknownFailure": 3,
+    "AccessDenied": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

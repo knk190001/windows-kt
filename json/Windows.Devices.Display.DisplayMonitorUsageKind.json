@@ -1,0 +1,15 @@
+{
+  "Name": "DisplayMonitorUsageKind",
+  "Namespace": "Windows.Devices.Display",
+  "Values": {
+    "Standard": 0,
+    "HeadMounted": 1,
+    "SpecialPurpose": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

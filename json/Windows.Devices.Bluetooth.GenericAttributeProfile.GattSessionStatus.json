@@ -1,0 +1,14 @@
+{
+  "Name": "GattSessionStatus",
+  "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+  "Values": {
+    "Closed": 0,
+    "Active": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

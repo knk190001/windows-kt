@@ -1,0 +1,15 @@
+{
+  "Name": "PaymentOptionPresence",
+  "Namespace": "Windows.ApplicationModel.Payments",
+  "Values": {
+    "None": 0,
+    "Optional": 1,
+    "Required": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

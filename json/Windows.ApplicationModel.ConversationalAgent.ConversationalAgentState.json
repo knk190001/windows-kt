@@ -1,0 +1,18 @@
+{
+  "Name": "ConversationalAgentState",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "Inactive": 0,
+    "Detecting": 1,
+    "Listening": 2,
+    "Working": 3,
+    "Speaking": 4,
+    "ListeningAndSpeaking": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

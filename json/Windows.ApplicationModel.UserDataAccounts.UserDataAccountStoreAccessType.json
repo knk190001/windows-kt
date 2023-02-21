@@ -1,0 +1,14 @@
+{
+  "Name": "UserDataAccountStoreAccessType",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts",
+  "Values": {
+    "AllAccountsReadOnly": 0,
+    "AppAccountsReadWrite": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

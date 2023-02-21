@@ -1,0 +1,9 @@
+{
+  "Name": "IInkToolbarHighlighterButton",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Guid": "0b3cc15b7abf487eacc15b5048fee6d2",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

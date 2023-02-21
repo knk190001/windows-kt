@@ -1,0 +1,15 @@
+{
+  "Name": "CompositionBorderMode",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Inherit": 0,
+    "Soft": 1,
+    "Hard": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

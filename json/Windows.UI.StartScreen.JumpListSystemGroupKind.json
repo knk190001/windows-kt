@@ -1,0 +1,15 @@
+{
+  "Name": "JumpListSystemGroupKind",
+  "Namespace": "Windows.UI.StartScreen",
+  "Values": {
+    "None": 0,
+    "Frequent": 1,
+    "Recent": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

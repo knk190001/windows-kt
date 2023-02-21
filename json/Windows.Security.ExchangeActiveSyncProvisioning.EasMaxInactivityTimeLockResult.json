@@ -1,0 +1,17 @@
+{
+  "Name": "EasMaxInactivityTimeLockResult",
+  "Namespace": "Windows.Security.ExchangeActiveSyncProvisioning",
+  "Values": {
+    "NotEvaluated": 0,
+    "Compliant": 1,
+    "CanBeCompliant": 2,
+    "RequestedPolicyIsStricter": 3,
+    "InvalidParameter": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "AutomationCaretBidiMode",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "LTR": 0,
+    "RTL": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

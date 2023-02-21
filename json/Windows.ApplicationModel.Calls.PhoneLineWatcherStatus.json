@@ -1,0 +1,16 @@
+{
+  "Name": "PhoneLineWatcherStatus",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Created": 0,
+    "Started": 1,
+    "EnumerationCompleted": 2,
+    "Stopped": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

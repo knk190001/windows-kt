@@ -1,0 +1,20 @@
+{
+  "Name": "ESimProfileMetadataState",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Unknown": 0,
+    "WaitingForInstall": 1,
+    "Downloading": 2,
+    "Installing": 3,
+    "Expired": 4,
+    "RejectingDownload": 5,
+    "NoLongerAvailable": 6,
+    "DeniedByPolicy": 7
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

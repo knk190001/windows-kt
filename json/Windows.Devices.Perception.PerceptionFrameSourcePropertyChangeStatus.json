@@ -1,0 +1,18 @@
+{
+  "Name": "PerceptionFrameSourcePropertyChangeStatus",
+  "Namespace": "Windows.Devices.Perception",
+  "Values": {
+    "Unknown": 0,
+    "Accepted": 1,
+    "LostControl": 2,
+    "PropertyNotSupported": 3,
+    "PropertyReadOnly": 4,
+    "ValueOutOfRange": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

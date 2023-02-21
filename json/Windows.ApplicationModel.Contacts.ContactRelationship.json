@@ -1,0 +1,18 @@
+{
+  "Name": "ContactRelationship",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Other": 0,
+    "Spouse": 1,
+    "Partner": 2,
+    "Sibling": 3,
+    "Parent": 4,
+    "Child": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

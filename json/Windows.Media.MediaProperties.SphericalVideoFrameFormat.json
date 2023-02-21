@@ -1,0 +1,15 @@
+{
+  "Name": "SphericalVideoFrameFormat",
+  "Namespace": "Windows.Media.MediaProperties",
+  "Values": {
+    "None": 0,
+    "Unsupported": 1,
+    "Equirectangular": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

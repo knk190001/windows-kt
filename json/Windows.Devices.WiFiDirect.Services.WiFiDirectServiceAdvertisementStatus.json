@@ -1,0 +1,16 @@
+{
+  "Name": "WiFiDirectServiceAdvertisementStatus",
+  "Namespace": "Windows.Devices.WiFiDirect.Services",
+  "Values": {
+    "Created": 0,
+    "Started": 1,
+    "Stopped": 2,
+    "Aborted": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

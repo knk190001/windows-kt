@@ -1,0 +1,16 @@
+{
+  "Name": "DisplayTargetPersistence",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "None": 0,
+    "BootPersisted": 1,
+    "TemporaryPersisted": 2,
+    "PathPersisted": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

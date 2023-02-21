@@ -1,0 +1,18 @@
+{
+  "Name": "SmartCardReaderKind",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Any": 0,
+    "Generic": 1,
+    "Tpm": 2,
+    "Nfc": 3,
+    "Uicc": 4,
+    "EmbeddedSE": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

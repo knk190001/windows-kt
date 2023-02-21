@@ -1,0 +1,15 @@
+{
+  "Name": "HorizontalCharacterAlignment",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Left": 0,
+    "Right": 1,
+    "Center": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

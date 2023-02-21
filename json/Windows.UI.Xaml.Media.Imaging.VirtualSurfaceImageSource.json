@@ -1,0 +1,38 @@
+{
+  "Name": "VirtualSurfaceImageSource",
+  "Namespace": "Windows.UI.Xaml.Media.Imaging",
+  "Interfaces": [
+    {
+      "Name": "IVirtualSurfaceImageSource",
+      "Namespace": "Windows.UI.Xaml.Media.Imaging",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IVirtualSurfaceImageSource",
+        "Namespace": "Windows.UI.Xaml.Media.Imaging",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    },
+    {
+      "FactoryTypes": [
+        {
+          "Name": "IVirtualSurfaceImageSourceFactory",
+          "Namespace": "Windows.UI.Xaml.Media.Imaging",
+          "GenericParameters": null,
+          "IsArray": false,
+          "IsReference": false
+        }
+      ],
+      "TraitType": "FactoryActivation"
+    }
+  ],
+  "Type": "Class"
+}

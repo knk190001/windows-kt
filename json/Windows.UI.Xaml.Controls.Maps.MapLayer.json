@@ -1,0 +1,47 @@
+{
+  "Name": "MapLayer",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Interfaces": [
+    {
+      "Name": "IMapLayer",
+      "Namespace": "Windows.UI.Xaml.Controls.Maps",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "Interfaces": [
+        {
+          "Name": "IMapLayerStatics",
+          "Namespace": "Windows.UI.Xaml.Controls.Maps"
+        }
+      ],
+      "TraitType": "Static"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "IMapLayer",
+        "Namespace": "Windows.UI.Xaml.Controls.Maps",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    },
+    {
+      "CompositionFactoryTypes": [
+        {
+          "Name": "IMapLayerFactory",
+          "Namespace": "Windows.UI.Xaml.Controls.Maps",
+          "GenericParameters": null,
+          "IsArray": false,
+          "IsReference": false
+        }
+      ],
+      "TraitType": "CompositionActivation"
+    }
+  ],
+  "Type": "Class"
+}

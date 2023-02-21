@@ -1,0 +1,14 @@
+{
+  "Name": "WiFiDirectPairingProcedure",
+  "Namespace": "Windows.Devices.WiFiDirect",
+  "Values": {
+    "GroupOwnerNegotiation": 0,
+    "Invitation": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

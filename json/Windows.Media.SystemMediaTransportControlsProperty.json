@@ -1,0 +1,13 @@
+{
+  "Name": "SystemMediaTransportControlsProperty",
+  "Namespace": "Windows.Media",
+  "Values": {
+    "SoundLevel": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

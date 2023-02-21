@@ -1,0 +1,40 @@
+{
+  "Name": "KeyRoutedEventArgs",
+  "Namespace": "Windows.UI.Xaml.Input",
+  "Interfaces": [
+    {
+      "Name": "IKeyRoutedEventArgs",
+      "Namespace": "Windows.UI.Xaml.Input",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IKeyRoutedEventArgs2",
+      "Namespace": "Windows.UI.Xaml.Input",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IKeyRoutedEventArgs3",
+      "Namespace": "Windows.UI.Xaml.Input",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IKeyRoutedEventArgs",
+        "Namespace": "Windows.UI.Xaml.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

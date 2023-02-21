@@ -1,0 +1,15 @@
+{
+  "Name": "WindowingEnvironmentKind",
+  "Namespace": "Windows.UI.WindowManagement",
+  "Values": {
+    "Unknown": 0,
+    "Overlapped": 1,
+    "Tiled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

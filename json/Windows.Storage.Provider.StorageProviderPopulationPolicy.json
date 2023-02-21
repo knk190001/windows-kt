@@ -1,0 +1,14 @@
+{
+  "Name": "StorageProviderPopulationPolicy",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "Full": 1,
+    "AlwaysFull": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

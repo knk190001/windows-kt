@@ -1,0 +1,17 @@
+{
+  "Name": "MessageDialogOptions",
+  "Namespace": "Windows.UI.Popups",
+  "Values": {
+    "None": 0,
+    "AcceptUserInputAfterDelay": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

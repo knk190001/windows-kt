@@ -1,0 +1,20 @@
+{
+  "Name": "AccessCacheOptions",
+  "Namespace": "Windows.Storage.AccessCache",
+  "Values": {
+    "None": 0,
+    "DisallowUserInput": 1,
+    "FastLocationsOnly": 2,
+    "UseReadOnlyCachedCopy": 4,
+    "SuppressAccessTimeUpdate": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

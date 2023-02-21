@@ -1,0 +1,16 @@
+{
+  "Name": "StoreConsumableStatus",
+  "Namespace": "Windows.Services.Store",
+  "Values": {
+    "Succeeded": 0,
+    "InsufficentQuantity": 1,
+    "NetworkError": 2,
+    "ServerError": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

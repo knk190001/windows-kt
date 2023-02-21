@@ -1,0 +1,15 @@
+{
+  "Name": "XboxLiveNetworkAccessKind",
+  "Namespace": "Windows.Networking.XboxLive",
+  "Values": {
+    "Open": 0,
+    "Moderate": 1,
+    "Strict": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "SpatialAudioModel",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "ObjectBased": 0,
+    "FoldDown": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

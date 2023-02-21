@@ -1,0 +1,14 @@
+{
+  "Name": "GeneratorDirection",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Values": {
+    "Forward": 0,
+    "Backward": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

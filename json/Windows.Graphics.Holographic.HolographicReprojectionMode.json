@@ -1,0 +1,15 @@
+{
+  "Name": "HolographicReprojectionMode",
+  "Namespace": "Windows.Graphics.Holographic",
+  "Values": {
+    "PositionAndOrientation": 0,
+    "OrientationOnly": 1,
+    "Disabled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

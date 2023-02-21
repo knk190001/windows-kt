@@ -1,0 +1,15 @@
+{
+  "Name": "UserDataAvailability",
+  "Namespace": "Windows.Security.DataProtection",
+  "Values": {
+    "Always": 0,
+    "AfterFirstUnlock": 1,
+    "WhileUnlocked": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "GattSharingMode",
+  "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+  "Values": {
+    "Unspecified": 0,
+    "Exclusive": 1,
+    "SharedReadOnly": 2,
+    "SharedReadAndWrite": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

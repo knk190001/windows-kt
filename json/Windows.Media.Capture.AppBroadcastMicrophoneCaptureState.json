@@ -1,0 +1,15 @@
+{
+  "Name": "AppBroadcastMicrophoneCaptureState",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Stopped": 0,
+    "Started": 1,
+    "Failed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

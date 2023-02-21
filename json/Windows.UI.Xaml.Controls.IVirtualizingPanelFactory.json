@@ -1,0 +1,9 @@
+{
+  "Name": "IVirtualizingPanelFactory",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Guid": "be19f839cbd043e9a5d00bdba0ffbd38",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

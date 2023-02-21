@@ -1,0 +1,15 @@
+{
+  "Name": "RelativeSourceMode",
+  "Namespace": "Windows.UI.Xaml.Data",
+  "Values": {
+    "None": 0,
+    "TemplatedParent": 1,
+    "Self": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "INaturalMotionAnimationFactory",
+  "Namespace": "Windows.UI.Composition",
+  "Guid": "f53acb06cf6a4387a3fe5221f3e7e0e0",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "CastingPlaybackTypes",
+  "Namespace": "Windows.Media.Casting",
+  "Values": {
+    "None": 0,
+    "Audio": 1,
+    "Video": 2,
+    "Picture": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

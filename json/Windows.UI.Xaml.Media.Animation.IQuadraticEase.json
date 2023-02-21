@@ -1,0 +1,9 @@
+{
+  "Name": "IQuadraticEase",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Guid": "e1510e91ef6d44f0803d68d16de0ddfc",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

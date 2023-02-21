@@ -1,0 +1,15 @@
+{
+  "Name": "VpnDomainNameType",
+  "Namespace": "Windows.Networking.Vpn",
+  "Values": {
+    "Suffix": 0,
+    "FullyQualified": 1,
+    "Reserved": 65535
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

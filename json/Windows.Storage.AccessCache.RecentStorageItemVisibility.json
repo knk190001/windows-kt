@@ -1,0 +1,14 @@
+{
+  "Name": "RecentStorageItemVisibility",
+  "Namespace": "Windows.Storage.AccessCache",
+  "Values": {
+    "AppOnly": 0,
+    "AppAndSystem": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

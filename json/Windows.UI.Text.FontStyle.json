@@ -1,0 +1,15 @@
+{
+  "Name": "FontStyle",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Normal": 0,
+    "Oblique": 1,
+    "Italic": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

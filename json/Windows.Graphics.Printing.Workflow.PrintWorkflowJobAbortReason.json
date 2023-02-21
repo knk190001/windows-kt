@@ -1,0 +1,14 @@
+{
+  "Name": "PrintWorkflowJobAbortReason",
+  "Namespace": "Windows.Graphics.Printing.Workflow",
+  "Values": {
+    "JobFailed": 0,
+    "UserCanceled": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "CameraCaptureUIVideoFormat",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Mp4": 0,
+    "Wmv": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

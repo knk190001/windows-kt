@@ -1,0 +1,16 @@
+{
+  "Name": "InputActivationState",
+  "Namespace": "Windows.UI.Input",
+  "Values": {
+    "None": 0,
+    "Deactivated": 1,
+    "ActivatedNotForeground": 2,
+    "ActivatedInForeground": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

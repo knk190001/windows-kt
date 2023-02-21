@@ -1,0 +1,14 @@
+{
+  "Name": "JumpListItemKind",
+  "Namespace": "Windows.UI.StartScreen",
+  "Values": {
+    "Arguments": 0,
+    "Separator": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "MapPanInteractionMode",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Auto": 0,
+    "Disabled": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

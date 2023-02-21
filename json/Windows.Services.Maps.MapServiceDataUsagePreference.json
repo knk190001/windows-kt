@@ -1,0 +1,14 @@
+{
+  "Name": "MapServiceDataUsagePreference",
+  "Namespace": "Windows.Services.Maps",
+  "Values": {
+    "Default": 0,
+    "OfflineMapDataOnly": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

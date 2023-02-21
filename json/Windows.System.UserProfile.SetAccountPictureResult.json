@@ -1,0 +1,18 @@
+{
+  "Name": "SetAccountPictureResult",
+  "Namespace": "Windows.System.UserProfile",
+  "Values": {
+    "Success": 0,
+    "ChangeDisabled": 1,
+    "LargeOrDynamicError": 2,
+    "VideoFrameSizeError": 3,
+    "FileSizeError": 4,
+    "Failure": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

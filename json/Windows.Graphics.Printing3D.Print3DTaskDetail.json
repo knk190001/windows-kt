@@ -1,0 +1,19 @@
+{
+  "Name": "Print3DTaskDetail",
+  "Namespace": "Windows.Graphics.Printing3D",
+  "Values": {
+    "Unknown": 0,
+    "ModelExceedsPrintBed": 1,
+    "UploadFailed": 2,
+    "InvalidMaterialSelection": 3,
+    "InvalidModel": 4,
+    "ModelNotManifold": 5,
+    "InvalidPrintTicket": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

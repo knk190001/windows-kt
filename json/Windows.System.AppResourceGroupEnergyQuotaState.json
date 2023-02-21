@@ -1,0 +1,15 @@
+{
+  "Name": "AppResourceGroupEnergyQuotaState",
+  "Namespace": "Windows.System",
+  "Values": {
+    "Unknown": 0,
+    "Over": 1,
+    "Under": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

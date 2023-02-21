@@ -1,0 +1,14 @@
+{
+  "Name": "SpatialAnchorExportPurpose",
+  "Namespace": "Windows.Perception.Spatial",
+  "Values": {
+    "Relocalization": 0,
+    "Sharing": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

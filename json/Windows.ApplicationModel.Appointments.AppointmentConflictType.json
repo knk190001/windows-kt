@@ -1,0 +1,15 @@
+{
+  "Name": "AppointmentConflictType",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "None": 0,
+    "Adjacent": 1,
+    "Overlap": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

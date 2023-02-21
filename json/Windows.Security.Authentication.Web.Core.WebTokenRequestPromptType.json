@@ -1,0 +1,14 @@
+{
+  "Name": "WebTokenRequestPromptType",
+  "Namespace": "Windows.Security.Authentication.Web.Core",
+  "Values": {
+    "Default": 0,
+    "ForceAuthentication": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

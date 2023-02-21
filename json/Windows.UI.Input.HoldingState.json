@@ -1,0 +1,15 @@
+{
+  "Name": "HoldingState",
+  "Namespace": "Windows.UI.Input",
+  "Values": {
+    "Started": 0,
+    "Completed": 1,
+    "Canceled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

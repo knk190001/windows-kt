@@ -1,0 +1,14 @@
+{
+  "Name": "InteractionTrackerClampingOption",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Values": {
+    "Auto": 0,
+    "Disabled": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

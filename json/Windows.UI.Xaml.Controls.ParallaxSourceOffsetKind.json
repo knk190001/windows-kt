@@ -1,0 +1,14 @@
+{
+  "Name": "ParallaxSourceOffsetKind",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Absolute": 0,
+    "Relative": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

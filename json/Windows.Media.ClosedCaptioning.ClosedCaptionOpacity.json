@@ -1,0 +1,17 @@
+{
+  "Name": "ClosedCaptionOpacity",
+  "Namespace": "Windows.Media.ClosedCaptioning",
+  "Values": {
+    "Default": 0,
+    "OneHundredPercent": 1,
+    "SeventyFivePercent": 2,
+    "TwentyFivePercent": 3,
+    "ZeroPercent": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

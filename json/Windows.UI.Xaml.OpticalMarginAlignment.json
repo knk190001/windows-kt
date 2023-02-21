@@ -1,0 +1,14 @@
+{
+  "Name": "OpticalMarginAlignment",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "None": 0,
+    "TrimSideBearings": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

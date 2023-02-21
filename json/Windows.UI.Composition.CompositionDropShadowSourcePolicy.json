@@ -1,0 +1,14 @@
+{
+  "Name": "CompositionDropShadowSourcePolicy",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Default": 0,
+    "InheritFromVisualContent": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

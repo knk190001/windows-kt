@@ -1,0 +1,14 @@
+{
+  "Name": "HttpCompletionOption",
+  "Namespace": "Windows.Web.Http",
+  "Values": {
+    "ResponseContentRead": 0,
+    "ResponseHeadersRead": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

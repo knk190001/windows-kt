@@ -1,0 +1,14 @@
+{
+  "Name": "CandidateWindowAlignment",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Default": 0,
+    "BottomEdge": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

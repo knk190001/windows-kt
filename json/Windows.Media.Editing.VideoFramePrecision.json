@@ -1,0 +1,14 @@
+{
+  "Name": "VideoFramePrecision",
+  "Namespace": "Windows.Media.Editing",
+  "Values": {
+    "NearestFrame": 0,
+    "NearestKeyFrame": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

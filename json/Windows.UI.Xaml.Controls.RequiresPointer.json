@@ -1,0 +1,15 @@
+{
+  "Name": "RequiresPointer",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Never": 0,
+    "WhenEngaged": 1,
+    "WhenFocused": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

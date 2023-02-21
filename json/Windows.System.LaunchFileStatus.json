@@ -1,0 +1,17 @@
+{
+  "Name": "LaunchFileStatus",
+  "Namespace": "Windows.System",
+  "Values": {
+    "Success": 0,
+    "AppUnavailable": 1,
+    "DeniedByPolicy": 2,
+    "FileTypeNotSupported": 3,
+    "Unknown": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

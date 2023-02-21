@@ -1,0 +1,15 @@
+{
+  "Name": "PrintWorkflowPdlConversionType",
+  "Namespace": "Windows.Graphics.Printing.Workflow",
+  "Values": {
+    "XpsToPdf": 0,
+    "XpsToPwgr": 1,
+    "XpsToPclm": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

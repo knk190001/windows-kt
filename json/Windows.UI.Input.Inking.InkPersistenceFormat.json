@@ -1,0 +1,14 @@
+{
+  "Name": "InkPersistenceFormat",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "GifWithEmbeddedIsf": 0,
+    "Isf": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "EasEncryptionProviderType",
+  "Namespace": "Windows.Security.ExchangeActiveSyncProvisioning",
+  "Values": {
+    "NotEvaluated": 0,
+    "WindowsEncryption": 1,
+    "OtherEncryption": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

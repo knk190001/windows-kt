@@ -1,0 +1,14 @@
+{
+  "Name": "PlatformDiagnosticTracePriority",
+  "Namespace": "Windows.System.Diagnostics.TraceReporting",
+  "Values": {
+    "Normal": 0,
+    "UserElevated": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

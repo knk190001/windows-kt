@@ -1,0 +1,15 @@
+{
+  "Name": "InkRecognitionTarget",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "All": 0,
+    "Selected": 1,
+    "Recent": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

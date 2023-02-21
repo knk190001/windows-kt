@@ -1,0 +1,15 @@
+{
+  "Name": "DeviceWatcherEventKind",
+  "Namespace": "Windows.Devices.Enumeration",
+  "Values": {
+    "Add": 0,
+    "Update": 1,
+    "Remove": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

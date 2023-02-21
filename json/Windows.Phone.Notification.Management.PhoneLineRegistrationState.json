@@ -1,0 +1,15 @@
+{
+  "Name": "PhoneLineRegistrationState",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "Disconnected": 0,
+    "Home": 1,
+    "Roaming": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

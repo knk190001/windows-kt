@@ -1,0 +1,14 @@
+{
+  "Name": "CaretType",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Normal": 0,
+    "Null": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

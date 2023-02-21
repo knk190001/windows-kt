@@ -1,0 +1,15 @@
+{
+  "Name": "SystemOutOfBoxExperienceState",
+  "Namespace": "Windows.System.Profile",
+  "Values": {
+    "NotStarted": 0,
+    "InProgress": 1,
+    "Completed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "MarshalingType",
+  "Namespace": "Windows.Foundation.Metadata",
+  "Values": {
+    "None": 1,
+    "Agile": 2,
+    "Standard": 3,
+    "InvalidMarshaling": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

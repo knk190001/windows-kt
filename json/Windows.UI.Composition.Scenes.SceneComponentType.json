@@ -1,0 +1,13 @@
+{
+  "Name": "SceneComponentType",
+  "Namespace": "Windows.UI.Composition.Scenes",
+  "Values": {
+    "MeshRendererComponent": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

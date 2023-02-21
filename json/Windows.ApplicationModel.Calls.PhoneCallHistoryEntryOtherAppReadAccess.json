@@ -1,0 +1,14 @@
+{
+  "Name": "PhoneCallHistoryEntryOtherAppReadAccess",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Full": 0,
+    "SystemOnly": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

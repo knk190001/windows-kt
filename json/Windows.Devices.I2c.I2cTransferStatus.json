@@ -1,0 +1,17 @@
+{
+  "Name": "I2cTransferStatus",
+  "Namespace": "Windows.Devices.I2c",
+  "Values": {
+    "FullTransfer": 0,
+    "PartialTransfer": 1,
+    "SlaveAddressNotAcknowledged": 2,
+    "ClockStretchTimeout": 3,
+    "UnknownError": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

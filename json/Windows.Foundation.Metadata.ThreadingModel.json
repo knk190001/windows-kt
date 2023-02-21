@@ -1,0 +1,16 @@
+{
+  "Name": "ThreadingModel",
+  "Namespace": "Windows.Foundation.Metadata",
+  "Values": {
+    "STA": 1,
+    "MTA": 2,
+    "Both": 3,
+    "InvalidThreading": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

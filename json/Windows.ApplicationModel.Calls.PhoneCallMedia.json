@@ -1,0 +1,15 @@
+{
+  "Name": "PhoneCallMedia",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Audio": 0,
+    "AudioAndVideo": 1,
+    "AudioAndRealTimeText": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

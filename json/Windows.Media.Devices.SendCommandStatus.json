@@ -1,0 +1,14 @@
+{
+  "Name": "SendCommandStatus",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Success": 0,
+    "DeviceNotAvailable": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

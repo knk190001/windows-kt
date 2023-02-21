@@ -1,0 +1,9 @@
+{
+  "Name": "IInkToolbarPencilButton",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Guid": "5b112832198441489f25382b35db087f",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

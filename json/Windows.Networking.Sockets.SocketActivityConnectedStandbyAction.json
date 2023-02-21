@@ -1,0 +1,14 @@
+{
+  "Name": "SocketActivityConnectedStandbyAction",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "DoNotWake": 0,
+    "Wake": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

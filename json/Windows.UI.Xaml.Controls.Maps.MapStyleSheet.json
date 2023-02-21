@@ -1,0 +1,35 @@
+{
+  "Name": "MapStyleSheet",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Interfaces": [
+    {
+      "Name": "IMapStyleSheet",
+      "Namespace": "Windows.UI.Xaml.Controls.Maps",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "Interfaces": [
+        {
+          "Name": "IMapStyleSheetStatics",
+          "Namespace": "Windows.UI.Xaml.Controls.Maps"
+        }
+      ],
+      "TraitType": "Static"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "IMapStyleSheet",
+        "Namespace": "Windows.UI.Xaml.Controls.Maps",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

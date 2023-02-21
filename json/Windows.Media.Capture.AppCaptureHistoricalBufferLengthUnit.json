@@ -1,0 +1,14 @@
+{
+  "Name": "AppCaptureHistoricalBufferLengthUnit",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Megabytes": 0,
+    "Seconds": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

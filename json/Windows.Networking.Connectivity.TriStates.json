@@ -1,0 +1,15 @@
+{
+  "Name": "TriStates",
+  "Namespace": "Windows.Networking.Connectivity",
+  "Values": {
+    "DoNotCare": 0,
+    "No": 1,
+    "Yes": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

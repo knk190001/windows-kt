@@ -1,0 +1,17 @@
+{
+  "Name": "DisplayManagerResult",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "Success": 0,
+    "UnknownFailure": 1,
+    "TargetAccessDenied": 2,
+    "TargetStale": 3,
+    "RemoteSessionNotSupported": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "AudioFileNodeCreationStatus",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "Success": 0,
+    "FileNotFound": 1,
+    "InvalidFileType": 2,
+    "FormatNotSupported": 3,
+    "UnknownFailure": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

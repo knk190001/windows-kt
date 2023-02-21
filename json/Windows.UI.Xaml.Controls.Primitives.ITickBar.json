@@ -1,0 +1,44 @@
+{
+  "Name": "ITickBar",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Guid": "994683faf1f6487da5acc15921bfa995",
+  "Methods": [
+    {
+      "Name": "get_Fill",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "Brush",
+        "Namespace": "Windows.UI.Xaml.Media",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "put_Fill",
+      "Parameters": [
+        {
+          "Name": "value",
+          "Type": {
+            "Name": "Brush",
+            "Namespace": "Windows.UI.Xaml.Media",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "Void",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

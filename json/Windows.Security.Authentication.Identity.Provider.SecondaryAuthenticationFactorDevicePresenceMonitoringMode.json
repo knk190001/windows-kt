@@ -1,0 +1,15 @@
+{
+  "Name": "SecondaryAuthenticationFactorDevicePresenceMonitoringMode",
+  "Namespace": "Windows.Security.Authentication.Identity.Provider",
+  "Values": {
+    "Unsupported": 0,
+    "AppManaged": 1,
+    "SystemManaged": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

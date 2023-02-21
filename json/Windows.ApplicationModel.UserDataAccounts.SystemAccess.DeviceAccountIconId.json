@@ -1,0 +1,16 @@
+{
+  "Name": "DeviceAccountIconId",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts.SystemAccess",
+  "Values": {
+    "Exchange": 0,
+    "Msa": 1,
+    "Outlook": 2,
+    "Generic": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

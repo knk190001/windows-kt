@@ -1,0 +1,15 @@
+{
+  "Name": "AppointmentParticipantRole",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "RequiredAttendee": 0,
+    "OptionalAttendee": 1,
+    "Resource": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

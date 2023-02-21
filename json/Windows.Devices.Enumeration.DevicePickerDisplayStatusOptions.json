@@ -1,0 +1,19 @@
+{
+  "Name": "DevicePickerDisplayStatusOptions",
+  "Namespace": "Windows.Devices.Enumeration",
+  "Values": {
+    "None": 0,
+    "ShowProgress": 1,
+    "ShowDisconnectButton": 2,
+    "ShowRetryButton": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

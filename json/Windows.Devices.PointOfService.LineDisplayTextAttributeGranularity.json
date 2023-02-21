@@ -1,0 +1,15 @@
+{
+  "Name": "LineDisplayTextAttributeGranularity",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "NotSupported": 0,
+    "EntireDisplay": 1,
+    "PerCharacter": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

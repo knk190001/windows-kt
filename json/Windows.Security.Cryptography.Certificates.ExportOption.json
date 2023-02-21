@@ -1,0 +1,14 @@
+{
+  "Name": "ExportOption",
+  "Namespace": "Windows.Security.Cryptography.Certificates",
+  "Values": {
+    "NotExportable": 0,
+    "Exportable": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

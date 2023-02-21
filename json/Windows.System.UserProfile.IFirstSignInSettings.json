@@ -1,0 +1,9 @@
+{
+  "Name": "IFirstSignInSettings",
+  "Namespace": "Windows.System.UserProfile",
+  "Guid": "3e9451533a5e452ea601f5baad2a4870",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

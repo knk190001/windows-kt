@@ -1,0 +1,15 @@
+{
+  "Name": "CompositionGetValueStatus",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Succeeded": 0,
+    "TypeMismatch": 1,
+    "NotFound": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

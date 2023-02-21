@@ -1,0 +1,20 @@
+{
+  "Name": "ErrorOptions",
+  "Namespace": "Windows.Foundation.Diagnostics",
+  "Values": {
+    "None": 0,
+    "SuppressExceptions": 1,
+    "ForceExceptions": 2,
+    "UseSetErrorInfo": 4,
+    "SuppressSetErrorInfo": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

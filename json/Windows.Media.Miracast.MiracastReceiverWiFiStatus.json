@@ -1,0 +1,16 @@
+{
+  "Name": "MiracastReceiverWiFiStatus",
+  "Namespace": "Windows.Media.Miracast",
+  "Values": {
+    "MiracastSupportUndetermined": 0,
+    "MiracastNotSupported": 1,
+    "MiracastSupportNotOptimized": 2,
+    "MiracastSupported": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

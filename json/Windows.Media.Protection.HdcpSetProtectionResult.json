@@ -1,0 +1,16 @@
+{
+  "Name": "HdcpSetProtectionResult",
+  "Namespace": "Windows.Media.Protection",
+  "Values": {
+    "Success": 0,
+    "TimedOut": 1,
+    "NotSupported": 2,
+    "UnknownFailure": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

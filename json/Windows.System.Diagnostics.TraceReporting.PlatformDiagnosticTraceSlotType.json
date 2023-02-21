@@ -1,0 +1,15 @@
+{
+  "Name": "PlatformDiagnosticTraceSlotType",
+  "Namespace": "Windows.System.Diagnostics.TraceReporting",
+  "Values": {
+    "Alternative": 0,
+    "AlwaysOn": 1,
+    "Mini": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

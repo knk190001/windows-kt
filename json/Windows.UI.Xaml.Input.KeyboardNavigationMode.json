@@ -1,0 +1,15 @@
+{
+  "Name": "KeyboardNavigationMode",
+  "Namespace": "Windows.UI.Xaml.Input",
+  "Values": {
+    "Local": 0,
+    "Cycle": 1,
+    "Once": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

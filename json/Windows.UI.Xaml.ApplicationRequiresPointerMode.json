@@ -1,0 +1,14 @@
+{
+  "Name": "ApplicationRequiresPointerMode",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Auto": 0,
+    "WhenRequested": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "StorageProviderProtectionMode",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "Unknown": 0,
+    "Personal": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

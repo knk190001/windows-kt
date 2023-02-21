@@ -1,0 +1,14 @@
+{
+  "Name": "WiFiDirectConnectionStatus",
+  "Namespace": "Windows.Devices.WiFiDirect",
+  "Values": {
+    "Disconnected": 0,
+    "Connected": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

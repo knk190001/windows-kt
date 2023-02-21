@@ -1,0 +1,17 @@
+{
+  "Name": "WalletActionKind",
+  "Namespace": "Windows.ApplicationModel.Wallet",
+  "Values": {
+    "OpenItem": 0,
+    "Transaction": 1,
+    "MoreTransactions": 2,
+    "Message": 3,
+    "Verb": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

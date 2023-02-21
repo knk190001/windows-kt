@@ -1,0 +1,17 @@
+{
+  "Name": "UnsupportedAppRequirementReasons",
+  "Namespace": "Windows.System.Profile",
+  "Values": {
+    "Unknown": 0,
+    "DeniedBySystem": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

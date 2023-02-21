@@ -1,0 +1,15 @@
+{
+  "Name": "RecurrenceType",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "Master": 0,
+    "Instance": 1,
+    "ExceptionInstance": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "DeviceAccessMode",
+  "Namespace": "Windows.Devices.Custom",
+  "Values": {
+    "Read": 0,
+    "Write": 1,
+    "ReadWrite": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

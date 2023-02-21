@@ -1,0 +1,15 @@
+{
+  "Name": "PhotoImportAccessMode",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "ReadWrite": 0,
+    "ReadOnly": 1,
+    "ReadAndDelete": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

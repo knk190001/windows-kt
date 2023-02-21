@@ -1,0 +1,14 @@
+{
+  "Name": "SensorReadingType",
+  "Namespace": "Windows.Devices.Sensors",
+  "Values": {
+    "Absolute": 0,
+    "Relative": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

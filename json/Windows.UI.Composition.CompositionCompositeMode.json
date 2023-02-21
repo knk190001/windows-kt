@@ -1,0 +1,16 @@
+{
+  "Name": "CompositionCompositeMode",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Inherit": 0,
+    "SourceOver": 1,
+    "DestinationInvert": 2,
+    "MinBlend": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

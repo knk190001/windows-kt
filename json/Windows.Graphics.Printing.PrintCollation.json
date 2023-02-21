@@ -1,0 +1,17 @@
+{
+  "Name": "PrintCollation",
+  "Namespace": "Windows.Graphics.Printing",
+  "Values": {
+    "Default": 0,
+    "NotAvailable": 1,
+    "PrinterCustom": 2,
+    "Collated": 3,
+    "Uncollated": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "IContactStoreNotificationTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "c833419b470545719a1606b997bf9c96",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

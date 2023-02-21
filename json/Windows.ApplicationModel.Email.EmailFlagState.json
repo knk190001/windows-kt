@@ -1,0 +1,16 @@
+{
+  "Name": "EmailFlagState",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "Unflagged": 0,
+    "Flagged": 1,
+    "Completed": 2,
+    "Cleared": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

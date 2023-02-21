@@ -1,0 +1,9 @@
+{
+  "Name": "ICommunicationBlockingAppSetAsActiveTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "fb91f28a16a5486d974c7835a8477be2",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

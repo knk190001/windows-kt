@@ -1,0 +1,14 @@
+{
+  "Name": "WebViewControlAcceleratorKeyRoutingStage",
+  "Namespace": "Windows.Web.UI.Interop",
+  "Values": {
+    "Tunneling": 0,
+    "Bubbling": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

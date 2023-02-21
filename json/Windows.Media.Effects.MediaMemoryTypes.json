@@ -1,0 +1,15 @@
+{
+  "Name": "MediaMemoryTypes",
+  "Namespace": "Windows.Media.Effects",
+  "Values": {
+    "Gpu": 0,
+    "Cpu": 1,
+    "GpuAndCpu": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

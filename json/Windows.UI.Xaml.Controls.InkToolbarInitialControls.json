@@ -1,0 +1,16 @@
+{
+  "Name": "InkToolbarInitialControls",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "All": 0,
+    "None": 1,
+    "PensOnly": 2,
+    "AllExceptPens": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

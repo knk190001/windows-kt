@@ -1,0 +1,15 @@
+{
+  "Name": "ContentDialogResult",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "None": 0,
+    "Primary": 1,
+    "Secondary": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

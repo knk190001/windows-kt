@@ -1,0 +1,15 @@
+{
+  "Name": "ContactBatchStatus",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Success": 0,
+    "ServerSearchSyncManagerError": 1,
+    "ServerSearchUnknownError": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

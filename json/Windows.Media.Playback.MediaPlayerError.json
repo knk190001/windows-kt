@@ -1,0 +1,17 @@
+{
+  "Name": "MediaPlayerError",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "Unknown": 0,
+    "Aborted": 1,
+    "NetworkError": 2,
+    "DecodingError": 3,
+    "SourceNotSupported": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

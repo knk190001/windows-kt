@@ -1,0 +1,14 @@
+{
+  "Name": "IncrementalLoadingTrigger",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "None": 0,
+    "Edge": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

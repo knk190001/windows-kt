@@ -1,0 +1,17 @@
+{
+  "Name": "IsolatedWindowsEnvironmentHostError",
+  "Namespace": "Windows.Security.Isolation",
+  "Values": {
+    "AdminPolicyIsDisabledOrNotPresent": 0,
+    "FeatureNotInstalled": 1,
+    "HardwareRequirementsNotMet": 2,
+    "RebootRequired": 3,
+    "UnknownError": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

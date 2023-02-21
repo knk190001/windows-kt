@@ -1,0 +1,9 @@
+{
+  "Name": "IXamlBinaryWriter",
+  "Namespace": "Windows.UI.Xaml.Markup",
+  "Guid": "829d2ad3620a46f6845d436a05927100",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

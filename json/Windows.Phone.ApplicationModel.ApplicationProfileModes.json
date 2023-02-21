@@ -1,0 +1,17 @@
+{
+  "Name": "ApplicationProfileModes",
+  "Namespace": "Windows.Phone.ApplicationModel",
+  "Values": {
+    "Default": 0,
+    "Alternate": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

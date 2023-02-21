@@ -1,0 +1,26 @@
+{
+  "Name": "MenuFlyoutPresenterTemplateSettings",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Interfaces": [
+    {
+      "Name": "IMenuFlyoutPresenterTemplateSettings",
+      "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IMenuFlyoutPresenterTemplateSettings",
+        "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

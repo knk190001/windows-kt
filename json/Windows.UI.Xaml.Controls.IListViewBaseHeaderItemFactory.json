@@ -1,0 +1,9 @@
+{
+  "Name": "IListViewBaseHeaderItemFactory",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Guid": "3872a6a1ea19455f9df7147cc41d329c",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

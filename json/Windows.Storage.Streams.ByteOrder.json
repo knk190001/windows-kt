@@ -1,0 +1,14 @@
+{
+  "Name": "ByteOrder",
+  "Namespace": "Windows.Storage.Streams",
+  "Values": {
+    "LittleEndian": 0,
+    "BigEndian": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

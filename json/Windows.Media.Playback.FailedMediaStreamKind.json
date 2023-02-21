@@ -1,0 +1,15 @@
+{
+  "Name": "FailedMediaStreamKind",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "Unknown": 0,
+    "Audio": 1,
+    "Video": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

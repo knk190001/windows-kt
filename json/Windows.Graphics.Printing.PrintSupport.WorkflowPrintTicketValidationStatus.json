@@ -1,0 +1,15 @@
+{
+  "Name": "WorkflowPrintTicketValidationStatus",
+  "Namespace": "Windows.Graphics.Printing.PrintSupport",
+  "Values": {
+    "Resolved": 0,
+    "Conflicting": 1,
+    "Invalid": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

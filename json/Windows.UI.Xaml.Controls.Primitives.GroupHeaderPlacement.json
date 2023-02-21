@@ -1,0 +1,14 @@
+{
+  "Name": "GroupHeaderPlacement",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Values": {
+    "Top": 0,
+    "Left": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

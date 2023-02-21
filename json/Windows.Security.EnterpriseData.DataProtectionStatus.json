@@ -1,0 +1,18 @@
+{
+  "Name": "DataProtectionStatus",
+  "Namespace": "Windows.Security.EnterpriseData",
+  "Values": {
+    "ProtectedToOtherIdentity": 0,
+    "Protected": 1,
+    "Revoked": 2,
+    "Unprotected": 3,
+    "LicenseExpired": 4,
+    "AccessSuspended": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

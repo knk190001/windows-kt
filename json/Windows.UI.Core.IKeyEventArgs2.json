@@ -1,0 +1,21 @@
+{
+  "Name": "IKeyEventArgs2",
+  "Namespace": "Windows.UI.Core",
+  "Guid": "583add98079045719b12645ef9d79e42",
+  "Methods": [
+    {
+      "Name": "get_DeviceId",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "String",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

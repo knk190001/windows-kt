@@ -1,0 +1,14 @@
+{
+  "Name": "CompositionType",
+  "Namespace": "Windows.Foundation.Metadata",
+  "Values": {
+    "Protected": 1,
+    "Public": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

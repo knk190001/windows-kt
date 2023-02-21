@@ -1,0 +1,14 @@
+{
+  "Name": "CommandBarDynamicOverflowAction",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "AddingToOverflow": 0,
+    "RemovingFromOverflow": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

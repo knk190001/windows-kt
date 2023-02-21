@@ -1,0 +1,15 @@
+{
+  "Name": "Printing3DObjectType",
+  "Namespace": "Windows.Graphics.Printing3D",
+  "Values": {
+    "Model": 0,
+    "Support": 1,
+    "Others": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

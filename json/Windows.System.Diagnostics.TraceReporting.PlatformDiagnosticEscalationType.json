@@ -1,0 +1,14 @@
+{
+  "Name": "PlatformDiagnosticEscalationType",
+  "Namespace": "Windows.System.Diagnostics.TraceReporting",
+  "Values": {
+    "OnCompletion": 0,
+    "OnFailure": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

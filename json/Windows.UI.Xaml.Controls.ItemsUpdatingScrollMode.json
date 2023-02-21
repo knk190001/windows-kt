@@ -1,0 +1,15 @@
+{
+  "Name": "ItemsUpdatingScrollMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "KeepItemsInView": 0,
+    "KeepScrollOffset": 1,
+    "KeepLastItemInView": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

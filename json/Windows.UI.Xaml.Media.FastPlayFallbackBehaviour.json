@@ -1,0 +1,15 @@
+{
+  "Name": "FastPlayFallbackBehaviour",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Skip": 0,
+    "Hide": 1,
+    "Disable": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

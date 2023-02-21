@@ -1,0 +1,15 @@
+{
+  "Name": "NavigationViewDisplayMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Minimal": 0,
+    "Compact": 1,
+    "Expanded": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "SerialError",
+  "Namespace": "Windows.Devices.SerialCommunication",
+  "Values": {
+    "Frame": 0,
+    "BufferOverrun": 1,
+    "ReceiveFull": 2,
+    "ReceiveParity": 3,
+    "TransmitFull": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "PlayReadyHardwareDRMFeatures",
+  "Namespace": "Windows.Media.Protection.PlayReady",
+  "Values": {
+    "HardwareDRM": 1,
+    "HEVC": 2,
+    "Aes128Cbc": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

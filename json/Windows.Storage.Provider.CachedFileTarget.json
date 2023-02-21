@@ -1,0 +1,14 @@
+{
+  "Name": "CachedFileTarget",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "Local": 0,
+    "Remote": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

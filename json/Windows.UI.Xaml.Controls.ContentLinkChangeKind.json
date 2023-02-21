@@ -1,0 +1,15 @@
+{
+  "Name": "ContentLinkChangeKind",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Inserted": 0,
+    "Removed": 1,
+    "Edited": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

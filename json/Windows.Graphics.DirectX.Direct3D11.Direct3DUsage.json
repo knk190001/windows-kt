@@ -1,0 +1,16 @@
+{
+  "Name": "Direct3DUsage",
+  "Namespace": "Windows.Graphics.DirectX.Direct3D11",
+  "Values": {
+    "Default": 0,
+    "Immutable": 1,
+    "Dynamic": 2,
+    "Staging": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

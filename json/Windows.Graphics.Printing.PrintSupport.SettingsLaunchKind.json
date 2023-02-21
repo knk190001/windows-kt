@@ -1,0 +1,14 @@
+{
+  "Name": "SettingsLaunchKind",
+  "Namespace": "Windows.Graphics.Printing.PrintSupport",
+  "Values": {
+    "JobPrintTicket": 0,
+    "UserDefaultPrintTicket": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "MagneticStripeReaderStatus",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Unauthenticated": 0,
+    "Authenticated": 1,
+    "Extended": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

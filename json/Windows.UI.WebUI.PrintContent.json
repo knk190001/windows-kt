@@ -1,0 +1,16 @@
+{
+  "Name": "PrintContent",
+  "Namespace": "Windows.UI.WebUI",
+  "Values": {
+    "AllPages": 0,
+    "CurrentPage": 1,
+    "CustomPageRange": 2,
+    "CurrentSelection": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

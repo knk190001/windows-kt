@@ -1,0 +1,14 @@
+{
+  "Name": "PwmPulsePolarity",
+  "Namespace": "Windows.Devices.Pwm",
+  "Values": {
+    "ActiveHigh": 0,
+    "ActiveLow": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

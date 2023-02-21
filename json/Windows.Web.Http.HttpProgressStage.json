@@ -1,0 +1,22 @@
+{
+  "Name": "HttpProgressStage",
+  "Namespace": "Windows.Web.Http",
+  "Values": {
+    "None": 0,
+    "DetectingProxy": 10,
+    "ResolvingName": 20,
+    "ConnectingToServer": 30,
+    "NegotiatingSsl": 40,
+    "SendingHeaders": 50,
+    "SendingContent": 60,
+    "WaitingForResponse": 70,
+    "ReceivingHeaders": 80,
+    "ReceivingContent": 90
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ForegroundText",
+  "Namespace": "Windows.UI.StartScreen",
+  "Values": {
+    "Dark": 0,
+    "Light": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "BluetoothEventTriggeringMode",
+  "Namespace": "Windows.Devices.Bluetooth.Background",
+  "Values": {
+    "Serial": 0,
+    "Batch": 1,
+    "KeepLatest": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

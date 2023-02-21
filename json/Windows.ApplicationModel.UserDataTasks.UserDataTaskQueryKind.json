@@ -1,0 +1,15 @@
+{
+  "Name": "UserDataTaskQueryKind",
+  "Namespace": "Windows.ApplicationModel.UserDataTasks",
+  "Values": {
+    "All": 0,
+    "Incomplete": 1,
+    "Complete": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

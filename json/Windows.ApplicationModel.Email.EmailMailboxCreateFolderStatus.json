@@ -1,0 +1,19 @@
+{
+  "Name": "EmailMailboxCreateFolderStatus",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "Success": 0,
+    "NetworkError": 1,
+    "PermissionsError": 2,
+    "ServerError": 3,
+    "UnknownFailure": 4,
+    "NameCollision": 5,
+    "ServerRejected": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

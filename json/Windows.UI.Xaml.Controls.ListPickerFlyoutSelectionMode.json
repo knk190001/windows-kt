@@ -1,0 +1,14 @@
+{
+  "Name": "ListPickerFlyoutSelectionMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Single": 0,
+    "Multiple": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

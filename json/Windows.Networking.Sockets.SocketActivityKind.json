@@ -1,0 +1,16 @@
+{
+  "Name": "SocketActivityKind",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "None": 0,
+    "StreamSocketListener": 1,
+    "DatagramSocket": 2,
+    "StreamSocket": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

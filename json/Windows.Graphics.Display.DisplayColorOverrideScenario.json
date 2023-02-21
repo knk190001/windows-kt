@@ -1,0 +1,13 @@
+{
+  "Name": "DisplayColorOverrideScenario",
+  "Namespace": "Windows.Graphics.Display",
+  "Values": {
+    "Accurate": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

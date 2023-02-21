@@ -1,0 +1,38 @@
+{
+  "Name": "PivotHeaderItem",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Interfaces": [
+    {
+      "Name": "IPivotHeaderItem",
+      "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IPivotHeaderItem",
+        "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    },
+    {
+      "CompositionFactoryTypes": [
+        {
+          "Name": "IPivotHeaderItemFactory",
+          "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+          "GenericParameters": null,
+          "IsArray": false,
+          "IsReference": false
+        }
+      ],
+      "TraitType": "CompositionActivation"
+    }
+  ],
+  "Type": "Class"
+}

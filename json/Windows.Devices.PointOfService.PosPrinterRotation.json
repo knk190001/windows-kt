@@ -1,0 +1,16 @@
+{
+  "Name": "PosPrinterRotation",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Normal": 0,
+    "Right90": 1,
+    "Left90": 2,
+    "Rotate180": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

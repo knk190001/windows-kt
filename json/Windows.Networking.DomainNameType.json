@@ -1,0 +1,14 @@
+{
+  "Name": "DomainNameType",
+  "Namespace": "Windows.Networking",
+  "Values": {
+    "Suffix": 0,
+    "FullyQualified": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

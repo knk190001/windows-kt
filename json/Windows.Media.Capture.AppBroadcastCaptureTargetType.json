@@ -1,0 +1,14 @@
+{
+  "Name": "AppBroadcastCaptureTargetType",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "AppView": 0,
+    "EntireDisplay": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

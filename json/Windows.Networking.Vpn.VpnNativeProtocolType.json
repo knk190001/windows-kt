@@ -1,0 +1,15 @@
+{
+  "Name": "VpnNativeProtocolType",
+  "Namespace": "Windows.Networking.Vpn",
+  "Values": {
+    "Pptp": 0,
+    "L2tp": 1,
+    "IpsecIkev2": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "EmailMailboxAllowedSmimeEncryptionAlgorithmNegotiation",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "None": 0,
+    "StrongAlgorithm": 1,
+    "AnyAlgorithm": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "ITimelinePropertiesChangedEventArgs",
+  "Namespace": "Windows.Media.Control",
+  "Guid": "29033a2fc9235a77bcaf055ff415ad32",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

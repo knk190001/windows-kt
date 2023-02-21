@@ -1,0 +1,17 @@
+{
+  "Name": "SmartCardStatus",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Disconnected": 0,
+    "Ready": 1,
+    "Shared": 2,
+    "Exclusive": 3,
+    "Unresponsive": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "PosPrinterPrintSide",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Unknown": 0,
+    "Side1": 1,
+    "Side2": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

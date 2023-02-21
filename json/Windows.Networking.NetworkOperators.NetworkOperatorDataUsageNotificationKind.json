@@ -1,0 +1,13 @@
+{
+  "Name": "NetworkOperatorDataUsageNotificationKind",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "DataUsageProgress": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

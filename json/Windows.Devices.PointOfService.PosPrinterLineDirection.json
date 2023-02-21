@@ -1,0 +1,14 @@
+{
+  "Name": "PosPrinterLineDirection",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Horizontal": 0,
+    "Vertical": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

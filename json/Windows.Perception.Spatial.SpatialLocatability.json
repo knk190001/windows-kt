@@ -1,0 +1,17 @@
+{
+  "Name": "SpatialLocatability",
+  "Namespace": "Windows.Perception.Spatial",
+  "Values": {
+    "Unavailable": 0,
+    "OrientationOnly": 1,
+    "PositionalTrackingActivating": 2,
+    "PositionalTrackingActive": 3,
+    "PositionalTrackingInhibited": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

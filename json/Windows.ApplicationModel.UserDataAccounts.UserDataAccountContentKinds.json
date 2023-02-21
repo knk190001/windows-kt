@@ -1,0 +1,18 @@
+{
+  "Name": "UserDataAccountContentKinds",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts",
+  "Values": {
+    "Email": 1,
+    "Contact": 2,
+    "Appointment": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

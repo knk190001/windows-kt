@@ -1,0 +1,15 @@
+{
+  "Name": "ActivationSignalDetectorKind",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "AudioPattern": 0,
+    "AudioImpulse": 1,
+    "HardwareEvent": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

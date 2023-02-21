@@ -1,0 +1,14 @@
+{
+  "Name": "CurrencyFormatterMode",
+  "Namespace": "Windows.Globalization.NumberFormatting",
+  "Values": {
+    "UseSymbol": 0,
+    "UseCurrencyCode": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

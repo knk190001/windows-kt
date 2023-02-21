@@ -1,0 +1,16 @@
+{
+  "Name": "GuidanceMode",
+  "Namespace": "Windows.Services.Maps.Guidance",
+  "Values": {
+    "None": 0,
+    "Simulation": 1,
+    "Navigation": 2,
+    "Tracking": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

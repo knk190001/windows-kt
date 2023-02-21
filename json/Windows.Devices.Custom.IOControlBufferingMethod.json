@@ -1,0 +1,16 @@
+{
+  "Name": "IOControlBufferingMethod",
+  "Namespace": "Windows.Devices.Custom",
+  "Values": {
+    "Buffered": 0,
+    "DirectInput": 1,
+    "DirectOutput": 2,
+    "Neither": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

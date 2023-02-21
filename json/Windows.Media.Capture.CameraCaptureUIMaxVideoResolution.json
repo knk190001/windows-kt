@@ -1,0 +1,16 @@
+{
+  "Name": "CameraCaptureUIMaxVideoResolution",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "HighestAvailable": 0,
+    "LowDefinition": 1,
+    "StandardDefinition": 2,
+    "HighDefinition": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

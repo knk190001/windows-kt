@@ -1,0 +1,15 @@
+{
+  "Name": "IsolatedWindowsEnvironmentProcessState",
+  "Namespace": "Windows.Security.Isolation",
+  "Values": {
+    "Running": 1,
+    "Aborted": 2,
+    "Completed": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

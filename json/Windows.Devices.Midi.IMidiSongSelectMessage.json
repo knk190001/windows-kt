@@ -1,0 +1,21 @@
+{
+  "Name": "IMidiSongSelectMessage",
+  "Namespace": "Windows.Devices.Midi",
+  "Guid": "49f0f27f6d834741a5bf4629f6be974f",
+  "Methods": [
+    {
+      "Name": "get_Song",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "Byte",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

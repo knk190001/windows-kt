@@ -1,0 +1,15 @@
+{
+  "Name": "BitmapAlphaMode",
+  "Namespace": "Windows.Graphics.Imaging",
+  "Values": {
+    "Premultiplied": 0,
+    "Straight": 1,
+    "Ignore": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

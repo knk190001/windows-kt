@@ -1,0 +1,16 @@
+{
+  "Name": "ContentAccessRestrictionLevel",
+  "Namespace": "Windows.Media.ContentRestrictions",
+  "Values": {
+    "Allow": 0,
+    "Warn": 1,
+    "Block": 2,
+    "Hide": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

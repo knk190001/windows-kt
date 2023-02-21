@@ -1,0 +1,14 @@
+{
+  "Name": "DisplayTaskSignalKind",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "OnPresentFlipAway": 0,
+    "OnPresentFlipTo": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

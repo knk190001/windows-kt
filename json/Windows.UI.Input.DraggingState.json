@@ -1,0 +1,15 @@
+{
+  "Name": "DraggingState",
+  "Namespace": "Windows.UI.Input",
+  "Values": {
+    "Started": 0,
+    "Continuing": 1,
+    "Completed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

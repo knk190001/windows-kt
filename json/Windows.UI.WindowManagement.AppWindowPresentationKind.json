@@ -1,0 +1,15 @@
+{
+  "Name": "AppWindowPresentationKind",
+  "Namespace": "Windows.UI.WindowManagement",
+  "Values": {
+    "Default": 0,
+    "CompactOverlay": 1,
+    "FullScreen": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

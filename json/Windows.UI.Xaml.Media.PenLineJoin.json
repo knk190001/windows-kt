@@ -1,0 +1,15 @@
+{
+  "Name": "PenLineJoin",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Miter": 0,
+    "Bevel": 1,
+    "Round": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

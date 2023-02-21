@@ -1,0 +1,20 @@
+{
+  "Name": "SmartCardCryptographicKeyAttestationStatus",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "NoAttestation": 0,
+    "SoftwareKeyWithoutTpm": 1,
+    "SoftwareKeyWithTpm": 2,
+    "TpmKeyUnknownAttestationStatus": 3,
+    "TpmKeyWithoutAttestationCapability": 4,
+    "TpmKeyWithTemporaryAttestationFailure": 5,
+    "TpmKeyWithLongTermAttestationFailure": 6,
+    "TpmKeyWithAttestation": 7
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

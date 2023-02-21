@@ -1,0 +1,17 @@
+{
+  "Name": "SecondaryAuthenticationFactorAuthenticationStatus",
+  "Namespace": "Windows.Security.Authentication.Identity.Provider",
+  "Values": {
+    "Failed": 0,
+    "Started": 1,
+    "UnknownDevice": 2,
+    "DisabledByPolicy": 3,
+    "InvalidAuthenticationStage": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

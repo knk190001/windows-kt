@@ -1,0 +1,13 @@
+{
+  "Name": "LocationTriggerType",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "Geofence": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

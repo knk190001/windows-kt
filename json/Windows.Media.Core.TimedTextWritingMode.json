@@ -1,0 +1,19 @@
+{
+  "Name": "TimedTextWritingMode",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "LeftRightTopBottom": 0,
+    "RightLeftTopBottom": 1,
+    "TopBottomRightLeft": 2,
+    "TopBottomLeftRight": 3,
+    "LeftRight": 4,
+    "RightLeft": 5,
+    "TopBottom": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

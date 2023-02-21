@@ -1,0 +1,19 @@
+{
+  "Name": "InjectedInputPenButtons",
+  "Namespace": "Windows.UI.Input.Preview.Injection",
+  "Values": {
+    "None": 0,
+    "Barrel": 1,
+    "Inverted": 2,
+    "Eraser": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

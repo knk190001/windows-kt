@@ -1,0 +1,15 @@
+{
+  "Name": "TwoPaneViewTallModeConfiguration",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "SinglePane": 0,
+    "TopBottom": 1,
+    "BottomTop": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

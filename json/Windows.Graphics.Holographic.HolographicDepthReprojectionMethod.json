@@ -1,0 +1,14 @@
+{
+  "Name": "HolographicDepthReprojectionMethod",
+  "Namespace": "Windows.Graphics.Holographic",
+  "Values": {
+    "DepthReprojection": 0,
+    "AutoPlanar": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EmailMessageDownloadState",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "PartiallyDownloaded": 0,
+    "Downloading": 1,
+    "Downloaded": 2,
+    "Failed": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

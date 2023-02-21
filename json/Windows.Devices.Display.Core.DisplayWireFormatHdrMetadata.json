@@ -1,0 +1,16 @@
+{
+  "Name": "DisplayWireFormatHdrMetadata",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "None": 0,
+    "Hdr10": 1,
+    "Hdr10Plus": 2,
+    "DolbyVisionLowLatency": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "SecondaryAuthenticationFactorAuthenticationScenario",
+  "Namespace": "Windows.Security.Authentication.Identity.Provider",
+  "Values": {
+    "SignIn": 0,
+    "CredentialPrompt": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

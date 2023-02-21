@@ -1,0 +1,15 @@
+{
+  "Name": "GattRequestState",
+  "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+  "Values": {
+    "Pending": 0,
+    "Completed": 1,
+    "Canceled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

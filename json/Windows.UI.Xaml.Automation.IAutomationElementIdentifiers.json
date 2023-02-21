@@ -1,0 +1,9 @@
+{
+  "Name": "IAutomationElementIdentifiers",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Guid": "e68a63cf43454e2d8a6a49cce1fa2dcc",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

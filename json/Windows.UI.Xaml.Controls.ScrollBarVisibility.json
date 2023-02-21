@@ -1,0 +1,16 @@
+{
+  "Name": "ScrollBarVisibility",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Disabled": 0,
+    "Auto": 1,
+    "Hidden": 2,
+    "Visible": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

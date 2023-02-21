@@ -1,0 +1,16 @@
+{
+  "Name": "AutomationTextEditChangeType",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "None": 0,
+    "AutoCorrect": 1,
+    "Composition": 2,
+    "CompositionFinalized": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

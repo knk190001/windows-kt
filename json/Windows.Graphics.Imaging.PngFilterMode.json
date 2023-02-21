@@ -1,0 +1,19 @@
+{
+  "Name": "PngFilterMode",
+  "Namespace": "Windows.Graphics.Imaging",
+  "Values": {
+    "Automatic": 0,
+    "None": 1,
+    "Sub": 2,
+    "Up": 3,
+    "Average": 4,
+    "Paeth": 5,
+    "Adaptive": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

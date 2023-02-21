@@ -1,0 +1,15 @@
+{
+  "Name": "MseReadyState",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Closed": 0,
+    "Open": 1,
+    "Ended": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

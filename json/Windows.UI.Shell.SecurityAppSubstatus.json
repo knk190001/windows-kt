@@ -1,0 +1,16 @@
+{
+  "Name": "SecurityAppSubstatus",
+  "Namespace": "Windows.UI.Shell",
+  "Values": {
+    "Undetermined": 0,
+    "NoActionNeeded": 1,
+    "ActionRecommended": 2,
+    "ActionNeeded": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

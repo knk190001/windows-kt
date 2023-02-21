@@ -1,0 +1,14 @@
+{
+  "Name": "SliderSnapsTo",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Values": {
+    "StepValues": 0,
+    "Ticks": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

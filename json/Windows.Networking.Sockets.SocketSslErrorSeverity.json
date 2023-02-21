@@ -1,0 +1,15 @@
+{
+  "Name": "SocketSslErrorSeverity",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "None": 0,
+    "Ignorable": 1,
+    "Fatal": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

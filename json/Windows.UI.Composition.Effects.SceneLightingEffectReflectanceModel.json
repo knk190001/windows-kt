@@ -1,0 +1,14 @@
+{
+  "Name": "SceneLightingEffectReflectanceModel",
+  "Namespace": "Windows.UI.Composition.Effects",
+  "Values": {
+    "BlinnPhong": 0,
+    "PhysicallyBasedBlinnPhong": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

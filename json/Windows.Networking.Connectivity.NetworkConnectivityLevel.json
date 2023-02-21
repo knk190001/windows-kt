@@ -1,0 +1,16 @@
+{
+  "Name": "NetworkConnectivityLevel",
+  "Namespace": "Windows.Networking.Connectivity",
+  "Values": {
+    "None": 0,
+    "LocalAccess": 1,
+    "ConstrainedInternetAccess": 2,
+    "InternetAccess": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "AppServiceClosedStatus",
+  "Namespace": "Windows.ApplicationModel.AppService",
+  "Values": {
+    "Completed": 0,
+    "Canceled": 1,
+    "ResourceLimitsExceeded": 2,
+    "Unknown": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

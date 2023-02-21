@@ -1,0 +1,21 @@
+{
+  "Name": "IContentPrefetchTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "710627ee04fa440b80c0173202199e5d",
+  "Methods": [
+    {
+      "Name": "get_WaitInterval",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "TimeSpan",
+        "Namespace": "Windows.Foundation",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

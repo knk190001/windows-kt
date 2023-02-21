@@ -1,0 +1,14 @@
+{
+  "Name": "VCardFormat",
+  "Namespace": "Windows.Phone.PersonalInformation",
+  "Values": {
+    "Version2_1": 0,
+    "Version3": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

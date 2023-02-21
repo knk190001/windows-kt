@@ -1,0 +1,16 @@
+{
+  "Name": "NetworkCostType",
+  "Namespace": "Windows.Networking.Connectivity",
+  "Values": {
+    "Unknown": 0,
+    "Unrestricted": 1,
+    "Fixed": 2,
+    "Variable": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

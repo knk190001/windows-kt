@@ -1,0 +1,15 @@
+{
+  "Name": "InfraredTorchMode",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Off": 0,
+    "On": 1,
+    "AlternatingFrameIllumination": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

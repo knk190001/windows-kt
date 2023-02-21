@@ -1,0 +1,9 @@
+{
+  "Name": "IMediaPlaybackSource",
+  "Namespace": "Windows.Media.Playback",
+  "Guid": "ef9dc2bc93174696b0512bad643177b5",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

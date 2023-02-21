@@ -1,0 +1,14 @@
+{
+  "Name": "LampArrayEffectCompletionBehavior",
+  "Namespace": "Windows.Devices.Lights.Effects",
+  "Values": {
+    "ClearState": 0,
+    "KeepState": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

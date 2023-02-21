@@ -1,0 +1,9 @@
+{
+  "Name": "ICaptureElementAutomationPeer",
+  "Namespace": "Windows.UI.Xaml.Automation.Peers",
+  "Guid": "dcc44ee0fa4545c68bb7320d808f5958",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

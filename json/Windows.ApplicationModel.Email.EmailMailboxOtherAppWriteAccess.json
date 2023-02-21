@@ -1,0 +1,14 @@
+{
+  "Name": "EmailMailboxOtherAppWriteAccess",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "None": 0,
+    "Limited": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

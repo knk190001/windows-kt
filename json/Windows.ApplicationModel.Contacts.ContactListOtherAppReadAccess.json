@@ -1,0 +1,16 @@
+{
+  "Name": "ContactListOtherAppReadAccess",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "SystemOnly": 0,
+    "Limited": 1,
+    "Full": 2,
+    "None": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

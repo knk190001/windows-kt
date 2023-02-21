@@ -1,0 +1,16 @@
+{
+  "Name": "LoadedImageSourceLoadStatus",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Success": 0,
+    "NetworkError": 1,
+    "InvalidFormat": 2,
+    "Other": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

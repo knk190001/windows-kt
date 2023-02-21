@@ -1,0 +1,17 @@
+{
+  "Name": "BitmapCreateOptions",
+  "Namespace": "Windows.UI.Xaml.Media.Imaging",
+  "Values": {
+    "None": 0,
+    "IgnoreImageCache": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "PackageTypes",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "None": 0,
+    "Main": 1,
+    "Framework": 2,
+    "Resource": 4,
+    "Bundle": 8,
+    "Xap": 16,
+    "Optional": 32,
+    "All": -1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

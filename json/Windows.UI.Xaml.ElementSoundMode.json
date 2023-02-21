@@ -1,0 +1,15 @@
+{
+  "Name": "ElementSoundMode",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Default": 0,
+    "FocusOnly": 1,
+    "Off": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

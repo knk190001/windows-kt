@@ -1,0 +1,17 @@
+{
+  "Name": "ApplicationDataLocality",
+  "Namespace": "Windows.Storage",
+  "Values": {
+    "Local": 0,
+    "Roaming": 1,
+    "Temporary": 2,
+    "LocalCache": 3,
+    "SharedLocal": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

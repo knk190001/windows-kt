@@ -1,0 +1,16 @@
+{
+  "Name": "DisplayMonitorConnectionKind",
+  "Namespace": "Windows.Devices.Display",
+  "Values": {
+    "Internal": 0,
+    "Wired": 1,
+    "Wireless": 2,
+    "Virtual": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

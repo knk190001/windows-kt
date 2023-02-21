@@ -1,0 +1,15 @@
+{
+  "Name": "SocialFeedKind",
+  "Namespace": "Windows.ApplicationModel.SocialInfo",
+  "Values": {
+    "HomeFeed": 0,
+    "ContactFeed": 1,
+    "Dashboard": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

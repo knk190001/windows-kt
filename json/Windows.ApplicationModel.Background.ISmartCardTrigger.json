@@ -1,0 +1,21 @@
+{
+  "Name": "ISmartCardTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "f53bc5ac84ca49728ce9e58f97b37a50",
+  "Methods": [
+    {
+      "Name": "get_TriggerType",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "SmartCardTriggerType",
+        "Namespace": "Windows.Devices.SmartCards",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

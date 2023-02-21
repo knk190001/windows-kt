@@ -1,0 +1,17 @@
+{
+  "Name": "StorageProviderHardlinkPolicy",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "None": 0,
+    "Allowed": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

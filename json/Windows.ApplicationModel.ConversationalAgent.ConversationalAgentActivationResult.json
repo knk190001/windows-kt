@@ -1,0 +1,16 @@
+{
+  "Name": "ConversationalAgentActivationResult",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "Success": 0,
+    "AgentInactive": 1,
+    "ScreenNotAvailable": 2,
+    "AgentInterrupted": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

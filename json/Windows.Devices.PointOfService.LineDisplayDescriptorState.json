@@ -1,0 +1,15 @@
+{
+  "Name": "LineDisplayDescriptorState",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Off": 0,
+    "On": 1,
+    "Blink": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

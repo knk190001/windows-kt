@@ -1,0 +1,14 @@
+{
+  "Name": "WaypointKind",
+  "Namespace": "Windows.Services.Maps",
+  "Values": {
+    "Stop": 0,
+    "Via": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

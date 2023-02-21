@@ -1,0 +1,16 @@
+{
+  "Name": "PivotSlideInAnimationGroup",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Default": 0,
+    "GroupOne": 1,
+    "GroupTwo": 2,
+    "GroupThree": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

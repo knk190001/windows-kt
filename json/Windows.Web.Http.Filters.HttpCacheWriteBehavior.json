@@ -1,0 +1,14 @@
+{
+  "Name": "HttpCacheWriteBehavior",
+  "Namespace": "Windows.Web.Http.Filters",
+  "Values": {
+    "Default": 0,
+    "NoCache": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "FaceDetectionMode",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "HighPerformance": 0,
+    "Balanced": 1,
+    "HighQuality": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

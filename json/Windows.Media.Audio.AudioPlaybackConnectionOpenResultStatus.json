@@ -1,0 +1,16 @@
+{
+  "Name": "AudioPlaybackConnectionOpenResultStatus",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "Success": 0,
+    "RequestTimedOut": 1,
+    "DeniedBySystem": 2,
+    "UnknownFailure": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

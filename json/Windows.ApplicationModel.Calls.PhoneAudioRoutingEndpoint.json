@@ -1,0 +1,15 @@
+{
+  "Name": "PhoneAudioRoutingEndpoint",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Default": 0,
+    "Bluetooth": 1,
+    "Speakerphone": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

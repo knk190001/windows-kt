@@ -1,0 +1,17 @@
+{
+  "Name": "LineDisplayPowerStatus",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Unknown": 0,
+    "Online": 1,
+    "Off": 2,
+    "Offline": 3,
+    "OffOrOffline": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

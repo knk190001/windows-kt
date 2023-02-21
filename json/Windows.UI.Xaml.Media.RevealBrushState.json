@@ -1,0 +1,15 @@
+{
+  "Name": "RevealBrushState",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Normal": 0,
+    "PointerOver": 1,
+    "Pressed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

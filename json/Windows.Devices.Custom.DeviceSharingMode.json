@@ -1,0 +1,14 @@
+{
+  "Name": "DeviceSharingMode",
+  "Namespace": "Windows.Devices.Custom",
+  "Values": {
+    "Shared": 0,
+    "Exclusive": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ApplicationViewMode",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "Default": 0,
+    "CompactOverlay": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

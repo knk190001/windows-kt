@@ -1,0 +1,15 @@
+{
+  "Name": "CausalityTraceLevel",
+  "Namespace": "Windows.Foundation.Diagnostics",
+  "Values": {
+    "Required": 0,
+    "Important": 1,
+    "Verbose": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

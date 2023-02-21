@@ -1,0 +1,18 @@
+{
+  "Name": "FindOptions",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "None": 0,
+    "Word": 2,
+    "Case": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

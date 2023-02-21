@@ -1,0 +1,9 @@
+{
+  "Name": "ICompositionTransformFactory",
+  "Namespace": "Windows.UI.Composition",
+  "Guid": "aaaeca26c149517a8f726bff7a65ce08",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "TimedTextUnit",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Pixels": 0,
+    "Percentage": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

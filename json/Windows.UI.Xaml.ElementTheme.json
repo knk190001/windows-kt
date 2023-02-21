@@ -1,0 +1,15 @@
+{
+  "Name": "ElementTheme",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Default": 0,
+    "Light": 1,
+    "Dark": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

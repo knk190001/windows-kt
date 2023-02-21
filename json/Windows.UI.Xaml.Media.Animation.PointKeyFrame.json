@@ -1,0 +1,47 @@
+{
+  "Name": "PointKeyFrame",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Interfaces": [
+    {
+      "Name": "IPointKeyFrame",
+      "Namespace": "Windows.UI.Xaml.Media.Animation",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "Interfaces": [
+        {
+          "Name": "IPointKeyFrameStatics",
+          "Namespace": "Windows.UI.Xaml.Media.Animation"
+        }
+      ],
+      "TraitType": "Static"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "IPointKeyFrame",
+        "Namespace": "Windows.UI.Xaml.Media.Animation",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    },
+    {
+      "CompositionFactoryTypes": [
+        {
+          "Name": "IPointKeyFrameFactory",
+          "Namespace": "Windows.UI.Xaml.Media.Animation",
+          "GenericParameters": null,
+          "IsArray": false,
+          "IsReference": false
+        }
+      ],
+      "TraitType": "CompositionActivation"
+    }
+  ],
+  "Type": "Class"
+}

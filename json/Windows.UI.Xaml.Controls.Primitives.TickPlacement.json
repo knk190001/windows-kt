@@ -1,0 +1,17 @@
+{
+  "Name": "TickPlacement",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Values": {
+    "None": 0,
+    "TopLeft": 1,
+    "BottomRight": 2,
+    "Outside": 3,
+    "Inline": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

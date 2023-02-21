@@ -1,0 +1,15 @@
+{
+  "Name": "PhoneCallBlockedReason",
+  "Namespace": "Windows.ApplicationModel.Calls.Background",
+  "Values": {
+    "InCallBlockingList": 0,
+    "PrivateNumber": 1,
+    "UnknownNumber": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

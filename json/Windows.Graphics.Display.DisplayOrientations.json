@@ -1,0 +1,20 @@
+{
+  "Name": "DisplayOrientations",
+  "Namespace": "Windows.Graphics.Display",
+  "Values": {
+    "None": 0,
+    "Landscape": 1,
+    "Portrait": 2,
+    "LandscapeFlipped": 4,
+    "PortraitFlipped": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

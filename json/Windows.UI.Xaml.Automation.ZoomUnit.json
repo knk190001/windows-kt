@@ -1,0 +1,17 @@
+{
+  "Name": "ZoomUnit",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "NoAmount": 0,
+    "LargeDecrement": 1,
+    "SmallDecrement": 2,
+    "LargeIncrement": 3,
+    "SmallIncrement": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

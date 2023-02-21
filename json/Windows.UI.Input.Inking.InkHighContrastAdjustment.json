@@ -1,0 +1,15 @@
+{
+  "Name": "InkHighContrastAdjustment",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "UseSystemColorsWhenNecessary": 0,
+    "UseSystemColors": 1,
+    "UseOriginalColors": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

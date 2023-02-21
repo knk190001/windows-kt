@@ -1,0 +1,14 @@
+{
+  "Name": "RemoteSystemAuthorizationKind",
+  "Namespace": "Windows.System.RemoteSystems",
+  "Values": {
+    "SameUser": 0,
+    "Anonymous": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

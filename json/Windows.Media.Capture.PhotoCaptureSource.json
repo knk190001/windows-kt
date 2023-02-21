@@ -1,0 +1,15 @@
+{
+  "Name": "PhotoCaptureSource",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Auto": 0,
+    "VideoPreview": 1,
+    "Photo": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

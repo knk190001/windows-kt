@@ -1,0 +1,16 @@
+{
+  "Name": "ActivationSignalDetectionConfigurationRemovalResult",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "Success": 0,
+    "NotFound": 1,
+    "CurrentlyEnabled": 2,
+    "RemovalNotSupported": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "FillRule",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "EvenOdd": 0,
+    "Nonzero": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

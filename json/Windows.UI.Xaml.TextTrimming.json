@@ -1,0 +1,16 @@
+{
+  "Name": "TextTrimming",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "None": 0,
+    "CharacterEllipsis": 1,
+    "WordEllipsis": 2,
+    "Clip": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

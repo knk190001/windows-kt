@@ -1,0 +1,14 @@
+{
+  "Name": "SweepDirection",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Counterclockwise": 0,
+    "Clockwise": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

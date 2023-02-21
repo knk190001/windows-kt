@@ -1,0 +1,15 @@
+{
+  "Name": "AudioBufferAccessMode",
+  "Namespace": "Windows.Media",
+  "Values": {
+    "Read": 0,
+    "ReadWrite": 1,
+    "Write": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

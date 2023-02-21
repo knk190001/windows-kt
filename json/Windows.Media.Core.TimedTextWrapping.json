@@ -1,0 +1,14 @@
+{
+  "Name": "TimedTextWrapping",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "NoWrap": 0,
+    "Wrap": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

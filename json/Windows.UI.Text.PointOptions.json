@@ -1,0 +1,23 @@
+{
+  "Name": "PointOptions",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "None": 0,
+    "IncludeInset": 1,
+    "Start": 32,
+    "ClientCoordinates": 256,
+    "AllowOffClient": 512,
+    "Transform": 1024,
+    "NoHorizontalScroll": 65536,
+    "NoVerticalScroll": 262144
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

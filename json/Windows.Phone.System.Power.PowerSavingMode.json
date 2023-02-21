@@ -1,0 +1,14 @@
+{
+  "Name": "PowerSavingMode",
+  "Namespace": "Windows.Phone.System.Power",
+  "Values": {
+    "Off": 0,
+    "On": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

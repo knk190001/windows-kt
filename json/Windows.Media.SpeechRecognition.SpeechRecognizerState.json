@@ -1,0 +1,19 @@
+{
+  "Name": "SpeechRecognizerState",
+  "Namespace": "Windows.Media.SpeechRecognition",
+  "Values": {
+    "Idle": 0,
+    "Capturing": 1,
+    "Processing": 2,
+    "SoundStarted": 3,
+    "SoundEnded": 4,
+    "SpeechDetected": 5,
+    "Paused": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

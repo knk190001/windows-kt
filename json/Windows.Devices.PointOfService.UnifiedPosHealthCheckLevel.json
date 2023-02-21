@@ -1,0 +1,16 @@
+{
+  "Name": "UnifiedPosHealthCheckLevel",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "UnknownHealthCheckLevel": 0,
+    "POSInternal": 1,
+    "External": 2,
+    "Interactive": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "PlatformDiagnosticTraceSlotState",
+  "Namespace": "Windows.System.Diagnostics.TraceReporting",
+  "Values": {
+    "NotRunning": 0,
+    "Running": 1,
+    "Throttled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

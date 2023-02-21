@@ -1,0 +1,14 @@
+{
+  "Name": "InkToolbarStencilKind",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Ruler": 0,
+    "Protractor": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

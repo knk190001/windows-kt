@@ -1,0 +1,14 @@
+{
+  "Name": "CodecKind",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Audio": 0,
+    "Video": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

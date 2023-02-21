@@ -1,0 +1,15 @@
+{
+  "Name": "RepeatBehaviorType",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Values": {
+    "Count": 0,
+    "Duration": 1,
+    "Forever": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "MediaStreamType",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "VideoPreview": 0,
+    "VideoRecord": 1,
+    "Audio": 2,
+    "Photo": 3,
+    "Metadata": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

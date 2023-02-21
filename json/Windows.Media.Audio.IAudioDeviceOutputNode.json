@@ -1,0 +1,21 @@
+{
+  "Name": "IAudioDeviceOutputNode",
+  "Namespace": "Windows.Media.Audio",
+  "Guid": "362edbffff1c44349e0fbd2ef522ac82",
+  "Methods": [
+    {
+      "Name": "get_Device",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "DeviceInformation",
+        "Namespace": "Windows.Devices.Enumeration",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

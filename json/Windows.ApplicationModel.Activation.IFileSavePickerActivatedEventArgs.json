@@ -1,0 +1,21 @@
+{
+  "Name": "IFileSavePickerActivatedEventArgs",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "81c19cf174e6438782ebbb8fd64b4346",
+  "Methods": [
+    {
+      "Name": "get_FileSavePickerUI",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "FileSavePickerUI",
+        "Namespace": "Windows.Storage.Pickers.Provider",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

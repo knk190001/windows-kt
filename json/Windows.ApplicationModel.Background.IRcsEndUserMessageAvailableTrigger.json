@@ -1,0 +1,9 @@
+{
+  "Name": "IRcsEndUserMessageAvailableTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "986d0d6ab2f6467fa978a44091c11a66",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

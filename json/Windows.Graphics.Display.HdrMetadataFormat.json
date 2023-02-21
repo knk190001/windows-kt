@@ -1,0 +1,14 @@
+{
+  "Name": "HdrMetadataFormat",
+  "Namespace": "Windows.Graphics.Display",
+  "Values": {
+    "Hdr10": 0,
+    "Hdr10Plus": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

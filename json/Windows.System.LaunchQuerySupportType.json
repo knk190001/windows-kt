@@ -1,0 +1,14 @@
+{
+  "Name": "LaunchQuerySupportType",
+  "Namespace": "Windows.System",
+  "Values": {
+    "Uri": 0,
+    "UriForResults": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

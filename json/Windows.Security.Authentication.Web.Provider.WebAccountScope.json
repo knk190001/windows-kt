@@ -1,0 +1,14 @@
+{
+  "Name": "WebAccountScope",
+  "Namespace": "Windows.Security.Authentication.Web.Provider",
+  "Values": {
+    "PerUser": 0,
+    "PerApplication": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "AudioPlaybackConnectionState",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "Closed": 0,
+    "Opened": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "WebAccountSelectionOptions",
+  "Namespace": "Windows.Security.Authentication.Web.Provider",
+  "Values": {
+    "Default": 0,
+    "New": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

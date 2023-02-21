@@ -1,0 +1,14 @@
+{
+  "Name": "DeploymentProgressState",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "Queued": 0,
+    "Processing": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

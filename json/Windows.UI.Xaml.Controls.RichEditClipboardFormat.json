@@ -1,0 +1,14 @@
+{
+  "Name": "RichEditClipboardFormat",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "AllFormats": 0,
+    "PlainText": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

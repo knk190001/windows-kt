@@ -1,0 +1,19 @@
+{
+  "Name": "MediaStreamSourceClosedReason",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Done": 0,
+    "UnknownError": 1,
+    "AppReportedError": 2,
+    "UnsupportedProtectionSystem": 3,
+    "ProtectionSystemFailure": 4,
+    "UnsupportedEncodingFormat": 5,
+    "MissingSampleRequestedEventHandler": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

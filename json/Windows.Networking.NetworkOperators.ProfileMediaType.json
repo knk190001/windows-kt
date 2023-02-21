@@ -1,0 +1,14 @@
+{
+  "Name": "ProfileMediaType",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Wlan": 0,
+    "Wwan": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

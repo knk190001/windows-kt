@@ -1,0 +1,14 @@
+{
+  "Name": "MapVisibleRegionKind",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Near": 0,
+    "Full": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

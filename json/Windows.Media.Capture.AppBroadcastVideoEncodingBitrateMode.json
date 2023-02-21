@@ -1,0 +1,14 @@
+{
+  "Name": "AppBroadcastVideoEncodingBitrateMode",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Custom": 0,
+    "Auto": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

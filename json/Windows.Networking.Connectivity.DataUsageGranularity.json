@@ -1,0 +1,16 @@
+{
+  "Name": "DataUsageGranularity",
+  "Namespace": "Windows.Networking.Connectivity",
+  "Values": {
+    "PerMinute": 0,
+    "PerHour": 1,
+    "PerDay": 2,
+    "Total": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

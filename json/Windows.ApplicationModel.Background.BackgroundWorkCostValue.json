@@ -1,0 +1,15 @@
+{
+  "Name": "BackgroundWorkCostValue",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "Low": 0,
+    "Medium": 1,
+    "High": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

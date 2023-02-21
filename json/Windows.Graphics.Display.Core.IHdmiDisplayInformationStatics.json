@@ -1,0 +1,21 @@
+{
+  "Name": "IHdmiDisplayInformationStatics",
+  "Namespace": "Windows.Graphics.Display.Core",
+  "Guid": "6ce6b260f42a4a15914c7b8e2a5a65df",
+  "Methods": [
+    {
+      "Name": "GetForCurrentView",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "HdmiDisplayInformation",
+        "Namespace": "Windows.Graphics.Display.Core",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

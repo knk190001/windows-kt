@@ -1,0 +1,14 @@
+{
+  "Name": "RichEditMathMode",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "NoMath": 0,
+    "MathOnly": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

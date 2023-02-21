@@ -1,0 +1,15 @@
+{
+  "Name": "TwoPaneViewWideModeConfiguration",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "SinglePane": 0,
+    "LeftRight": 1,
+    "RightLeft": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

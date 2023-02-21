@@ -1,0 +1,16 @@
+{
+  "Name": "MseEndOfStreamStatus",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Success": 0,
+    "NetworkError": 1,
+    "DecodeError": 2,
+    "UnknownError": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

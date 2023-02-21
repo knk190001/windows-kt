@@ -1,0 +1,17 @@
+{
+  "Name": "MdmAlertMark",
+  "Namespace": "Windows.Management",
+  "Values": {
+    "None": 0,
+    "Fatal": 1,
+    "Critical": 2,
+    "Warning": 3,
+    "Informational": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

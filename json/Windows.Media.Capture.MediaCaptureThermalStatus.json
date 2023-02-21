@@ -1,0 +1,14 @@
+{
+  "Name": "MediaCaptureThermalStatus",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Normal": 0,
+    "Overheated": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

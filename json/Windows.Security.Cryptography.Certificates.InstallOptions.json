@@ -1,0 +1,17 @@
+{
+  "Name": "InstallOptions",
+  "Namespace": "Windows.Security.Cryptography.Certificates",
+  "Values": {
+    "None": 0,
+    "DeleteExpired": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

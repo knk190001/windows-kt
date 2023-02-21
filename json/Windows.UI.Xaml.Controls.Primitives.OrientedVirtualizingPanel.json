@@ -1,0 +1,40 @@
+{
+  "Name": "OrientedVirtualizingPanel",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Interfaces": [
+    {
+      "Name": "IOrientedVirtualizingPanel",
+      "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IScrollSnapPointsInfo",
+      "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IInsertionPanel",
+      "Namespace": "Windows.UI.Xaml.Controls",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IOrientedVirtualizingPanel",
+        "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "MediaCommandEnablingRule",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "Auto": 0,
+    "Always": 1,
+    "Never": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

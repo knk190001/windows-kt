@@ -1,0 +1,15 @@
+{
+  "Name": "ToggleState",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "Off": 0,
+    "On": 1,
+    "Indeterminate": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

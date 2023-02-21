@@ -1,0 +1,9 @@
+{
+  "Name": "ICornerRadiusHelper",
+  "Namespace": "Windows.UI.Xaml",
+  "Guid": "fd7be1821cdb4288b8c885ee79297bfc",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

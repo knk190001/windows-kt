@@ -1,0 +1,15 @@
+{
+  "Name": "NavigationCacheMode",
+  "Namespace": "Windows.UI.Xaml.Navigation",
+  "Values": {
+    "Disabled": 0,
+    "Required": 1,
+    "Enabled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

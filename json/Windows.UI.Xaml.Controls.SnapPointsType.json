@@ -1,0 +1,17 @@
+{
+  "Name": "SnapPointsType",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "None": 0,
+    "Optional": 1,
+    "Mandatory": 2,
+    "OptionalSingle": 3,
+    "MandatorySingle": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

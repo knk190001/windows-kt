@@ -1,0 +1,15 @@
+{
+  "Name": "EnergySaverStatus",
+  "Namespace": "Windows.System.Power",
+  "Values": {
+    "Disabled": 0,
+    "Off": 1,
+    "On": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

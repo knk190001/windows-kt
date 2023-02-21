@@ -1,0 +1,20 @@
+{
+  "Name": "WebAuthenticationOptions",
+  "Namespace": "Windows.Security.Authentication.Web",
+  "Values": {
+    "None": 0,
+    "SilentMode": 1,
+    "UseTitle": 2,
+    "UseHttpPost": 4,
+    "UseCorporateNetwork": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

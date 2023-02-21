@@ -1,0 +1,9 @@
+{
+  "Name": "IListViewBaseHeaderItemAutomationPeer",
+  "Namespace": "Windows.UI.Xaml.Automation.Peers",
+  "Guid": "7cb8b732c1f04a3cbc1485dd48dedb85",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

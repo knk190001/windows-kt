@@ -1,0 +1,16 @@
+{
+  "Name": "PhoneNumberFormat",
+  "Namespace": "Windows.Globalization.PhoneNumberFormatting",
+  "Values": {
+    "E164": 0,
+    "International": 1,
+    "National": 2,
+    "Rfc3966": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

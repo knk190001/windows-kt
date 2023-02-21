@@ -1,0 +1,16 @@
+{
+  "Name": "ContactChangeType",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Created": 0,
+    "Modified": 1,
+    "Deleted": 2,
+    "ChangeTrackingLost": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

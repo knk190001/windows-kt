@@ -1,0 +1,15 @@
+{
+  "Name": "StretchDirection",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "UpOnly": 0,
+    "DownOnly": 1,
+    "Both": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

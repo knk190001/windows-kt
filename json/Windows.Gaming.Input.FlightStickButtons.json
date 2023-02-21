@@ -1,0 +1,18 @@
+{
+  "Name": "FlightStickButtons",
+  "Namespace": "Windows.Gaming.Input",
+  "Values": {
+    "None": 0,
+    "FirePrimary": 1,
+    "FireSecondary": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

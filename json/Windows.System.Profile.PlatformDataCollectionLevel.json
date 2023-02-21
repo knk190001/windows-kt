@@ -1,0 +1,16 @@
+{
+  "Name": "PlatformDataCollectionLevel",
+  "Namespace": "Windows.System.Profile",
+  "Values": {
+    "Security": 0,
+    "Basic": 1,
+    "Enhanced": 2,
+    "Full": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

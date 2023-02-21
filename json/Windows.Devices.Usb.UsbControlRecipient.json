@@ -1,0 +1,17 @@
+{
+  "Name": "UsbControlRecipient",
+  "Namespace": "Windows.Devices.Usb",
+  "Values": {
+    "Device": 0,
+    "SpecifiedInterface": 1,
+    "Endpoint": 2,
+    "Other": 3,
+    "DefaultInterface": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

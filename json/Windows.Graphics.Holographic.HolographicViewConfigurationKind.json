@@ -1,0 +1,14 @@
+{
+  "Name": "HolographicViewConfigurationKind",
+  "Namespace": "Windows.Graphics.Holographic",
+  "Values": {
+    "Display": 0,
+    "PhotoVideoCamera": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

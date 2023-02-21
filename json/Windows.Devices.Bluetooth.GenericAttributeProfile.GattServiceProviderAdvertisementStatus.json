@@ -1,0 +1,17 @@
+{
+  "Name": "GattServiceProviderAdvertisementStatus",
+  "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+  "Values": {
+    "Created": 0,
+    "Stopped": 1,
+    "Started": 2,
+    "Aborted": 3,
+    "StartedWithoutAllAdvertisementData": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

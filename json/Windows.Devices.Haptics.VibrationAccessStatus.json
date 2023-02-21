@@ -1,0 +1,16 @@
+{
+  "Name": "VibrationAccessStatus",
+  "Namespace": "Windows.Devices.Haptics",
+  "Values": {
+    "Allowed": 0,
+    "DeniedByUser": 1,
+    "DeniedBySystem": 2,
+    "DeniedByEnergySaver": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

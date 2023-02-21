@@ -1,0 +1,15 @@
+{
+  "Name": "WalletItemAppAssociation",
+  "Namespace": "Windows.ApplicationModel.Wallet.System",
+  "Values": {
+    "None": 0,
+    "AppInstalled": 1,
+    "AppNotInstalled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "SmartCardAppletIdGroupActivationPolicy",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Disabled": 0,
+    "ForegroundOverride": 1,
+    "Enabled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

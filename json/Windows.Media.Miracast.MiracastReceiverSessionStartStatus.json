@@ -1,0 +1,16 @@
+{
+  "Name": "MiracastReceiverSessionStartStatus",
+  "Namespace": "Windows.Media.Miracast",
+  "Values": {
+    "Success": 0,
+    "UnknownFailure": 1,
+    "MiracastNotSupported": 2,
+    "AccessDenied": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

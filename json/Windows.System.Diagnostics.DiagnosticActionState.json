@@ -1,0 +1,19 @@
+{
+  "Name": "DiagnosticActionState",
+  "Namespace": "Windows.System.Diagnostics",
+  "Values": {
+    "Initializing": 0,
+    "Downloading": 1,
+    "VerifyingTrust": 2,
+    "Detecting": 3,
+    "Resolving": 4,
+    "VerifyingResolution": 5,
+    "Executing": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

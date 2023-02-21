@@ -1,0 +1,15 @@
+{
+  "Name": "WalletSummaryViewPosition",
+  "Namespace": "Windows.ApplicationModel.Wallet",
+  "Values": {
+    "Hidden": 0,
+    "Field1": 1,
+    "Field2": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

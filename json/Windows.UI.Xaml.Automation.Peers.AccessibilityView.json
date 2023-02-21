@@ -1,0 +1,15 @@
+{
+  "Name": "AccessibilityView",
+  "Namespace": "Windows.UI.Xaml.Automation.Peers",
+  "Values": {
+    "Raw": 0,
+    "Control": 1,
+    "Content": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

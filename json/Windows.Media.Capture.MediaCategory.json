@@ -1,0 +1,20 @@
+{
+  "Name": "MediaCategory",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Other": 0,
+    "Communications": 1,
+    "Media": 2,
+    "GameChat": 3,
+    "Speech": 4,
+    "FarFieldSpeech": 5,
+    "UniformSpeech": 6,
+    "VoiceTyping": 7
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

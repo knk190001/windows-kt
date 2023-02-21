@@ -1,0 +1,18 @@
+{
+  "Name": "FocusInputDeviceKind",
+  "Namespace": "Windows.UI.Xaml.Input",
+  "Values": {
+    "None": 0,
+    "Mouse": 1,
+    "Touch": 2,
+    "Pen": 3,
+    "Keyboard": 4,
+    "GameController": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

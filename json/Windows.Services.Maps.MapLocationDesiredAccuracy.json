@@ -1,0 +1,14 @@
+{
+  "Name": "MapLocationDesiredAccuracy",
+  "Namespace": "Windows.Services.Maps",
+  "Values": {
+    "High": 0,
+    "Low": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

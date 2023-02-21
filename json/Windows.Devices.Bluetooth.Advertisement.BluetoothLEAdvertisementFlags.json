@@ -1,0 +1,21 @@
+{
+  "Name": "BluetoothLEAdvertisementFlags",
+  "Namespace": "Windows.Devices.Bluetooth.Advertisement",
+  "Values": {
+    "None": 0,
+    "LimitedDiscoverableMode": 1,
+    "GeneralDiscoverableMode": 2,
+    "ClassicNotSupported": 4,
+    "DualModeControllerCapable": 8,
+    "DualModeHostCapable": 16
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

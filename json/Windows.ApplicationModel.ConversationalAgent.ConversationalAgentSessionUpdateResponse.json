@@ -1,0 +1,14 @@
+{
+  "Name": "ConversationalAgentSessionUpdateResponse",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "Success": 0,
+    "Failed": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "BringIntoViewRequestedEventArgs",
+  "Namespace": "Windows.UI.Xaml",
+  "Interfaces": [
+    {
+      "Name": "IBringIntoViewRequestedEventArgs",
+      "Namespace": "Windows.UI.Xaml",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IBringIntoViewRequestedEventArgs",
+        "Namespace": "Windows.UI.Xaml",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

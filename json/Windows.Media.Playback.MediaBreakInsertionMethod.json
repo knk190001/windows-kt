@@ -1,0 +1,14 @@
+{
+  "Name": "MediaBreakInsertionMethod",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "Interrupt": 0,
+    "Replace": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

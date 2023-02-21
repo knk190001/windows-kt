@@ -1,0 +1,16 @@
+{
+  "Name": "VisualInteractionSourceRedirectionMode",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Values": {
+    "Off": 0,
+    "CapableTouchpadOnly": 1,
+    "PointerWheelOnly": 2,
+    "CapableTouchpadAndPointerWheel": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

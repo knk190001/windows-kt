@@ -1,0 +1,14 @@
+{
+  "Name": "ContactQuerySearchScope",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Local": 0,
+    "Server": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

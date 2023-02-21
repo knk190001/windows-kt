@@ -1,0 +1,16 @@
+{
+  "Name": "KnownLibraryId",
+  "Namespace": "Windows.Storage",
+  "Values": {
+    "Music": 0,
+    "Pictures": 1,
+    "Videos": 2,
+    "Documents": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

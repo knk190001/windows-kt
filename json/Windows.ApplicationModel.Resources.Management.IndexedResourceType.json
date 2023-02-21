@@ -1,0 +1,15 @@
+{
+  "Name": "IndexedResourceType",
+  "Namespace": "Windows.ApplicationModel.Resources.Management",
+  "Values": {
+    "String": 0,
+    "Path": 1,
+    "EmbeddedData": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

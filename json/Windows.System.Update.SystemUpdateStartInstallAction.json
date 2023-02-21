@@ -1,0 +1,14 @@
+{
+  "Name": "SystemUpdateStartInstallAction",
+  "Namespace": "Windows.System.Update",
+  "Values": {
+    "UpToReboot": 0,
+    "AllowReboot": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

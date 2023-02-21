@@ -1,0 +1,18 @@
+{
+  "Name": "FileUpdateStatus",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "Incomplete": 0,
+    "Complete": 1,
+    "UserInputNeeded": 2,
+    "CurrentlyUnavailable": 3,
+    "Failed": 4,
+    "CompleteAndRenamed": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

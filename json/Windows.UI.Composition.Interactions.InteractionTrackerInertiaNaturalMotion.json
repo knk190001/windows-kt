@@ -1,0 +1,35 @@
+{
+  "Name": "InteractionTrackerInertiaNaturalMotion",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Interfaces": [
+    {
+      "Name": "IInteractionTrackerInertiaNaturalMotion",
+      "Namespace": "Windows.UI.Composition.Interactions",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "Interfaces": [
+        {
+          "Name": "IInteractionTrackerInertiaNaturalMotionStatics",
+          "Namespace": "Windows.UI.Composition.Interactions"
+        }
+      ],
+      "TraitType": "Static"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "IInteractionTrackerInertiaNaturalMotion",
+        "Namespace": "Windows.UI.Composition.Interactions",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "CameraCaptureUIPhotoFormat",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Jpeg": 0,
+    "Png": 1,
+    "JpegXR": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "XYFocusNavigationStrategyOverride",
+  "Namespace": "Windows.UI.Xaml.Input",
+  "Values": {
+    "None": 0,
+    "Auto": 1,
+    "Projection": 2,
+    "NavigationDirectionDistance": 3,
+    "RectilinearDistance": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

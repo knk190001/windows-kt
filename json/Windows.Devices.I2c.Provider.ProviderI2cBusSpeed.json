@@ -1,0 +1,14 @@
+{
+  "Name": "ProviderI2cBusSpeed",
+  "Namespace": "Windows.Devices.I2c.Provider",
+  "Values": {
+    "StandardMode": 0,
+    "FastMode": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

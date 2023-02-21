@@ -1,0 +1,17 @@
+{
+  "Name": "PrintBordering",
+  "Namespace": "Windows.Graphics.Printing",
+  "Values": {
+    "Default": 0,
+    "NotAvailable": 1,
+    "PrinterCustom": 2,
+    "Bordered": 3,
+    "Borderless": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

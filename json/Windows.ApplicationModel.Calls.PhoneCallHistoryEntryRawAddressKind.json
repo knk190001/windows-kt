@@ -1,0 +1,14 @@
+{
+  "Name": "PhoneCallHistoryEntryRawAddressKind",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "PhoneNumber": 0,
+    "Custom": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

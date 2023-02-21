@@ -1,0 +1,15 @@
+{
+  "Name": "PhotoImportSubfolderDateFormat",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "Year": 0,
+    "YearMonth": 1,
+    "YearMonthDay": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

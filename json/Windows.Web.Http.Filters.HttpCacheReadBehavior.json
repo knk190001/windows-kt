@@ -1,0 +1,16 @@
+{
+  "Name": "HttpCacheReadBehavior",
+  "Namespace": "Windows.Web.Http.Filters",
+  "Values": {
+    "Default": 0,
+    "MostRecent": 1,
+    "OnlyFromCache": 2,
+    "NoCache": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

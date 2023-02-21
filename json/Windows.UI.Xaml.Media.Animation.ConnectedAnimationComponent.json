@@ -1,0 +1,16 @@
+{
+  "Name": "ConnectedAnimationComponent",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Values": {
+    "OffsetX": 0,
+    "OffsetY": 1,
+    "CrossFade": 2,
+    "Scale": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

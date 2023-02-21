@@ -1,0 +1,17 @@
+{
+  "Name": "DisplayBrightnessOverrideOptions",
+  "Namespace": "Windows.Graphics.Display",
+  "Values": {
+    "None": 0,
+    "UseDimmedPolicyWhenBatteryIsLow": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

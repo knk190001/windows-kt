@@ -1,0 +1,16 @@
+{
+  "Name": "AdvancedPhotoMode",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Auto": 0,
+    "Standard": 1,
+    "Hdr": 2,
+    "LowLight": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Printing3DTextureEdgeBehavior",
+  "Namespace": "Windows.Graphics.Printing3D",
+  "Values": {
+    "None": 0,
+    "Wrap": 1,
+    "Mirror": 2,
+    "Clamp": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

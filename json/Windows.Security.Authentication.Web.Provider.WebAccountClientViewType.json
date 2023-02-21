@@ -1,0 +1,14 @@
+{
+  "Name": "WebAccountClientViewType",
+  "Namespace": "Windows.Security.Authentication.Web.Provider",
+  "Values": {
+    "IdOnly": 0,
+    "IdAndProperties": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

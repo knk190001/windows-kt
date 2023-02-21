@@ -1,0 +1,14 @@
+{
+  "Name": "ComboBoxSelectionChangedTrigger",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Committed": 0,
+    "Always": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

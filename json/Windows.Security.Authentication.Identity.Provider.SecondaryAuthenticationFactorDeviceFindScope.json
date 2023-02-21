@@ -1,0 +1,14 @@
+{
+  "Name": "SecondaryAuthenticationFactorDeviceFindScope",
+  "Namespace": "Windows.Security.Authentication.Identity.Provider",
+  "Values": {
+    "User": 0,
+    "AllUsers": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

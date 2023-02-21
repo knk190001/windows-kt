@@ -1,0 +1,16 @@
+{
+  "Name": "EnterpriseStatus",
+  "Namespace": "Windows.Phone.Management.Deployment",
+  "Values": {
+    "Enrolled": 0,
+    "Disabled": 1,
+    "Revoked": 2,
+    "Expired": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

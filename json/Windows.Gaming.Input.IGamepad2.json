@@ -1,0 +1,33 @@
+{
+  "Name": "IGamepad2",
+  "Namespace": "Windows.Gaming.Input",
+  "Guid": "3c1689bd59154245b0c0c89fae0308ff",
+  "Methods": [
+    {
+      "Name": "GetButtonLabel",
+      "Parameters": [
+        {
+          "Name": "button",
+          "Type": {
+            "Name": "GamepadButtons",
+            "Namespace": "Windows.Gaming.Input",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "GameControllerButtonLabel",
+        "Namespace": "Windows.Gaming.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

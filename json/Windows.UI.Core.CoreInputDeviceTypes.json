@@ -1,0 +1,19 @@
+{
+  "Name": "CoreInputDeviceTypes",
+  "Namespace": "Windows.UI.Core",
+  "Values": {
+    "None": 0,
+    "Touch": 1,
+    "Pen": 2,
+    "Mouse": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

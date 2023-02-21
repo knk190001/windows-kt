@@ -1,0 +1,21 @@
+{
+  "Name": "IContactsProviderActivatedEventArgs",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "4580dca857504916aa52c0829521eb94",
+  "Methods": [
+    {
+      "Name": "get_Verb",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "String",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

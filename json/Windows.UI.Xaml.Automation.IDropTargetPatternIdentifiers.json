@@ -1,0 +1,9 @@
+{
+  "Name": "IDropTargetPatternIdentifiers",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Guid": "11865133a6fe4634bd180ef612b7b208",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

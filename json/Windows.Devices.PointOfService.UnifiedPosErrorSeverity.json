@@ -1,0 +1,18 @@
+{
+  "Name": "UnifiedPosErrorSeverity",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "UnknownErrorSeverity": 0,
+    "Warning": 1,
+    "Recoverable": 2,
+    "Unrecoverable": 3,
+    "AssistanceRequired": 4,
+    "Fatal": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

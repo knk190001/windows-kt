@@ -1,0 +1,14 @@
+{
+  "Name": "LetterCase",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Lower": 0,
+    "Upper": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

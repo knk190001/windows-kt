@@ -1,0 +1,15 @@
+{
+  "Name": "CoreWindowActivationState",
+  "Namespace": "Windows.UI.Core",
+  "Values": {
+    "CodeActivated": 0,
+    "Deactivated": 1,
+    "PointerActivated": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

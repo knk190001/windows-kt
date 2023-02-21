@@ -1,0 +1,14 @@
+{
+  "Name": "CompositionMappingMode",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Absolute": 0,
+    "Relative": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

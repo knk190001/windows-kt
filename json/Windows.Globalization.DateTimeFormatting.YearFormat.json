@@ -1,0 +1,16 @@
+{
+  "Name": "YearFormat",
+  "Namespace": "Windows.Globalization.DateTimeFormatting",
+  "Values": {
+    "None": 0,
+    "Default": 1,
+    "Abbreviated": 2,
+    "Full": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

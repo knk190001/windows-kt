@@ -1,0 +1,9 @@
+{
+  "Name": "IMapCustomExperienceChangedEventArgs",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Guid": "b9e6fb9b8fc14042ac34a61b38bb7514",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

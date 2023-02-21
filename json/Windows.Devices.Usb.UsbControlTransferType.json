@@ -1,0 +1,15 @@
+{
+  "Name": "UsbControlTransferType",
+  "Namespace": "Windows.Devices.Usb",
+  "Values": {
+    "Standard": 0,
+    "Class": 1,
+    "Vendor": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

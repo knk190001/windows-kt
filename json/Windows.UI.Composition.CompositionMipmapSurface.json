@@ -1,0 +1,33 @@
+{
+  "Name": "CompositionMipmapSurface",
+  "Namespace": "Windows.UI.Composition",
+  "Interfaces": [
+    {
+      "Name": "ICompositionMipmapSurface",
+      "Namespace": "Windows.UI.Composition",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "ICompositionSurface",
+      "Namespace": "Windows.UI.Composition",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "ICompositionMipmapSurface",
+        "Namespace": "Windows.UI.Composition",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

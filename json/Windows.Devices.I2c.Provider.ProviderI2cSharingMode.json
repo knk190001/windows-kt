@@ -1,0 +1,14 @@
+{
+  "Name": "ProviderI2cSharingMode",
+  "Namespace": "Windows.Devices.I2c.Provider",
+  "Values": {
+    "Exclusive": 0,
+    "Shared": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "ScrollingIndicatorMode",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Values": {
+    "None": 0,
+    "TouchIndicator": 1,
+    "MouseIndicator": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

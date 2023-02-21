@@ -1,0 +1,14 @@
+{
+  "Name": "UnderlineStyle",
+  "Namespace": "Windows.UI.Xaml.Documents",
+  "Values": {
+    "None": 0,
+    "Single": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

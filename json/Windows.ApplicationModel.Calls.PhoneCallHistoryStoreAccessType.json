@@ -1,0 +1,15 @@
+{
+  "Name": "PhoneCallHistoryStoreAccessType",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "AppEntriesReadWrite": 0,
+    "AllEntriesLimitedReadWrite": 1,
+    "AllEntriesReadWrite": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

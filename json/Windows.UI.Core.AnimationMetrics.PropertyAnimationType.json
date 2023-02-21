@@ -1,0 +1,15 @@
+{
+  "Name": "PropertyAnimationType",
+  "Namespace": "Windows.UI.Core.AnimationMetrics",
+  "Values": {
+    "Scale": 0,
+    "Translation": 1,
+    "Opacity": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

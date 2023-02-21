@@ -1,0 +1,18 @@
+{
+  "Name": "RoamingStates",
+  "Namespace": "Windows.Networking.Connectivity",
+  "Values": {
+    "None": 0,
+    "NotRoaming": 1,
+    "Roaming": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

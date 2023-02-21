@@ -1,0 +1,15 @@
+{
+  "Name": "ContactDateKind",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Birthday": 0,
+    "Anniversary": 1,
+    "Other": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

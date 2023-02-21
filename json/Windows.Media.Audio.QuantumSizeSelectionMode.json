@@ -1,0 +1,15 @@
+{
+  "Name": "QuantumSizeSelectionMode",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "SystemDefault": 0,
+    "LowestLatency": 1,
+    "ClosestToDesired": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

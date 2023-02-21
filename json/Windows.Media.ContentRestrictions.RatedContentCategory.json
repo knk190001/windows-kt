@@ -1,0 +1,18 @@
+{
+  "Name": "RatedContentCategory",
+  "Namespace": "Windows.Media.ContentRestrictions",
+  "Values": {
+    "General": 0,
+    "Application": 1,
+    "Game": 2,
+    "Movie": 3,
+    "Television": 4,
+    "Music": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

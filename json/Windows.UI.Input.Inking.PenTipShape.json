@@ -1,0 +1,14 @@
+{
+  "Name": "PenTipShape",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "Circle": 0,
+    "Rectangle": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

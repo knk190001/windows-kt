@@ -1,0 +1,15 @@
+{
+  "Name": "ESimProfileClass",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Operational": 0,
+    "Test": 1,
+    "Provisioning": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "SmartCardCryptogramStorageKeyAlgorithm",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "None": 0,
+    "Rsa2048": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

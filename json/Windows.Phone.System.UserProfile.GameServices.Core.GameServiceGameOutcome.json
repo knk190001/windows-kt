@@ -1,0 +1,16 @@
+{
+  "Name": "GameServiceGameOutcome",
+  "Namespace": "Windows.Phone.System.UserProfile.GameServices.Core",
+  "Values": {
+    "None": 0,
+    "Win": 1,
+    "Loss": 2,
+    "Tie": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

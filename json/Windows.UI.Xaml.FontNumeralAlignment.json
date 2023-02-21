@@ -1,0 +1,15 @@
+{
+  "Name": "FontNumeralAlignment",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Normal": 0,
+    "Proportional": 1,
+    "Tabular": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

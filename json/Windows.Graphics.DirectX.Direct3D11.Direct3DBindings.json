@@ -1,0 +1,25 @@
+{
+  "Name": "Direct3DBindings",
+  "Namespace": "Windows.Graphics.DirectX.Direct3D11",
+  "Values": {
+    "VertexBuffer": 1,
+    "IndexBuffer": 2,
+    "ConstantBuffer": 4,
+    "ShaderResource": 8,
+    "StreamOutput": 16,
+    "RenderTarget": 32,
+    "DepthStencil": 64,
+    "UnorderedAccess": 128,
+    "Decoder": 512,
+    "VideoEncoder": 1024
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

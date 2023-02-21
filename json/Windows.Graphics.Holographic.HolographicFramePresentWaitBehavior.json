@@ -1,0 +1,14 @@
+{
+  "Name": "HolographicFramePresentWaitBehavior",
+  "Namespace": "Windows.Graphics.Holographic",
+  "Values": {
+    "WaitForFrameToFinish": 0,
+    "DoNotWaitForFrameToFinish": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

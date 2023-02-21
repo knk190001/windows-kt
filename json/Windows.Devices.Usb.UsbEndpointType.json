@@ -1,0 +1,16 @@
+{
+  "Name": "UsbEndpointType",
+  "Namespace": "Windows.Devices.Usb",
+  "Values": {
+    "Control": 0,
+    "Isochronous": 1,
+    "Bulk": 2,
+    "Interrupt": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

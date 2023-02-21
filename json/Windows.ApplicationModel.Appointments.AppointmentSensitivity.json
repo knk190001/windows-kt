@@ -1,0 +1,14 @@
+{
+  "Name": "AppointmentSensitivity",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "Public": 0,
+    "Private": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

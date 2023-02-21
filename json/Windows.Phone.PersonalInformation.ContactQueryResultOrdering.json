@@ -1,0 +1,15 @@
+{
+  "Name": "ContactQueryResultOrdering",
+  "Namespace": "Windows.Phone.PersonalInformation",
+  "Values": {
+    "SystemDefault": 0,
+    "GivenNameFamilyName": 1,
+    "FamilyNameGivenName": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

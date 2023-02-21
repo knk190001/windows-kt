@@ -1,0 +1,9 @@
+{
+  "Name": "IPenTailButtonDoubleClickedEventArgs",
+  "Namespace": "Windows.Devices.Input",
+  "Guid": "846321a2618a5478b04cb358231da4a7",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

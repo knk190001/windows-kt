@@ -1,0 +1,16 @@
+{
+  "Name": "CoreProcessEventsOption",
+  "Namespace": "Windows.UI.Core",
+  "Values": {
+    "ProcessOneAndAllPending": 0,
+    "ProcessOneIfPresent": 1,
+    "ProcessUntilQuit": 2,
+    "ProcessAllIfPresent": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

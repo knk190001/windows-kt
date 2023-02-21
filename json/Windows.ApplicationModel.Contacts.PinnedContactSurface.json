@@ -1,0 +1,14 @@
+{
+  "Name": "PinnedContactSurface",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "StartMenu": 0,
+    "Taskbar": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

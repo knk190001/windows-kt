@@ -1,0 +1,14 @@
+{
+  "Name": "PhoneCallHistorySourceIdKind",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "CellularPhoneLineId": 0,
+    "PackageFamilyName": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

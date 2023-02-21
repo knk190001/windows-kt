@@ -1,0 +1,16 @@
+{
+  "Name": "TetheringOperationalState",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Unknown": 0,
+    "On": 1,
+    "Off": 2,
+    "InTransition": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

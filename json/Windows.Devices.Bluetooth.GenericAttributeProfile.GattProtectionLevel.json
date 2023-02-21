@@ -1,0 +1,16 @@
+{
+  "Name": "GattProtectionLevel",
+  "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+  "Values": {
+    "Plain": 0,
+    "AuthenticationRequired": 1,
+    "EncryptionRequired": 2,
+    "EncryptionAndAuthenticationRequired": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

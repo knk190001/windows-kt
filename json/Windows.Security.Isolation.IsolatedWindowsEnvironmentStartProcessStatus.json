@@ -1,0 +1,17 @@
+{
+  "Name": "IsolatedWindowsEnvironmentStartProcessStatus",
+  "Namespace": "Windows.Security.Isolation",
+  "Values": {
+    "Success": 0,
+    "UnknownFailure": 1,
+    "EnvironmentUnavailable": 2,
+    "FileNotFound": 3,
+    "AppNotRegistered": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

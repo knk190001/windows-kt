@@ -1,0 +1,9 @@
+{
+  "Name": "IStateTriggerBase",
+  "Namespace": "Windows.UI.Xaml",
+  "Guid": "48b20698af06466c805293666dde0e49",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

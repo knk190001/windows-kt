@@ -1,0 +1,14 @@
+{
+  "Name": "ControlChannelTriggerResourceType",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "RequestSoftwareSlot": 0,
+    "RequestHardwareSlot": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

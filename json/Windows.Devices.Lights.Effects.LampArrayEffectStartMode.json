@@ -1,0 +1,14 @@
+{
+  "Name": "LampArrayEffectStartMode",
+  "Namespace": "Windows.Devices.Lights.Effects",
+  "Values": {
+    "Sequential": 0,
+    "Simultaneous": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

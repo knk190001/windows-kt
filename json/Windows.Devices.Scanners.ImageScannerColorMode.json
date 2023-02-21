@@ -1,0 +1,16 @@
+{
+  "Name": "ImageScannerColorMode",
+  "Namespace": "Windows.Devices.Scanners",
+  "Values": {
+    "Color": 0,
+    "Grayscale": 1,
+    "Monochrome": 2,
+    "AutoColor": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

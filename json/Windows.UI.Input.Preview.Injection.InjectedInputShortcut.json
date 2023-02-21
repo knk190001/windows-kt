@@ -1,0 +1,15 @@
+{
+  "Name": "InjectedInputShortcut",
+  "Namespace": "Windows.UI.Input.Preview.Injection",
+  "Values": {
+    "Back": 0,
+    "Start": 1,
+    "Search": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "ProtectionPolicyAuditAction",
+  "Namespace": "Windows.Security.EnterpriseData",
+  "Values": {
+    "Decrypt": 0,
+    "CopyToLocation": 1,
+    "SendToRecipient": 2,
+    "Other": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

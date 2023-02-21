@@ -1,0 +1,15 @@
+{
+  "Name": "MagneticStripeReaderAuthenticationLevel",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "NotSupported": 0,
+    "Optional": 1,
+    "Required": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

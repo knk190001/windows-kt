@@ -1,0 +1,15 @@
+{
+  "Name": "ShareWindowCommand",
+  "Namespace": "Windows.UI.Shell",
+  "Values": {
+    "None": 0,
+    "StartSharing": 1,
+    "StopSharing": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ApplicationViewOrientation",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "Landscape": 0,
+    "Portrait": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "GameListEntryLaunchableState",
+  "Namespace": "Windows.Gaming.Preview.GamesEnumeration",
+  "Values": {
+    "NotLaunchable": 0,
+    "ByLastRunningFullPath": 1,
+    "ByUserProvidedPath": 2,
+    "ByTile": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "UserDataAccountProviderPartnerAccountKind",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts.Provider",
+  "Values": {
+    "Exchange": 0,
+    "PopOrImap": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "MediaCaptureMemoryPreference",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Auto": 0,
+    "Cpu": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

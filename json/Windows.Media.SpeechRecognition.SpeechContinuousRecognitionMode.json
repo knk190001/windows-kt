@@ -1,0 +1,14 @@
+{
+  "Name": "SpeechContinuousRecognitionMode",
+  "Namespace": "Windows.Media.SpeechRecognition",
+  "Values": {
+    "Default": 0,
+    "PauseOnRecognition": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

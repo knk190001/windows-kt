@@ -1,0 +1,16 @@
+{
+  "Name": "TranscodeFailureReason",
+  "Namespace": "Windows.Media.Transcoding",
+  "Values": {
+    "None": 0,
+    "Unknown": 1,
+    "InvalidProfile": 2,
+    "CodecNotFound": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

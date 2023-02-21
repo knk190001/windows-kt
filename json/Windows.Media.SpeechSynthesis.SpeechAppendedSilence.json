@@ -1,0 +1,14 @@
+{
+  "Name": "SpeechAppendedSilence",
+  "Namespace": "Windows.Media.SpeechSynthesis",
+  "Values": {
+    "Default": 0,
+    "Min": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

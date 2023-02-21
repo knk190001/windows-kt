@@ -1,0 +1,9 @@
+{
+  "Name": "ISlideNavigationTransitionInfo",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Guid": "d6ac9d772e03405f80ede62beef3668f",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

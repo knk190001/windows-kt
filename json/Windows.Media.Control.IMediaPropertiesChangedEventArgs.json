@@ -1,0 +1,9 @@
+{
+  "Name": "IMediaPropertiesChangedEventArgs",
+  "Namespace": "Windows.Media.Control",
+  "Guid": "7d3741cbadf05cef91bacfabcdd77678",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

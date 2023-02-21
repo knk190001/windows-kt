@@ -1,0 +1,14 @@
+{
+  "Name": "VisitMonitoringScope",
+  "Namespace": "Windows.Devices.Geolocation",
+  "Values": {
+    "Venue": 0,
+    "City": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

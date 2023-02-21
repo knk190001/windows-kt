@@ -1,0 +1,14 @@
+{
+  "Name": "DeprecationType",
+  "Namespace": "Windows.Foundation.Metadata",
+  "Values": {
+    "Deprecate": 0,
+    "Remove": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

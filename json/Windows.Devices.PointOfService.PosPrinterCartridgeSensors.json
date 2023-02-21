@@ -1,0 +1,20 @@
+{
+  "Name": "PosPrinterCartridgeSensors",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "None": 0,
+    "Removed": 1,
+    "Empty": 2,
+    "HeadCleaning": 4,
+    "NearEnd": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "ISurfaceImageSource",
+  "Namespace": "Windows.UI.Xaml.Media.Imaging",
+  "Guid": "62f7d416c7144c4c8273f839bc58135c",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

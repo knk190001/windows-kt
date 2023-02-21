@@ -1,0 +1,15 @@
+{
+  "Name": "RemoteSystemSessionDisconnectedReason",
+  "Namespace": "Windows.System.RemoteSystems",
+  "Values": {
+    "SessionUnavailable": 0,
+    "RemovedByController": 1,
+    "SessionClosed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

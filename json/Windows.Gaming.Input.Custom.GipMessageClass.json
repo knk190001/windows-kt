@@ -1,0 +1,15 @@
+{
+  "Name": "GipMessageClass",
+  "Namespace": "Windows.Gaming.Input.Custom",
+  "Values": {
+    "Command": 0,
+    "LowLatency": 1,
+    "StandardLatency": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

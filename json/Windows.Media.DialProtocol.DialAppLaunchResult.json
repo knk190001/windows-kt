@@ -1,0 +1,16 @@
+{
+  "Name": "DialAppLaunchResult",
+  "Namespace": "Windows.Media.DialProtocol",
+  "Values": {
+    "Launched": 0,
+    "FailedToLaunch": 1,
+    "NotFound": 2,
+    "NetworkFailure": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

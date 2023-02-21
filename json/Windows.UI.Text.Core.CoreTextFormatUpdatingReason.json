@@ -1,0 +1,17 @@
+{
+  "Name": "CoreTextFormatUpdatingReason",
+  "Namespace": "Windows.UI.Text.Core",
+  "Values": {
+    "None": 0,
+    "CompositionUnconverted": 1,
+    "CompositionConverted": 2,
+    "CompositionTargetUnconverted": 3,
+    "CompositionTargetConverted": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "PlayToConnectionState",
+  "Namespace": "Windows.Media.PlayTo",
+  "Values": {
+    "Disconnected": 0,
+    "Connected": 1,
+    "Rendering": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

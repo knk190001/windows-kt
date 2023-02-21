@@ -1,0 +1,15 @@
+{
+  "Name": "SetFileNameResult",
+  "Namespace": "Windows.Storage.Pickers.Provider",
+  "Values": {
+    "Succeeded": 0,
+    "NotAllowed": 1,
+    "Unavailable": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

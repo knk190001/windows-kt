@@ -1,0 +1,21 @@
+{
+  "Name": "IDialReceiverActivatedEventArgs",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "fb777ed785ee456ea44d85d730e70aed",
+  "Methods": [
+    {
+      "Name": "get_AppName",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "String",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

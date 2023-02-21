@@ -1,0 +1,16 @@
+{
+  "Name": "AudioGraphCreationStatus",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "Success": 0,
+    "DeviceNotAvailable": 1,
+    "FormatNotSupported": 2,
+    "UnknownFailure": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

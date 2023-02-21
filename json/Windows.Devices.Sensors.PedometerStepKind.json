@@ -1,0 +1,15 @@
+{
+  "Name": "PedometerStepKind",
+  "Namespace": "Windows.Devices.Sensors",
+  "Values": {
+    "Unknown": 0,
+    "Walking": 1,
+    "Running": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

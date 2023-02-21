@@ -1,0 +1,17 @@
+{
+  "Name": "AppBroadcastSignInState",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "NotSignedIn": 0,
+    "MicrosoftSignInInProgress": 1,
+    "MicrosoftSignInComplete": 2,
+    "OAuthSignInInProgress": 3,
+    "OAuthSignInComplete": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "MapWatermarkMode",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Automatic": 0,
+    "On": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

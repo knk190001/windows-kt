@@ -1,0 +1,32 @@
+{
+  "Name": "ICapturedFrame",
+  "Namespace": "Windows.Media.Capture",
+  "Guid": "1dd2de1f571b44d88e80a08a1578766e",
+  "Methods": [
+    {
+      "Name": "get_Width",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "UInt32",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "get_Height",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "UInt32",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

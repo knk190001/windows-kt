@@ -1,0 +1,16 @@
+{
+  "Name": "PhoneNumberMatchResult",
+  "Namespace": "Windows.Globalization.PhoneNumberFormatting",
+  "Values": {
+    "NoMatch": 0,
+    "ShortNationalSignificantNumberMatch": 1,
+    "NationalSignificantNumberMatch": 2,
+    "ExactMatch": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

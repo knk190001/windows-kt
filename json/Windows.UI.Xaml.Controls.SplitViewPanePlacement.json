@@ -1,0 +1,14 @@
+{
+  "Name": "SplitViewPanePlacement",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Left": 0,
+    "Right": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

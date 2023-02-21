@@ -1,0 +1,16 @@
+{
+  "Name": "FullTrustLaunchResult",
+  "Namespace": "Windows.ApplicationModel",
+  "Values": {
+    "Success": 0,
+    "AccessDenied": 1,
+    "FileNotFound": 2,
+    "Unknown": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

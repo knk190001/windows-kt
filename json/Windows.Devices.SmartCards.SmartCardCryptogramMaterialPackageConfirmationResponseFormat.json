@@ -1,0 +1,14 @@
+{
+  "Name": "SmartCardCryptogramMaterialPackageConfirmationResponseFormat",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "None": 0,
+    "VisaHmac": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

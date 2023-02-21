@@ -1,0 +1,16 @@
+{
+  "Name": "AutoLoadedDisplayPropertyKind",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "None": 0,
+    "MusicOrVideo": 1,
+    "Music": 2,
+    "Video": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

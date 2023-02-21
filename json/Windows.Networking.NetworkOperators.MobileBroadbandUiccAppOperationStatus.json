@@ -1,0 +1,16 @@
+{
+  "Name": "MobileBroadbandUiccAppOperationStatus",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Success": 0,
+    "InvalidUiccFilePath": 1,
+    "AccessConditionNotHeld": 2,
+    "UiccBusy": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

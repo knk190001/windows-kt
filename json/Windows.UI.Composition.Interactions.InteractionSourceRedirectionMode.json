@@ -1,0 +1,14 @@
+{
+  "Name": "InteractionSourceRedirectionMode",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Values": {
+    "Disabled": 0,
+    "Enabled": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

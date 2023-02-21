@@ -1,0 +1,16 @@
+{
+  "Name": "MediaProcessingTriggerResult",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "Allowed": 0,
+    "CurrentlyRunning": 1,
+    "DisabledByPolicy": 2,
+    "UnknownError": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

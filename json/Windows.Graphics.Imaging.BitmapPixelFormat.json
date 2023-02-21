@@ -1,0 +1,21 @@
+{
+  "Name": "BitmapPixelFormat",
+  "Namespace": "Windows.Graphics.Imaging",
+  "Values": {
+    "Unknown": 0,
+    "Rgba16": 12,
+    "Rgba8": 30,
+    "Gray16": 57,
+    "Gray8": 62,
+    "Bgra8": 87,
+    "Nv12": 103,
+    "P010": 104,
+    "Yuy2": 107
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

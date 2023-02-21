@@ -1,0 +1,15 @@
+{
+  "Name": "BluetoothLEScanningMode",
+  "Namespace": "Windows.Devices.Bluetooth.Advertisement",
+  "Values": {
+    "Passive": 0,
+    "Active": 1,
+    "None": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

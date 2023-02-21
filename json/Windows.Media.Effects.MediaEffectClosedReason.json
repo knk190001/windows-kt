@@ -1,0 +1,16 @@
+{
+  "Name": "MediaEffectClosedReason",
+  "Namespace": "Windows.Media.Effects",
+  "Values": {
+    "Done": 0,
+    "UnknownError": 1,
+    "UnsupportedEncodingFormat": 2,
+    "EffectCurrentlyUnloaded": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

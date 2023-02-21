@@ -1,0 +1,14 @@
+{
+  "Name": "CommandBarLabelPosition",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Default": 0,
+    "Collapsed": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

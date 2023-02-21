@@ -1,0 +1,32 @@
+{
+  "Name": "IPlayReadyContentHeader2",
+  "Namespace": "Windows.Media.Protection.PlayReady",
+  "Guid": "359c79f42180498c965be754d875eab2",
+  "Methods": [
+    {
+      "Name": "get_KeyIds",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "Guid",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": true,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "get_KeyIdStrings",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "String",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": true,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

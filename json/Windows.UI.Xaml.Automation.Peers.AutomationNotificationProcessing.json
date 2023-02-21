@@ -1,0 +1,17 @@
+{
+  "Name": "AutomationNotificationProcessing",
+  "Namespace": "Windows.UI.Xaml.Automation.Peers",
+  "Values": {
+    "ImportantAll": 0,
+    "ImportantMostRecent": 1,
+    "All": 2,
+    "MostRecent": 3,
+    "CurrentThenMostRecent": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

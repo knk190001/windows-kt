@@ -1,0 +1,16 @@
+{
+  "Name": "WebViewPermissionState",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Unknown": 0,
+    "Defer": 1,
+    "Allow": 2,
+    "Deny": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

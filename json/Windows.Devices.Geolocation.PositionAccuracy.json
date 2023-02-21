@@ -1,0 +1,14 @@
+{
+  "Name": "PositionAccuracy",
+  "Namespace": "Windows.Devices.Geolocation",
+  "Values": {
+    "Default": 0,
+    "High": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

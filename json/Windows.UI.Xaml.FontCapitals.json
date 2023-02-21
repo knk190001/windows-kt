@@ -1,0 +1,19 @@
+{
+  "Name": "FontCapitals",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Normal": 0,
+    "AllSmallCaps": 1,
+    "SmallCaps": 2,
+    "AllPetiteCaps": 3,
+    "PetiteCaps": 4,
+    "Unicase": 5,
+    "Titling": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

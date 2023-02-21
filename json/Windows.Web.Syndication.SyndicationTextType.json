@@ -1,0 +1,15 @@
+{
+  "Name": "SyndicationTextType",
+  "Namespace": "Windows.Web.Syndication",
+  "Values": {
+    "Text": 0,
+    "Html": 1,
+    "Xhtml": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

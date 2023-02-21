@@ -1,0 +1,14 @@
+{
+  "Name": "NDMediaStreamType",
+  "Namespace": "Windows.Media.Protection.PlayReady",
+  "Values": {
+    "Audio": 1,
+    "Video": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

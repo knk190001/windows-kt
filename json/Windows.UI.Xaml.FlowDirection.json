@@ -1,0 +1,14 @@
+{
+  "Name": "FlowDirection",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "LeftToRight": 0,
+    "RightToLeft": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

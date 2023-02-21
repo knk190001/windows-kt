@@ -1,0 +1,15 @@
+{
+  "Name": "UnifiedPosPowerReportingType",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "UnknownPowerReportingType": 0,
+    "Standard": 1,
+    "Advanced": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

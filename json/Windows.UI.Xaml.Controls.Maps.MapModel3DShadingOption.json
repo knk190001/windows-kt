@@ -1,0 +1,15 @@
+{
+  "Name": "MapModel3DShadingOption",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Default": 0,
+    "Flat": 1,
+    "Smooth": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

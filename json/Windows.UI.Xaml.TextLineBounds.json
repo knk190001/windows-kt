@@ -1,0 +1,16 @@
+{
+  "Name": "TextLineBounds",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Full": 0,
+    "TrimToCapHeight": 1,
+    "TrimToBaseline": 2,
+    "Tight": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

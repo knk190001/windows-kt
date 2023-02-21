@@ -1,0 +1,19 @@
+{
+  "Name": "CachedFileOptions",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "None": 0,
+    "RequireUpdateOnAccess": 1,
+    "UseCachedFileWhenOffline": 2,
+    "DenyAccessWhenOffline": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

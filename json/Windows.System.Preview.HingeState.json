@@ -1,0 +1,18 @@
+{
+  "Name": "HingeState",
+  "Namespace": "Windows.System.Preview",
+  "Values": {
+    "Unknown": 0,
+    "Closed": 1,
+    "Concave": 2,
+    "Flat": 3,
+    "Convex": 4,
+    "Full": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

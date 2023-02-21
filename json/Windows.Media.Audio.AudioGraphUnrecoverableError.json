@@ -1,0 +1,16 @@
+{
+  "Name": "AudioGraphUnrecoverableError",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "None": 0,
+    "AudioDeviceLost": 1,
+    "AudioSessionDisconnected": 2,
+    "UnknownFailure": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

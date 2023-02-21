@@ -1,0 +1,16 @@
+{
+  "Name": "ExpandCollapseState",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "Collapsed": 0,
+    "Expanded": 1,
+    "PartiallyExpanded": 2,
+    "LeafNode": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

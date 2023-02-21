@@ -1,0 +1,17 @@
+{
+  "Name": "CastingConnectionState",
+  "Namespace": "Windows.Media.Casting",
+  "Values": {
+    "Disconnected": 0,
+    "Connected": 1,
+    "Rendering": 2,
+    "Disconnecting": 3,
+    "Connecting": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

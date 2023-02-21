@@ -1,0 +1,21 @@
+{
+  "Name": "IAppointmentsProviderAddAppointmentActivatedEventArgs",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "a2861367cee54e4d9ed741c34ec18b02",
+  "Methods": [
+    {
+      "Name": "get_AddAppointmentOperation",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "AddAppointmentOperation",
+        "Namespace": "Windows.ApplicationModel.Appointments.AppointmentsProvider",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

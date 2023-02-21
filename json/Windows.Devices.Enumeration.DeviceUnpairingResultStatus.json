@@ -1,0 +1,17 @@
+{
+  "Name": "DeviceUnpairingResultStatus",
+  "Namespace": "Windows.Devices.Enumeration",
+  "Values": {
+    "Unpaired": 0,
+    "AlreadyUnpaired": 1,
+    "OperationAlreadyInProgress": 2,
+    "AccessDenied": 3,
+    "Failed": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "InjectedInputPenParameters",
+  "Namespace": "Windows.UI.Input.Preview.Injection",
+  "Values": {
+    "None": 0,
+    "Pressure": 1,
+    "Rotation": 2,
+    "TiltX": 4,
+    "TiltY": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

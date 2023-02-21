@@ -1,0 +1,15 @@
+{
+  "Name": "FontNumeralStyle",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Normal": 0,
+    "Lining": 1,
+    "OldStyle": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

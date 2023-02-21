@@ -1,0 +1,15 @@
+{
+  "Name": "PhotoImportPowerSource",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "Unknown": 0,
+    "Battery": 1,
+    "External": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

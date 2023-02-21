@@ -1,0 +1,14 @@
+{
+  "Name": "SphericalVideoProjectionMode",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "Spherical": 0,
+    "Flat": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

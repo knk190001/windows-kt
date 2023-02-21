@@ -1,0 +1,16 @@
+{
+  "Name": "ProductPurchaseStatus",
+  "Namespace": "Windows.ApplicationModel.Store",
+  "Values": {
+    "Succeeded": 0,
+    "AlreadyPurchased": 1,
+    "NotFulfilled": 2,
+    "NotPurchased": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

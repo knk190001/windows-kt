@@ -1,0 +1,16 @@
+{
+  "Name": "LimitedAccessFeatureStatus",
+  "Namespace": "Windows.ApplicationModel",
+  "Values": {
+    "Unavailable": 0,
+    "Available": 1,
+    "AvailableWithoutToken": 2,
+    "Unknown": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

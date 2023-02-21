@@ -1,0 +1,15 @@
+{
+  "Name": "AppWindowClosedReason",
+  "Namespace": "Windows.UI.WindowManagement",
+  "Values": {
+    "Other": 0,
+    "AppInitiated": 1,
+    "UserInitiated": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

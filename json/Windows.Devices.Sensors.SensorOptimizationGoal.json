@@ -1,0 +1,14 @@
+{
+  "Name": "SensorOptimizationGoal",
+  "Namespace": "Windows.Devices.Sensors",
+  "Values": {
+    "Precision": 0,
+    "PowerEfficiency": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

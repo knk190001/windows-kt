@@ -1,0 +1,14 @@
+{
+  "Name": "SpatialMovementRange",
+  "Namespace": "Windows.Perception.Spatial",
+  "Values": {
+    "NoMovement": 0,
+    "Bounded": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "IWebViewSeparateProcessLostEventArgs",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Guid": "a405700ac48240b5aaeae10cfa9f5abe",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "Projection",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Interfaces": [
+    {
+      "Name": "IProjection",
+      "Namespace": "Windows.UI.Xaml.Media",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IProjection",
+        "Namespace": "Windows.UI.Xaml.Media",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    },
+    {
+      "CompositionFactoryTypes": [
+        {
+          "Name": "IProjectionFactory",
+          "Namespace": "Windows.UI.Xaml.Media",
+          "GenericParameters": null,
+          "IsArray": false,
+          "IsReference": false
+        }
+      ],
+      "TraitType": "CompositionActivation"
+    }
+  ],
+  "Type": "Class"
+}

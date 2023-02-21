@@ -1,0 +1,15 @@
+{
+  "Name": "AppViewBackButtonVisibility",
+  "Namespace": "Windows.UI.Core",
+  "Values": {
+    "Visible": 0,
+    "Collapsed": 1,
+    "Disabled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

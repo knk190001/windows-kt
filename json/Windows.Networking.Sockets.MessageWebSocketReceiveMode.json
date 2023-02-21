@@ -1,0 +1,14 @@
+{
+  "Name": "MessageWebSocketReceiveMode",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "FullMessage": 0,
+    "PartialMessage": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

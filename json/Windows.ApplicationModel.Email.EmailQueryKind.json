@@ -1,0 +1,18 @@
+{
+  "Name": "EmailQueryKind",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "All": 0,
+    "Important": 1,
+    "Flagged": 2,
+    "Unread": 3,
+    "Read": 4,
+    "Unseen": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

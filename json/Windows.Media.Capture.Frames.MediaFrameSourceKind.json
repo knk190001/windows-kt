@@ -1,0 +1,19 @@
+{
+  "Name": "MediaFrameSourceKind",
+  "Namespace": "Windows.Media.Capture.Frames",
+  "Values": {
+    "Custom": 0,
+    "Color": 1,
+    "Infrared": 2,
+    "Depth": 3,
+    "Audio": 4,
+    "Image": 5,
+    "Metadata": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

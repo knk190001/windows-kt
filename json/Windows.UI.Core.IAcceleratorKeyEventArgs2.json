@@ -1,0 +1,21 @@
+{
+  "Name": "IAcceleratorKeyEventArgs2",
+  "Namespace": "Windows.UI.Core",
+  "Guid": "d300a9f62f7e4873a555166e596ee1c5",
+  "Methods": [
+    {
+      "Name": "get_DeviceId",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "String",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

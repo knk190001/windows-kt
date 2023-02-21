@@ -1,0 +1,15 @@
+{
+  "Name": "AppInstallType",
+  "Namespace": "Windows.ApplicationModel.Store.Preview.InstallControl",
+  "Values": {
+    "Install": 0,
+    "Update": 1,
+    "Repair": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

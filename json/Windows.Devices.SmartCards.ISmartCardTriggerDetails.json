@@ -1,0 +1,43 @@
+{
+  "Name": "ISmartCardTriggerDetails",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Guid": "5f9bf11e39ef4f2bb44f0a9155b177bc",
+  "Methods": [
+    {
+      "Name": "get_TriggerType",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "SmartCardTriggerType",
+        "Namespace": "Windows.Devices.SmartCards",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "get_SourceAppletId",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "IBuffer",
+        "Namespace": "Windows.Storage.Streams",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "get_TriggerData",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "IBuffer",
+        "Namespace": "Windows.Storage.Streams",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

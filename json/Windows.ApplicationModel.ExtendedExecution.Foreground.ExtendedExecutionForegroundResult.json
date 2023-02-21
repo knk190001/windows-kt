@@ -1,0 +1,14 @@
+{
+  "Name": "ExtendedExecutionForegroundResult",
+  "Namespace": "Windows.ApplicationModel.ExtendedExecution.Foreground",
+  "Values": {
+    "Allowed": 0,
+    "Denied": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

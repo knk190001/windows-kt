@@ -1,0 +1,16 @@
+{
+  "Name": "StorageProviderHydrationPolicy",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "Partial": 0,
+    "Progressive": 1,
+    "Full": 2,
+    "AlwaysFull": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

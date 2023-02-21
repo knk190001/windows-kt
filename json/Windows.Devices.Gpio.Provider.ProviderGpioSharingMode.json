@@ -1,0 +1,14 @@
+{
+  "Name": "ProviderGpioSharingMode",
+  "Namespace": "Windows.Devices.Gpio.Provider",
+  "Values": {
+    "Exclusive": 0,
+    "SharedReadOnly": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

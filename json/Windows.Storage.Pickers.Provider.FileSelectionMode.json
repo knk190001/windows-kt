@@ -1,0 +1,14 @@
+{
+  "Name": "FileSelectionMode",
+  "Namespace": "Windows.Storage.Pickers.Provider",
+  "Values": {
+    "Single": 0,
+    "Multiple": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "DisplayWireFormatColorSpace",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "BT709": 0,
+    "BT2020": 1,
+    "ProfileDefinedWideColorGamut": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "PositionSource",
+  "Namespace": "Windows.Devices.Geolocation",
+  "Values": {
+    "Cellular": 0,
+    "Satellite": 1,
+    "WiFi": 2,
+    "IPAddress": 3,
+    "Unknown": 4,
+    "Default": 5,
+    "Obfuscated": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

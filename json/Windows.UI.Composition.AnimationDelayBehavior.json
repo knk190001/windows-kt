@@ -1,0 +1,14 @@
+{
+  "Name": "AnimationDelayBehavior",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "SetInitialValueAfterDelay": 0,
+    "SetInitialValueBeforeDelay": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

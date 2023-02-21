@@ -1,0 +1,15 @@
+{
+  "Name": "SlideNavigationTransitionEffect",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Values": {
+    "FromBottom": 0,
+    "FromLeft": 1,
+    "FromRight": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

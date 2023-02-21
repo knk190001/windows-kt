@@ -1,0 +1,15 @@
+{
+  "Name": "SecondaryAuthenticationFactorFinishAuthenticationStatus",
+  "Namespace": "Windows.Security.Authentication.Identity.Provider",
+  "Values": {
+    "Failed": 0,
+    "Completed": 1,
+    "NonceExpired": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "VirtualizationMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Standard": 0,
+    "Recycling": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

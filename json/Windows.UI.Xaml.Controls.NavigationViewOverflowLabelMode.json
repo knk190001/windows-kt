@@ -1,0 +1,14 @@
+{
+  "Name": "NavigationViewOverflowLabelMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "MoreLabel": 0,
+    "NoLabel": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

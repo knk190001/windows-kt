@@ -1,0 +1,18 @@
+{
+  "Name": "AddResourcePackageOptions",
+  "Namespace": "Windows.ApplicationModel",
+  "Values": {
+    "None": 0,
+    "ForceTargetAppShutdown": 1,
+    "ApplyUpdateIfAvailable": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "UserDataTaskSensitivity",
+  "Namespace": "Windows.ApplicationModel.UserDataTasks",
+  "Values": {
+    "Public": 0,
+    "Private": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "ScrollAmount",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "LargeDecrement": 0,
+    "SmallDecrement": 1,
+    "NoAmount": 2,
+    "LargeIncrement": 3,
+    "SmallIncrement": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

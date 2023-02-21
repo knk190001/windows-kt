@@ -1,0 +1,14 @@
+{
+  "Name": "ComponentResourceLocation",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Values": {
+    "Application": 0,
+    "Nested": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

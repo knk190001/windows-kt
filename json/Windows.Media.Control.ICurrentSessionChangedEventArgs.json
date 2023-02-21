@@ -1,0 +1,9 @@
+{
+  "Name": "ICurrentSessionChangedEventArgs",
+  "Namespace": "Windows.Media.Control",
+  "Guid": "6969cb390bfa5fe08d7309cc5e5408e1",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

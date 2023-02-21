@@ -1,0 +1,15 @@
+{
+  "Name": "PhotoImportItemSelectionMode",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "SelectAll": 0,
+    "SelectNone": 1,
+    "SelectNew": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

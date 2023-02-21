@@ -1,0 +1,17 @@
+{
+  "Name": "GpioOpenStatus",
+  "Namespace": "Windows.Devices.Gpio",
+  "Values": {
+    "PinOpened": 0,
+    "PinUnavailable": 1,
+    "SharingViolation": 2,
+    "MuxingConflict": 3,
+    "UnknownError": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

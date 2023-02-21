@@ -1,0 +1,14 @@
+{
+  "Name": "ContactNameOrder",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "FirstNameLastName": 0,
+    "LastNameFirstName": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "AppointmentBusyStatus",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "Busy": 0,
+    "Tentative": 1,
+    "Free": 2,
+    "OutOfOffice": 3,
+    "WorkingElsewhere": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

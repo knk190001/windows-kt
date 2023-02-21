@@ -1,0 +1,14 @@
+{
+  "Name": "PhoneCallTransport",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "Cellular": 0,
+    "Voip": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

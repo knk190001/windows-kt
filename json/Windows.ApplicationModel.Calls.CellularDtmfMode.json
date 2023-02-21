@@ -1,0 +1,14 @@
+{
+  "Name": "CellularDtmfMode",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Continuous": 0,
+    "Burst": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

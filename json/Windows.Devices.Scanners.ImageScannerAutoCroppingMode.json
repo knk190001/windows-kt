@@ -1,0 +1,15 @@
+{
+  "Name": "ImageScannerAutoCroppingMode",
+  "Namespace": "Windows.Devices.Scanners",
+  "Values": {
+    "Disabled": 0,
+    "SingleRegion": 1,
+    "MultipleRegion": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

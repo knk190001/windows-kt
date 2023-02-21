@@ -1,0 +1,9 @@
+{
+  "Name": "ISpeechRecognitionVoiceCommandDefinitionConstraint",
+  "Namespace": "Windows.Media.SpeechRecognition",
+  "Guid": "f2791c2b1ef44ae79d77b6ff10b8a3c2",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

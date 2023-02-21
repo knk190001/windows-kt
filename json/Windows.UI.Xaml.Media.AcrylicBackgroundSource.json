@@ -1,0 +1,14 @@
+{
+  "Name": "AcrylicBackgroundSource",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "HostBackdrop": 0,
+    "Backdrop": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

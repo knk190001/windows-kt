@@ -1,0 +1,21 @@
+{
+  "Name": "ICachedFileUpdaterActivatedEventArgs",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "d06eb1c738054ecbb7576cf15e26fef3",
+  "Methods": [
+    {
+      "Name": "get_CachedFileUpdaterUI",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "CachedFileUpdaterUI",
+        "Namespace": "Windows.Storage.Provider",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "IAdcControllerStatics2",
+  "Namespace": "Windows.Devices.Adc",
+  "Guid": "a2b93b1d977b4f5aa5fea6abaffe6484",
+  "Methods": [
+    {
+      "Name": "GetDefaultAsync",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "IAsyncOperation`1",
+        "Namespace": "Windows.Foundation",
+        "GenericParameters": [
+          {
+            "Name": "TResult",
+            "Position": 0,
+            "Type": {
+              "Name": "AdcController",
+              "Namespace": "Windows.Devices.Adc",
+              "GenericParameters": null,
+              "IsArray": false,
+              "IsReference": false
+            }
+          }
+        ],
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

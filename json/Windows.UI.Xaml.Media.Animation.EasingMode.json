@@ -1,0 +1,15 @@
+{
+  "Name": "EasingMode",
+  "Namespace": "Windows.UI.Xaml.Media.Animation",
+  "Values": {
+    "EaseOut": 0,
+    "EaseIn": 1,
+    "EaseInOut": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

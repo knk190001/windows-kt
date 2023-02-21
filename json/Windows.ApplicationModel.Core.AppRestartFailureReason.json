@@ -1,0 +1,16 @@
+{
+  "Name": "AppRestartFailureReason",
+  "Namespace": "Windows.ApplicationModel.Core",
+  "Values": {
+    "RestartPending": 0,
+    "NotInForeground": 1,
+    "InvalidUser": 2,
+    "Other": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

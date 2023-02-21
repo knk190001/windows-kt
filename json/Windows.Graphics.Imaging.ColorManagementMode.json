@@ -1,0 +1,14 @@
+{
+  "Name": "ColorManagementMode",
+  "Namespace": "Windows.Graphics.Imaging",
+  "Values": {
+    "DoNotColorManage": 0,
+    "ColorManageToSRgb": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

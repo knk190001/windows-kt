@@ -1,0 +1,14 @@
+{
+  "Name": "AnimationControllerProgressBehavior",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Default": 0,
+    "IncludesDelayTime": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

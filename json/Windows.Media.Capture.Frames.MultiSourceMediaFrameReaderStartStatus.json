@@ -1,0 +1,17 @@
+{
+  "Name": "MultiSourceMediaFrameReaderStartStatus",
+  "Namespace": "Windows.Media.Capture.Frames",
+  "Values": {
+    "Success": 0,
+    "NotSupported": 1,
+    "InsufficientResources": 2,
+    "DeviceNotAvailable": 3,
+    "UnknownFailure": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

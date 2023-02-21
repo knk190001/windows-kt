@@ -1,0 +1,21 @@
+{
+  "Name": "SupportedWebAccountActions",
+  "Namespace": "Windows.UI.ApplicationSettings",
+  "Values": {
+    "None": 0,
+    "Reconnect": 1,
+    "Remove": 2,
+    "ViewDetails": 4,
+    "Manage": 8,
+    "More": 16
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

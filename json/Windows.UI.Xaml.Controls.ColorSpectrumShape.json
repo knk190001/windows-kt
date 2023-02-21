@@ -1,0 +1,14 @@
+{
+  "Name": "ColorSpectrumShape",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Box": 0,
+    "Ring": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

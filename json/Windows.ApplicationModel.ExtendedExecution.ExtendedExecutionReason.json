@@ -1,0 +1,15 @@
+{
+  "Name": "ExtendedExecutionReason",
+  "Namespace": "Windows.ApplicationModel.ExtendedExecution",
+  "Values": {
+    "Unspecified": 0,
+    "LocationTracking": 1,
+    "SavingData": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

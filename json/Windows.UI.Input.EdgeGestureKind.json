@@ -1,0 +1,15 @@
+{
+  "Name": "EdgeGestureKind",
+  "Namespace": "Windows.UI.Input",
+  "Values": {
+    "Touch": 0,
+    "Keyboard": 1,
+    "Mouse": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

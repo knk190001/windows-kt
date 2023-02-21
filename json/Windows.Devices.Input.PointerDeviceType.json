@@ -1,0 +1,15 @@
+{
+  "Name": "PointerDeviceType",
+  "Namespace": "Windows.Devices.Input",
+  "Values": {
+    "Touch": 0,
+    "Pen": 1,
+    "Mouse": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "WindowInteractionState",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "Running": 0,
+    "Closing": 1,
+    "ReadyForUserInteraction": 2,
+    "BlockedByModalWindow": 3,
+    "NotResponding": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

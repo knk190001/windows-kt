@@ -1,0 +1,16 @@
+{
+  "Name": "ChatMessageTransportKind",
+  "Namespace": "Windows.ApplicationModel.Chat",
+  "Values": {
+    "Text": 0,
+    "Untriaged": 1,
+    "Blocked": 2,
+    "Custom": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

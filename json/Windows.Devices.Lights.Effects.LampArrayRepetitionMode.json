@@ -1,0 +1,14 @@
+{
+  "Name": "LampArrayRepetitionMode",
+  "Namespace": "Windows.Devices.Lights.Effects",
+  "Values": {
+    "Occurrences": 0,
+    "Forever": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "WebAuthenticationStatus",
+  "Namespace": "Windows.Security.Authentication.Web",
+  "Values": {
+    "Success": 0,
+    "UserCancel": 1,
+    "ErrorHttp": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

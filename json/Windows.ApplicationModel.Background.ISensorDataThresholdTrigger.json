@@ -1,0 +1,9 @@
+{
+  "Name": "ISensorDataThresholdTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "5bc0f372d48b4b7fabec15f9bacc12e2",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

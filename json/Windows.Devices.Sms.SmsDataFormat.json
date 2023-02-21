@@ -1,0 +1,17 @@
+{
+  "Name": "SmsDataFormat",
+  "Namespace": "Windows.Devices.Sms",
+  "Values": {
+    "Unknown": 0,
+    "CdmaSubmit": 1,
+    "GsmSubmit": 2,
+    "CdmaDeliver": 3,
+    "GsmDeliver": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

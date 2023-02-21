@@ -1,0 +1,17 @@
+{
+  "Name": "PlaybackStatus",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "None": 0,
+    "TrackChanged": 1,
+    "Stopped": 2,
+    "Playing": 3,
+    "Paused": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

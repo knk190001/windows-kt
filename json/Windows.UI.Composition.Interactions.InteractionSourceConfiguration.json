@@ -1,0 +1,26 @@
+{
+  "Name": "InteractionSourceConfiguration",
+  "Namespace": "Windows.UI.Composition.Interactions",
+  "Interfaces": [
+    {
+      "Name": "IInteractionSourceConfiguration",
+      "Namespace": "Windows.UI.Composition.Interactions",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IInteractionSourceConfiguration",
+        "Namespace": "Windows.UI.Composition.Interactions",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

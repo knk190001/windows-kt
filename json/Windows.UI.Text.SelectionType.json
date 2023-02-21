@@ -1,0 +1,17 @@
+{
+  "Name": "SelectionType",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "None": 0,
+    "InsertionPoint": 1,
+    "Normal": 2,
+    "InlineShape": 7,
+    "Shape": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

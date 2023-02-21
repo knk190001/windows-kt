@@ -1,0 +1,14 @@
+{
+  "Name": "TileMixedRealityModelActivationBehavior",
+  "Namespace": "Windows.UI.StartScreen",
+  "Values": {
+    "Default": 0,
+    "None": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

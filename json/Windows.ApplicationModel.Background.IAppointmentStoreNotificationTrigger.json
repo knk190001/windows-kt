@@ -1,0 +1,9 @@
+{
+  "Name": "IAppointmentStoreNotificationTrigger",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Guid": "64d4040cc20142adaa2ae21ba3425b6d",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

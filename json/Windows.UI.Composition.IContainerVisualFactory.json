@@ -1,0 +1,9 @@
+{
+  "Name": "IContainerVisualFactory",
+  "Namespace": "Windows.UI.Composition",
+  "Guid": "0363a65bc7da4d9a95f469b5c8df670b",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

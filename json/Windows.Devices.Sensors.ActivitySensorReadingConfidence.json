@@ -1,0 +1,14 @@
+{
+  "Name": "ActivitySensorReadingConfidence",
+  "Namespace": "Windows.Devices.Sensors",
+  "Values": {
+    "High": 0,
+    "Low": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

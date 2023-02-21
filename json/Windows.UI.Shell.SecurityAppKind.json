@@ -1,0 +1,13 @@
+{
+  "Name": "SecurityAppKind",
+  "Namespace": "Windows.UI.Shell",
+  "Values": {
+    "WebProtection": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

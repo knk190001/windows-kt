@@ -1,0 +1,19 @@
+{
+  "Name": "ControlChannelTriggerStatus",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "HardwareSlotRequested": 0,
+    "SoftwareSlotAllocated": 1,
+    "HardwareSlotAllocated": 2,
+    "PolicyError": 3,
+    "SystemError": 4,
+    "TransportDisconnected": 5,
+    "ServiceUnavailable": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

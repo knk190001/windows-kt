@@ -1,0 +1,16 @@
+{
+  "Name": "PhotoImportConnectionTransport",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "Unknown": 0,
+    "Usb": 1,
+    "IP": 2,
+    "Bluetooth": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

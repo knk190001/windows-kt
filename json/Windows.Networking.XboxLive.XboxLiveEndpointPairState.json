@@ -1,0 +1,19 @@
+{
+  "Name": "XboxLiveEndpointPairState",
+  "Namespace": "Windows.Networking.XboxLive",
+  "Values": {
+    "Invalid": 0,
+    "CreatingOutbound": 1,
+    "CreatingInbound": 2,
+    "Ready": 3,
+    "DeletingLocally": 4,
+    "RemoteEndpointTerminating": 5,
+    "Deleted": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

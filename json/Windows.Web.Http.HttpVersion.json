@@ -1,0 +1,16 @@
+{
+  "Name": "HttpVersion",
+  "Namespace": "Windows.Web.Http",
+  "Values": {
+    "None": 0,
+    "Http10": 1,
+    "Http11": 2,
+    "Http20": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

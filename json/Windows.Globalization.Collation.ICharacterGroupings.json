@@ -1,0 +1,33 @@
+{
+  "Name": "ICharacterGroupings",
+  "Namespace": "Windows.Globalization.Collation",
+  "Guid": "b8d20a75d4cf405580e5ce169c226496",
+  "Methods": [
+    {
+      "Name": "Lookup",
+      "Parameters": [
+        {
+          "Name": "text",
+          "Type": {
+            "Name": "String",
+            "Namespace": "System",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "String",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

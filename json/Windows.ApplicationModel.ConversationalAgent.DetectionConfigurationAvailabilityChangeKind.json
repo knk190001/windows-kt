@@ -1,0 +1,15 @@
+{
+  "Name": "DetectionConfigurationAvailabilityChangeKind",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "SystemResourceAccess": 0,
+    "Permission": 1,
+    "LockScreenPermission": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

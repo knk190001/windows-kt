@@ -1,0 +1,21 @@
+{
+  "Name": "IEasComplianceResults2",
+  "Namespace": "Windows.Security.ExchangeActiveSyncProvisioning",
+  "Guid": "2fbe60c91aa847f588bbcb3ef0bffb15",
+  "Methods": [
+    {
+      "Name": "get_EncryptionProviderType",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "EasEncryptionProviderType",
+        "Namespace": "Windows.Security.ExchangeActiveSyncProvisioning",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "CoreTextInputPaneDisplayPolicy",
+  "Namespace": "Windows.UI.Text.Core",
+  "Values": {
+    "Automatic": 0,
+    "Manual": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "MediaSourceState",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Initial": 0,
+    "Opening": 1,
+    "Opened": 2,
+    "Failed": 3,
+    "Closed": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

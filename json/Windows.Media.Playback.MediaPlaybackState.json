@@ -1,0 +1,17 @@
+{
+  "Name": "MediaPlaybackState",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "None": 0,
+    "Opening": 1,
+    "Buffering": 2,
+    "Playing": 3,
+    "Paused": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

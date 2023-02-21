@@ -1,0 +1,19 @@
+{
+  "Name": "ContactQueryDesiredFields",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "None": 0,
+    "PhoneNumber": 1,
+    "EmailAddress": 2,
+    "PostalAddress": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

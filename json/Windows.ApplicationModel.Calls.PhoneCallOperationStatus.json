@@ -1,0 +1,17 @@
+{
+  "Name": "PhoneCallOperationStatus",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Succeeded": 0,
+    "OtherFailure": 1,
+    "TimedOut": 2,
+    "ConnectionLost": 3,
+    "InvalidCallState": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

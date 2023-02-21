@@ -1,0 +1,15 @@
+{
+  "Name": "TextReadingOrder",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Default": 0,
+    "UseFlowDirection": 0,
+    "DetectFromContent": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

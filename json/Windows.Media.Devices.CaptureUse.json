@@ -1,0 +1,15 @@
+{
+  "Name": "CaptureUse",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "None": 0,
+    "Photo": 1,
+    "Video": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

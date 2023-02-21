@@ -1,0 +1,20 @@
+{
+  "Name": "NetworkDeviceStatus",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "DeviceNotReady": 0,
+    "DeviceReady": 1,
+    "SimNotInserted": 2,
+    "BadSim": 3,
+    "DeviceHardwareFailure": 4,
+    "AccountNotActivated": 5,
+    "DeviceLocked": 6,
+    "DeviceBlocked": 7
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

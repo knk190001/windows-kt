@@ -1,0 +1,18 @@
+{
+  "Name": "TimedTextRubyAlign",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Center": 0,
+    "Start": 1,
+    "End": 2,
+    "SpaceAround": 3,
+    "SpaceBetween": 4,
+    "WithBase": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "FormatEffect",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "Off": 0,
+    "On": 1,
+    "Toggle": 2,
+    "Undefined": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

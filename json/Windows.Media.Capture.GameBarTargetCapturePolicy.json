@@ -1,0 +1,17 @@
+{
+  "Name": "GameBarTargetCapturePolicy",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "EnabledBySystem": 0,
+    "EnabledByUser": 1,
+    "NotEnabled": 2,
+    "ProhibitedBySystem": 3,
+    "ProhibitedByPublisher": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "BarcodeScannerTriggerState",
+  "Namespace": "Windows.Devices.PointOfService.Provider",
+  "Values": {
+    "Released": 0,
+    "Pressed": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

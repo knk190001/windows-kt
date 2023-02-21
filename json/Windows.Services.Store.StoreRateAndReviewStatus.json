@@ -1,0 +1,16 @@
+{
+  "Name": "StoreRateAndReviewStatus",
+  "Namespace": "Windows.Services.Store",
+  "Values": {
+    "Succeeded": 0,
+    "CanceledByUser": 1,
+    "NetworkError": 2,
+    "Error": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

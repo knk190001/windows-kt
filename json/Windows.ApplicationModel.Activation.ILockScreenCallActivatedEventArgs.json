@@ -1,0 +1,21 @@
+{
+  "Name": "ILockScreenCallActivatedEventArgs",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "06f37fbeb5f2448bb13ee328ac1c516a",
+  "Methods": [
+    {
+      "Name": "get_CallUI",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "LockScreenCallUI",
+        "Namespace": "Windows.ApplicationModel.Calls",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

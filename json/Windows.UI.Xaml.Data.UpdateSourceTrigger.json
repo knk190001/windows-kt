@@ -1,0 +1,16 @@
+{
+  "Name": "UpdateSourceTrigger",
+  "Namespace": "Windows.UI.Xaml.Data",
+  "Values": {
+    "Default": 0,
+    "PropertyChanged": 1,
+    "Explicit": 2,
+    "LostFocus": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

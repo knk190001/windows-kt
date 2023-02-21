@@ -1,0 +1,15 @@
+{
+  "Name": "PhoneLineTransport",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Cellular": 0,
+    "VoipApp": 1,
+    "Bluetooth": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

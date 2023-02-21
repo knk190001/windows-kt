@@ -1,0 +1,14 @@
+{
+  "Name": "JointPoseAccuracy",
+  "Namespace": "Windows.Perception.People",
+  "Values": {
+    "High": 0,
+    "Approximate": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "TrafficCongestion",
+  "Namespace": "Windows.Services.Maps",
+  "Values": {
+    "Unknown": 0,
+    "Light": 1,
+    "Mild": 2,
+    "Medium": 3,
+    "Heavy": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "BluetoothLEAdvertisementWatcherStatus",
+  "Namespace": "Windows.Devices.Bluetooth.Advertisement",
+  "Values": {
+    "Created": 0,
+    "Started": 1,
+    "Stopping": 2,
+    "Stopped": 3,
+    "Aborted": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

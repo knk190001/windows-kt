@@ -1,0 +1,18 @@
+{
+  "Name": "NetworkTypes",
+  "Namespace": "Windows.Networking.Connectivity",
+  "Values": {
+    "None": 0,
+    "Internet": 1,
+    "PrivateNetwork": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "MixedRealitySpatialAudioFormatPolicy",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "UseMixedRealityDefaultSpatialAudioFormat": 0,
+    "UseDeviceConfigurationDefaultSpatialAudioFormat": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "EmailStoreAccessType",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "AppMailboxesReadWrite": 0,
+    "AllMailboxesLimitedReadWrite": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

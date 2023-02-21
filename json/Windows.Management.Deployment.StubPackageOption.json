@@ -1,0 +1,16 @@
+{
+  "Name": "StubPackageOption",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "Default": 0,
+    "InstallFull": 1,
+    "InstallStub": 2,
+    "UsePreference": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

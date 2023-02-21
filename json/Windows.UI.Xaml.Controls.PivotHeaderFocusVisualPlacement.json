@@ -1,0 +1,14 @@
+{
+  "Name": "PivotHeaderFocusVisualPlacement",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "ItemHeaders": 0,
+    "SelectedItemHeader": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

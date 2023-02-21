@@ -1,0 +1,16 @@
+{
+  "Name": "MediaTimelineControllerState",
+  "Namespace": "Windows.Media",
+  "Values": {
+    "Paused": 0,
+    "Running": 1,
+    "Stalled": 2,
+    "Error": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

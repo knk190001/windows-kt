@@ -1,0 +1,15 @@
+{
+  "Name": "HolographicSpaceUserPresence",
+  "Namespace": "Windows.Graphics.Holographic",
+  "Values": {
+    "Absent": 0,
+    "PresentPassive": 1,
+    "PresentActive": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

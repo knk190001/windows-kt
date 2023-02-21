@@ -1,0 +1,15 @@
+{
+  "Name": "NavigationViewBackButtonVisible",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Collapsed": 0,
+    "Visible": 1,
+    "Auto": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

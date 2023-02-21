@@ -1,0 +1,18 @@
+{
+  "Name": "DirectXPrimitiveTopology",
+  "Namespace": "Windows.Graphics.DirectX",
+  "Values": {
+    "Undefined": 0,
+    "PointList": 1,
+    "LineList": 2,
+    "LineStrip": 3,
+    "TriangleList": 4,
+    "TriangleStrip": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

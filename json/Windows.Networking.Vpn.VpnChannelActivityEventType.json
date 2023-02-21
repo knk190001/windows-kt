@@ -1,0 +1,14 @@
+{
+  "Name": "VpnChannelActivityEventType",
+  "Namespace": "Windows.Networking.Vpn",
+  "Values": {
+    "Idle": 0,
+    "Active": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ApplicationViewBoundsMode",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "UseVisible": 0,
+    "UseCoreWindow": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

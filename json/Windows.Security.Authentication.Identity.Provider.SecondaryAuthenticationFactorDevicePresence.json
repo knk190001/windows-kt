@@ -1,0 +1,14 @@
+{
+  "Name": "SecondaryAuthenticationFactorDevicePresence",
+  "Namespace": "Windows.Security.Authentication.Identity.Provider",
+  "Values": {
+    "Absent": 0,
+    "Present": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

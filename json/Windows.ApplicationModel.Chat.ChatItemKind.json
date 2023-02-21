@@ -1,0 +1,14 @@
+{
+  "Name": "ChatItemKind",
+  "Namespace": "Windows.ApplicationModel.Chat",
+  "Values": {
+    "Message": 0,
+    "Conversation": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

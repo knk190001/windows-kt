@@ -1,0 +1,15 @@
+{
+  "Name": "DeviceAccountServerType",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts.SystemAccess",
+  "Values": {
+    "Exchange": 0,
+    "Pop": 1,
+    "Imap": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

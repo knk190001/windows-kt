@@ -1,0 +1,16 @@
+{
+  "Name": "ESimState",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Unknown": 0,
+    "Idle": 1,
+    "Removed": 2,
+    "Busy": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

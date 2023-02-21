@@ -1,0 +1,14 @@
+{
+  "Name": "MapColorScheme",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Light": 0,
+    "Dark": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

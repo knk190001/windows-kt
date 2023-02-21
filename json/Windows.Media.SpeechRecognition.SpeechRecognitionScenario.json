@@ -1,0 +1,15 @@
+{
+  "Name": "SpeechRecognitionScenario",
+  "Namespace": "Windows.Media.SpeechRecognition",
+  "Values": {
+    "WebSearch": 0,
+    "Dictation": 1,
+    "FormFilling": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

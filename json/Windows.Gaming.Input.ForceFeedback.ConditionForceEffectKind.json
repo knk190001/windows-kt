@@ -1,0 +1,16 @@
+{
+  "Name": "ConditionForceEffectKind",
+  "Namespace": "Windows.Gaming.Input.ForceFeedback",
+  "Values": {
+    "Spring": 0,
+    "Damper": 1,
+    "Inertia": 2,
+    "Friction": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

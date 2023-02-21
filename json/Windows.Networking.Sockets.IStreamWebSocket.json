@@ -1,0 +1,43 @@
+{
+  "Name": "IStreamWebSocket",
+  "Namespace": "Windows.Networking.Sockets",
+  "Guid": "bd4a49d8b28945bb97ebc7525205a843",
+  "Methods": [
+    {
+      "Name": "get_Control",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "StreamWebSocketControl",
+        "Namespace": "Windows.Networking.Sockets",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "get_Information",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "StreamWebSocketInformation",
+        "Namespace": "Windows.Networking.Sockets",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "get_InputStream",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "IInputStream",
+        "Namespace": "Windows.Storage.Streams",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

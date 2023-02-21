@@ -1,0 +1,16 @@
+{
+  "Name": "BitmapInterpolationMode",
+  "Namespace": "Windows.Graphics.Imaging",
+  "Values": {
+    "NearestNeighbor": 0,
+    "Linear": 1,
+    "Cubic": 2,
+    "Fant": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

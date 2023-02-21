@@ -1,0 +1,14 @@
+{
+  "Name": "SwipeMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Reveal": 0,
+    "Execute": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

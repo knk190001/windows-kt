@@ -1,0 +1,15 @@
+{
+  "Name": "WiFiDirectConfigurationMethod",
+  "Namespace": "Windows.Devices.WiFiDirect",
+  "Values": {
+    "ProvidePin": 0,
+    "DisplayPin": 1,
+    "PushButton": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

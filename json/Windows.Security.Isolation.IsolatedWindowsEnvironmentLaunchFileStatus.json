@@ -1,0 +1,18 @@
+{
+  "Name": "IsolatedWindowsEnvironmentLaunchFileStatus",
+  "Namespace": "Windows.Security.Isolation",
+  "Values": {
+    "Success": 0,
+    "UnknownFailure": 1,
+    "EnvironmentUnavailable": 2,
+    "FileNotFound": 3,
+    "TimedOut": 4,
+    "AlreadySharedWithConflictingOptions": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "RemoteSystemSessionJoinStatus",
+  "Namespace": "Windows.System.RemoteSystems",
+  "Values": {
+    "Success": 0,
+    "SessionLimitsExceeded": 1,
+    "OperationAborted": 2,
+    "SessionUnavailable": 3,
+    "RejectedByController": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

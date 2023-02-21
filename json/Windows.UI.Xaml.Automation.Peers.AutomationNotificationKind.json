@@ -1,0 +1,17 @@
+{
+  "Name": "AutomationNotificationKind",
+  "Namespace": "Windows.UI.Xaml.Automation.Peers",
+  "Values": {
+    "ItemAdded": 0,
+    "ItemRemoved": 1,
+    "ActionCompleted": 2,
+    "ActionAborted": 3,
+    "Other": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "HttpResponseMessageSource",
+  "Namespace": "Windows.Web.Http",
+  "Values": {
+    "None": 0,
+    "Cache": 1,
+    "Network": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "FontFraction",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Normal": 0,
+    "Stacked": 1,
+    "Slashed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

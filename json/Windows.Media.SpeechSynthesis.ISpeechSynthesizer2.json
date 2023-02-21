@@ -1,0 +1,21 @@
+{
+  "Name": "ISpeechSynthesizer2",
+  "Namespace": "Windows.Media.SpeechSynthesis",
+  "Guid": "a7c5ecb243394d6abbf8c7a4f1544c2e",
+  "Methods": [
+    {
+      "Name": "get_Options",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "SpeechSynthesizerOptions",
+        "Namespace": "Windows.Media.SpeechSynthesis",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

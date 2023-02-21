@@ -1,0 +1,14 @@
+{
+  "Name": "TimedTextWeight",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Normal": 400,
+    "Bold": 700
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "PhoneCallDirection",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "Incoming": 0,
+    "Outgoing": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "AppointmentSummaryCardView",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "System": 0,
+    "App": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

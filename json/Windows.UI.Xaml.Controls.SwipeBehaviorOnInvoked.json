@@ -1,0 +1,15 @@
+{
+  "Name": "SwipeBehaviorOnInvoked",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Auto": 0,
+    "Close": 1,
+    "RemainOpen": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

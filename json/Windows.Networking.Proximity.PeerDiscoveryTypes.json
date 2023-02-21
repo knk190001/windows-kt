@@ -1,0 +1,18 @@
+{
+  "Name": "PeerDiscoveryTypes",
+  "Namespace": "Windows.Networking.Proximity",
+  "Values": {
+    "None": 0,
+    "Browse": 1,
+    "Triggered": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "LicenseRefreshOption",
+  "Namespace": "Windows.ApplicationModel.Store.LicenseManagement",
+  "Values": {
+    "RunningLicenses": 0,
+    "AllLicenses": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

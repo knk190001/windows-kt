@@ -1,0 +1,14 @@
+{
+  "Name": "MediaCaptureDeviceExclusiveControlStatus",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "ExclusiveControlAvailable": 0,
+    "SharedReadOnlyAvailable": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

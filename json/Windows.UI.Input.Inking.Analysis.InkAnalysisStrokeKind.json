@@ -1,0 +1,15 @@
+{
+  "Name": "InkAnalysisStrokeKind",
+  "Namespace": "Windows.UI.Input.Inking.Analysis",
+  "Values": {
+    "Auto": 0,
+    "Writing": 1,
+    "Drawing": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

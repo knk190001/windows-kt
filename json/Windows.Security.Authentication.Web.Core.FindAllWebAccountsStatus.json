@@ -1,0 +1,16 @@
+{
+  "Name": "FindAllWebAccountsStatus",
+  "Namespace": "Windows.Security.Authentication.Web.Core",
+  "Values": {
+    "Success": 0,
+    "NotAllowedByProvider": 1,
+    "NotSupportedByProvider": 2,
+    "ProviderError": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

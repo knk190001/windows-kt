@@ -1,0 +1,15 @@
+{
+  "Name": "ClipboardHistoryItemsResultStatus",
+  "Namespace": "Windows.ApplicationModel.DataTransfer",
+  "Values": {
+    "Success": 0,
+    "AccessDenied": 1,
+    "ClipboardHistoryDisabled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

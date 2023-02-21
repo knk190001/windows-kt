@@ -1,0 +1,9 @@
+{
+  "Name": "IPlayReadyIndividualizationServiceRequest",
+  "Namespace": "Windows.Media.Protection.PlayReady",
+  "Guid": "21f5a86b008c4611ab2faaa6c69f0e24",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

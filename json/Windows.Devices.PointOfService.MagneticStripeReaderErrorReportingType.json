@@ -1,0 +1,14 @@
+{
+  "Name": "MagneticStripeReaderErrorReportingType",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "CardLevel": 0,
+    "TrackLevel": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

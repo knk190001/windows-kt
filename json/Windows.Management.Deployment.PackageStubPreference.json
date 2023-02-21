@@ -1,0 +1,14 @@
+{
+  "Name": "PackageStubPreference",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "Full": 0,
+    "Stub": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

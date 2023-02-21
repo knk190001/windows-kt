@@ -1,0 +1,16 @@
+{
+  "Name": "PosPrinterLineStyle",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "SingleSolid": 0,
+    "DoubleSolid": 1,
+    "Broken": 2,
+    "Chain": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

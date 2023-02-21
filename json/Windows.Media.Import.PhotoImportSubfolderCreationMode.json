@@ -1,0 +1,16 @@
+{
+  "Name": "PhotoImportSubfolderCreationMode",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "DoNotCreateSubfolders": 0,
+    "CreateSubfoldersFromFileDate": 1,
+    "CreateSubfoldersFromExifDate": 2,
+    "KeepOriginalFolderStructure": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

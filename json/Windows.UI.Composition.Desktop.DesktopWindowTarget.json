@@ -1,0 +1,26 @@
+{
+  "Name": "DesktopWindowTarget",
+  "Namespace": "Windows.UI.Composition.Desktop",
+  "Interfaces": [
+    {
+      "Name": "IDesktopWindowTarget",
+      "Namespace": "Windows.UI.Composition.Desktop",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IDesktopWindowTarget",
+        "Namespace": "Windows.UI.Composition.Desktop",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

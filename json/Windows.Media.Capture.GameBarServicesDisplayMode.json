@@ -1,0 +1,14 @@
+{
+  "Name": "GameBarServicesDisplayMode",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "Windowed": 0,
+    "FullScreenExclusive": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

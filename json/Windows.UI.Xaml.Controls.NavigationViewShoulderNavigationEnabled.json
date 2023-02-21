@@ -1,0 +1,15 @@
+{
+  "Name": "NavigationViewShoulderNavigationEnabled",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "WhenSelectionFollowsFocus": 0,
+    "Always": 1,
+    "Never": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

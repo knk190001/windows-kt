@@ -1,0 +1,26 @@
+{
+  "Name": "ScalarNaturalMotionAnimation",
+  "Namespace": "Windows.UI.Composition",
+  "Interfaces": [
+    {
+      "Name": "IScalarNaturalMotionAnimation",
+      "Namespace": "Windows.UI.Composition",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IScalarNaturalMotionAnimation",
+        "Namespace": "Windows.UI.Composition",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ConversationalAgentActivationKind",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "VoiceActivationPreview": 0,
+    "Foreground": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

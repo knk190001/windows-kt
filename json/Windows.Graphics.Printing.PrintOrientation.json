@@ -1,0 +1,19 @@
+{
+  "Name": "PrintOrientation",
+  "Namespace": "Windows.Graphics.Printing",
+  "Values": {
+    "Default": 0,
+    "NotAvailable": 1,
+    "PrinterCustom": 2,
+    "Portrait": 3,
+    "PortraitFlipped": 4,
+    "Landscape": 5,
+    "LandscapeFlipped": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

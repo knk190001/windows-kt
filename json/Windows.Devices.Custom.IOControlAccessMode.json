@@ -1,0 +1,16 @@
+{
+  "Name": "IOControlAccessMode",
+  "Namespace": "Windows.Devices.Custom",
+  "Values": {
+    "Any": 0,
+    "Read": 1,
+    "Write": 2,
+    "ReadWrite": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

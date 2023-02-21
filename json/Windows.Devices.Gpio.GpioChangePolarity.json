@@ -1,0 +1,15 @@
+{
+  "Name": "GpioChangePolarity",
+  "Namespace": "Windows.Devices.Gpio",
+  "Values": {
+    "Falling": 0,
+    "Rising": 1,
+    "Both": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

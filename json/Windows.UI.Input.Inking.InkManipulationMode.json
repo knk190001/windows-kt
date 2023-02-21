@@ -1,0 +1,15 @@
+{
+  "Name": "InkManipulationMode",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "Inking": 0,
+    "Erasing": 1,
+    "Selecting": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

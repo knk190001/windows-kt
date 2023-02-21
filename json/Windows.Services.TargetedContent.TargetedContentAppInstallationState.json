@@ -1,0 +1,15 @@
+{
+  "Name": "TargetedContentAppInstallationState",
+  "Namespace": "Windows.Services.TargetedContent",
+  "Values": {
+    "NotApplicable": 0,
+    "NotInstalled": 1,
+    "Installed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

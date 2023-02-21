@@ -1,0 +1,16 @@
+{
+  "Name": "PhotoImportStage",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "NotStarted": 0,
+    "FindingItems": 1,
+    "ImportingItems": 2,
+    "DeletingImportedItemsFromSource": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

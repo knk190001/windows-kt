@@ -1,0 +1,33 @@
+{
+  "Name": "ITensorFloat",
+  "Namespace": "Windows.AI.MachineLearning",
+  "Guid": "f2282d82aa0242c8a0c8df1efc9676e1",
+  "Methods": [
+    {
+      "Name": "GetAsVectorView",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "IVectorView`1",
+        "Namespace": "Windows.Foundation.Collections",
+        "GenericParameters": [
+          {
+            "Name": "T",
+            "Position": 0,
+            "Type": {
+              "Name": "Single",
+              "Namespace": "System",
+              "GenericParameters": null,
+              "IsArray": false,
+              "IsReference": false
+            }
+          }
+        ],
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "XboxLiveSocketKind",
+  "Namespace": "Windows.Networking.XboxLive",
+  "Values": {
+    "None": 0,
+    "Datagram": 1,
+    "Stream": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

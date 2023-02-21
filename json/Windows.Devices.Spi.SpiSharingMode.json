@@ -1,0 +1,14 @@
+{
+  "Name": "SpiSharingMode",
+  "Namespace": "Windows.Devices.Spi",
+  "Values": {
+    "Exclusive": 0,
+    "Shared": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

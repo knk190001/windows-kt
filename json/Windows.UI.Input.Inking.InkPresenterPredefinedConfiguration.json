@@ -1,0 +1,14 @@
+{
+  "Name": "InkPresenterPredefinedConfiguration",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "SimpleSinglePointer": 0,
+    "SimpleMultiplePointer": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

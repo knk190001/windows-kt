@@ -1,0 +1,9 @@
+{
+  "Name": "ICustomXamlResourceLoader",
+  "Namespace": "Windows.UI.Xaml.Resources",
+  "Guid": "511a84ab4a88419f852e54083b90b078",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

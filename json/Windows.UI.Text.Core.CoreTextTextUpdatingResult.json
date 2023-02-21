@@ -1,0 +1,14 @@
+{
+  "Name": "CoreTextTextUpdatingResult",
+  "Namespace": "Windows.UI.Text.Core",
+  "Values": {
+    "Succeeded": 0,
+    "Failed": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

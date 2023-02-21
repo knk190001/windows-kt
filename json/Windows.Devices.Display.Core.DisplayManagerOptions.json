@@ -1,0 +1,18 @@
+{
+  "Name": "DisplayManagerOptions",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "None": 0,
+    "EnforceSourceOwnership": 1,
+    "VirtualRefreshRateAware": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

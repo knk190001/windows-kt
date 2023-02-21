@@ -1,0 +1,20 @@
+{
+  "Name": "MediaStreamSourceErrorStatus",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Other": 0,
+    "OutOfMemory": 1,
+    "FailedToOpenFile": 2,
+    "FailedToConnectToServer": 3,
+    "ConnectionToServerLost": 4,
+    "UnspecifiedNetworkError": 5,
+    "DecodeError": 6,
+    "UnsupportedMediaFormat": 7
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

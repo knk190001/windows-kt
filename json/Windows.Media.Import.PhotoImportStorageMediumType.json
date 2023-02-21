@@ -1,0 +1,15 @@
+{
+  "Name": "PhotoImportStorageMediumType",
+  "Namespace": "Windows.Media.Import",
+  "Values": {
+    "Undefined": 0,
+    "Fixed": 1,
+    "Removable": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

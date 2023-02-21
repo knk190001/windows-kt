@@ -1,0 +1,14 @@
+{
+  "Name": "BackgroundAccessRequestKind",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "AlwaysAllowed": 0,
+    "AllowedSubjectToSystemPolicy": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

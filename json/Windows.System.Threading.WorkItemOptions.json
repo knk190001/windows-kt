@@ -1,0 +1,17 @@
+{
+  "Name": "WorkItemOptions",
+  "Namespace": "Windows.System.Threading",
+  "Values": {
+    "None": 0,
+    "TimeSliced": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

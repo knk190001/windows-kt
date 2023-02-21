@@ -1,0 +1,15 @@
+{
+  "Name": "SecondaryAuthenticationFactorDevicePresenceMonitoringRegistrationStatus",
+  "Namespace": "Windows.Security.Authentication.Identity.Provider",
+  "Values": {
+    "Unsupported": 0,
+    "Succeeded": 1,
+    "DisabledByPolicy": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

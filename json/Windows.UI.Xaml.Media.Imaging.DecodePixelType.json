@@ -1,0 +1,14 @@
+{
+  "Name": "DecodePixelType",
+  "Namespace": "Windows.UI.Xaml.Media.Imaging",
+  "Values": {
+    "Physical": 0,
+    "Logical": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

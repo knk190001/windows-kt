@@ -1,0 +1,14 @@
+{
+  "Name": "RegionOfInterestType",
+  "Namespace": "Windows.Media.Devices",
+  "Values": {
+    "Unknown": 0,
+    "Face": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

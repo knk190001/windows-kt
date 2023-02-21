@@ -1,0 +1,16 @@
+{
+  "Name": "DisplayBrightnessScenario",
+  "Namespace": "Windows.Graphics.Display",
+  "Values": {
+    "DefaultBrightness": 0,
+    "IdleBrightness": 1,
+    "BarcodeReadingBrightness": 2,
+    "FullBrightness": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "StreamingCaptureMode",
+  "Namespace": "Windows.Media.Capture",
+  "Values": {
+    "AudioAndVideo": 0,
+    "Audio": 1,
+    "Video": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

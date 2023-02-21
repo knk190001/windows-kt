@@ -1,0 +1,14 @@
+{
+  "Name": "ContactSelectionMode",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Contacts": 0,
+    "Fields": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

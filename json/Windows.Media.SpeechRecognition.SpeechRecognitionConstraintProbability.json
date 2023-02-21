@@ -1,0 +1,15 @@
+{
+  "Name": "SpeechRecognitionConstraintProbability",
+  "Namespace": "Windows.Media.SpeechRecognition",
+  "Values": {
+    "Default": 0,
+    "Min": 1,
+    "Max": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

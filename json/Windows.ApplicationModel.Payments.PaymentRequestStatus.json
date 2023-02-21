@@ -1,0 +1,15 @@
+{
+  "Name": "PaymentRequestStatus",
+  "Namespace": "Windows.ApplicationModel.Payments",
+  "Values": {
+    "Succeeded": 0,
+    "Failed": 1,
+    "Canceled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

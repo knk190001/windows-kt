@@ -1,0 +1,15 @@
+{
+  "Name": "SetImageFeedResult",
+  "Namespace": "Windows.System.UserProfile",
+  "Values": {
+    "Success": 0,
+    "ChangeDisabled": 1,
+    "UserCanceled": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

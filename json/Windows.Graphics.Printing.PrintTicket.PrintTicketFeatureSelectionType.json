@@ -1,0 +1,14 @@
+{
+  "Name": "PrintTicketFeatureSelectionType",
+  "Namespace": "Windows.Graphics.Printing.PrintTicket",
+  "Values": {
+    "PickOne": 0,
+    "PickMany": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

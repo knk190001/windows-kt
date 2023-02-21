@@ -1,0 +1,14 @@
+{
+  "Name": "PickerViewMode",
+  "Namespace": "Windows.Storage.Pickers",
+  "Values": {
+    "List": 0,
+    "Thumbnail": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

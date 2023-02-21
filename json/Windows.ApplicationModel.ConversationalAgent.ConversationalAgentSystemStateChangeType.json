@@ -1,0 +1,16 @@
+{
+  "Name": "ConversationalAgentSystemStateChangeType",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "UserAuthentication": 0,
+    "ScreenAvailability": 1,
+    "IndicatorLightAvailability": 2,
+    "VoiceActivationAvailability": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

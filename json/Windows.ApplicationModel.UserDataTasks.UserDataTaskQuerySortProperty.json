@@ -1,0 +1,13 @@
+{
+  "Name": "UserDataTaskQuerySortProperty",
+  "Namespace": "Windows.ApplicationModel.UserDataTasks",
+  "Values": {
+    "DueDate": 0
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

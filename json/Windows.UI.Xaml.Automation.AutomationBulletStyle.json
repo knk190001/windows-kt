@@ -1,0 +1,19 @@
+{
+  "Name": "AutomationBulletStyle",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "None": 0,
+    "HollowRoundBullet": 1,
+    "FilledRoundBullet": 2,
+    "HollowSquareBullet": 3,
+    "FilledSquareBullet": 4,
+    "DashBullet": 5,
+    "Other": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

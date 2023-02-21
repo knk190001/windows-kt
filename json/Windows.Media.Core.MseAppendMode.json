@@ -1,0 +1,14 @@
+{
+  "Name": "MseAppendMode",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "Segments": 0,
+    "Sequence": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

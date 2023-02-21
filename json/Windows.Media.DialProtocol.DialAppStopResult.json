@@ -1,0 +1,16 @@
+{
+  "Name": "DialAppStopResult",
+  "Namespace": "Windows.Media.DialProtocol",
+  "Values": {
+    "Stopped": 0,
+    "StopFailed": 1,
+    "OperationNotSupported": 2,
+    "NetworkFailure": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

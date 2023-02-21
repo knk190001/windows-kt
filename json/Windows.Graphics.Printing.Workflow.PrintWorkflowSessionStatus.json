@@ -1,0 +1,17 @@
+{
+  "Name": "PrintWorkflowSessionStatus",
+  "Namespace": "Windows.Graphics.Printing.Workflow",
+  "Values": {
+    "Started": 0,
+    "Completed": 1,
+    "Aborted": 2,
+    "Closed": 3,
+    "PdlDataAvailableForModification": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

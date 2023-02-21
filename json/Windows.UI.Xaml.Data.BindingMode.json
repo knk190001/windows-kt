@@ -1,0 +1,15 @@
+{
+  "Name": "BindingMode",
+  "Namespace": "Windows.UI.Xaml.Data",
+  "Values": {
+    "OneWay": 1,
+    "OneTime": 2,
+    "TwoWay": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

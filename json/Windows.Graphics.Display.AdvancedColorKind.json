@@ -1,0 +1,15 @@
+{
+  "Name": "AdvancedColorKind",
+  "Namespace": "Windows.Graphics.Display",
+  "Values": {
+    "StandardDynamicRange": 0,
+    "WideColorGamut": 1,
+    "HighDynamicRange": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

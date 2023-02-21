@@ -1,0 +1,9 @@
+{
+  "Name": "IRevealBorderBrush",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Guid": "060ba115c542483c82025f03331866c9",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

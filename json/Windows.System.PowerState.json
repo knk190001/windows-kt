@@ -1,0 +1,14 @@
+{
+  "Name": "PowerState",
+  "Namespace": "Windows.System",
+  "Values": {
+    "ConnectedStandby": 0,
+    "SleepS3": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

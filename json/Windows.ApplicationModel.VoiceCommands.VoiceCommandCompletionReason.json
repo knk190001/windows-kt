@@ -1,0 +1,19 @@
+{
+  "Name": "VoiceCommandCompletionReason",
+  "Namespace": "Windows.ApplicationModel.VoiceCommands",
+  "Values": {
+    "Unknown": 0,
+    "CommunicationFailed": 1,
+    "ResourceLimitsExceeded": 2,
+    "Canceled": 3,
+    "TimeoutExceeded": 4,
+    "AppLaunched": 5,
+    "Completed": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

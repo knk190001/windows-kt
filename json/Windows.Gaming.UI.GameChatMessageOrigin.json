@@ -1,0 +1,14 @@
+{
+  "Name": "GameChatMessageOrigin",
+  "Namespace": "Windows.Gaming.UI",
+  "Values": {
+    "Voice": 0,
+    "Text": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

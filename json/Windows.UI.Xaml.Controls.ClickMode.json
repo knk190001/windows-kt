@@ -1,0 +1,15 @@
+{
+  "Name": "ClickMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Release": 0,
+    "Press": 1,
+    "Hover": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

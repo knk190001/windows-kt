@@ -1,0 +1,15 @@
+{
+  "Name": "ESimDiscoverResultKind",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "None": 0,
+    "Events": 1,
+    "ProfileMetadata": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

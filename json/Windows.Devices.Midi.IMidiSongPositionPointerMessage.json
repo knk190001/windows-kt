@@ -1,0 +1,21 @@
+{
+  "Name": "IMidiSongPositionPointerMessage",
+  "Namespace": "Windows.Devices.Midi",
+  "Guid": "4ca50c56ec5e4ae4a11588dc57cc2b79",
+  "Methods": [
+    {
+      "Name": "get_Beats",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "UInt16",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "GeofenceRemovalReason",
+  "Namespace": "Windows.Devices.Geolocation.Geofencing",
+  "Values": {
+    "Used": 0,
+    "Expired": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

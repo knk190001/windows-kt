@@ -1,0 +1,15 @@
+{
+  "Name": "StereoscopicVideoPackingMode",
+  "Namespace": "Windows.Media.MediaProperties",
+  "Values": {
+    "None": 0,
+    "SideBySide": 1,
+    "TopBottom": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

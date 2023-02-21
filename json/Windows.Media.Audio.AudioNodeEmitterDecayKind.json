@@ -1,0 +1,14 @@
+{
+  "Name": "AudioNodeEmitterDecayKind",
+  "Namespace": "Windows.Media.Audio",
+  "Values": {
+    "Natural": 0,
+    "Custom": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "ContactCardHeaderKind",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Default": 0,
+    "Basic": 1,
+    "Enterprise": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

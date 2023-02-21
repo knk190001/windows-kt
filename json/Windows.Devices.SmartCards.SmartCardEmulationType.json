@@ -1,0 +1,15 @@
+{
+  "Name": "SmartCardEmulationType",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Host": 0,
+    "Uicc": 1,
+    "EmbeddedSE": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "SmartCardPinCharacterPolicyOption",
+  "Namespace": "Windows.Devices.SmartCards",
+  "Values": {
+    "Allow": 0,
+    "RequireAtLeastOne": 1,
+    "Disallow": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

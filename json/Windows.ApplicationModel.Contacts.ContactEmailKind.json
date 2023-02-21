@@ -1,0 +1,15 @@
+{
+  "Name": "ContactEmailKind",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "Personal": 0,
+    "Work": 1,
+    "Other": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

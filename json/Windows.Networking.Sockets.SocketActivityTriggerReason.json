@@ -1,0 +1,17 @@
+{
+  "Name": "SocketActivityTriggerReason",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "None": 0,
+    "SocketActivity": 1,
+    "ConnectionAccepted": 2,
+    "KeepAliveTimerExpired": 3,
+    "SocketClosed": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

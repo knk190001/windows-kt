@@ -1,0 +1,18 @@
+{
+  "Name": "LearningModelDeviceKindPreview",
+  "Namespace": "Windows.AI.MachineLearning.Preview",
+  "Values": {
+    "LearningDeviceAny": 0,
+    "LearningDeviceCpu": 1,
+    "LearningDeviceGpu": 2,
+    "LearningDeviceNpu": 3,
+    "LearningDeviceDsp": 4,
+    "LearningDeviceFpga": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

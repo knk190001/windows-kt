@@ -1,0 +1,15 @@
+{
+  "Name": "ActivationSignalDetectionConfigurationStateChangeResult",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "Success": 0,
+    "NoModelData": 1,
+    "ConfigurationNotFound": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "AvailableAudioRoutingEndpoints",
+  "Namespace": "Windows.Phone.Media.Devices",
+  "Values": {
+    "None": 0,
+    "Earpiece": 1,
+    "Speakerphone": 2,
+    "Bluetooth": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

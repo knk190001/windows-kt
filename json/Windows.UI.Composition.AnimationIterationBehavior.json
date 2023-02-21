@@ -1,0 +1,14 @@
+{
+  "Name": "AnimationIterationBehavior",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "Count": 0,
+    "Forever": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

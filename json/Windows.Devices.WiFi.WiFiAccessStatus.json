@@ -1,0 +1,16 @@
+{
+  "Name": "WiFiAccessStatus",
+  "Namespace": "Windows.Devices.WiFi",
+  "Values": {
+    "Unspecified": 0,
+    "Allowed": 1,
+    "DeniedByUser": 2,
+    "DeniedBySystem": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

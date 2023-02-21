@@ -1,0 +1,14 @@
+{
+  "Name": "ContactStoreSystemAccessMode",
+  "Namespace": "Windows.Phone.PersonalInformation",
+  "Values": {
+    "ReadOnly": 0,
+    "ReadWrite": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

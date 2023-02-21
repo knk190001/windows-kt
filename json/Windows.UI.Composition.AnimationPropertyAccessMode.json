@@ -1,0 +1,16 @@
+{
+  "Name": "AnimationPropertyAccessMode",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "None": 0,
+    "ReadOnly": 1,
+    "WriteOnly": 2,
+    "ReadWrite": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

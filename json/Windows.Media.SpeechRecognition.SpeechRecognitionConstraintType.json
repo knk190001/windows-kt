@@ -1,0 +1,16 @@
+{
+  "Name": "SpeechRecognitionConstraintType",
+  "Namespace": "Windows.Media.SpeechRecognition",
+  "Values": {
+    "Topic": 0,
+    "List": 1,
+    "Grammar": 2,
+    "VoiceCommandDefinition": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

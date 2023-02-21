@@ -1,0 +1,14 @@
+{
+  "Name": "InkInputRightDragAction",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "LeaveUnprocessed": 0,
+    "AllowProcessing": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

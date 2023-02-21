@@ -1,0 +1,16 @@
+{
+  "Name": "MapLoadingStatus",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Loading": 0,
+    "Loaded": 1,
+    "DataUnavailable": 2,
+    "DownloadedMapsManagerUnavailable": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

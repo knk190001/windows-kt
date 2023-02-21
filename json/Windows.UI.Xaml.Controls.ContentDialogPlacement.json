@@ -1,0 +1,14 @@
+{
+  "Name": "ContentDialogPlacement",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Popup": 0,
+    "InPlace": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "GetEntitlementStatus",
+  "Namespace": "Windows.ApplicationModel.Store.Preview.InstallControl",
+  "Values": {
+    "Succeeded": 0,
+    "NoStoreAccount": 1,
+    "NetworkError": 2,
+    "ServerError": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

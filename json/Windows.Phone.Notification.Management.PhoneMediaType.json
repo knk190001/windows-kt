@@ -1,0 +1,14 @@
+{
+  "Name": "PhoneMediaType",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "AudioOnly": 0,
+    "AudioVideo": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

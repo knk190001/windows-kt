@@ -1,0 +1,19 @@
+{
+  "Name": "PhoneCallHistoryEntryQueryDesiredMedia",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "None": 0,
+    "Audio": 1,
+    "Video": 2,
+    "All": -1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "AlarmAccessStatus",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "Unspecified": 0,
+    "AllowedWithWakeupCapability": 1,
+    "AllowedWithoutWakeupCapability": 2,
+    "Denied": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

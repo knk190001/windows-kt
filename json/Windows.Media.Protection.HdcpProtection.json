@@ -1,0 +1,15 @@
+{
+  "Name": "HdcpProtection",
+  "Namespace": "Windows.Media.Protection",
+  "Values": {
+    "Off": 0,
+    "On": 1,
+    "OnWithTypeEnforcement": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

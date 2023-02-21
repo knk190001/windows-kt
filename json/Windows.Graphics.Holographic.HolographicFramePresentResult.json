@@ -1,0 +1,14 @@
+{
+  "Name": "HolographicFramePresentResult",
+  "Namespace": "Windows.Graphics.Holographic",
+  "Values": {
+    "Success": 0,
+    "DeviceRemoved": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

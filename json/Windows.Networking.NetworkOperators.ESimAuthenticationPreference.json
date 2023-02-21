@@ -1,0 +1,15 @@
+{
+  "Name": "ESimAuthenticationPreference",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "OnEntry": 0,
+    "OnAction": 1,
+    "Never": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

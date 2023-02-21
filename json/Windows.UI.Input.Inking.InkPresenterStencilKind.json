@@ -1,0 +1,15 @@
+{
+  "Name": "InkPresenterStencilKind",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "Other": 0,
+    "Ruler": 1,
+    "Protractor": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

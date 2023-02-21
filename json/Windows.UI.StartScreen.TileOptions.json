@@ -1,0 +1,19 @@
+{
+  "Name": "TileOptions",
+  "Namespace": "Windows.UI.StartScreen",
+  "Values": {
+    "None": 0,
+    "ShowNameOnLogo": 1,
+    "ShowNameOnWideLogo": 2,
+    "CopyOnDeployment": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

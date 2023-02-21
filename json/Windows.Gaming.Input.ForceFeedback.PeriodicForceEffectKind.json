@@ -1,0 +1,17 @@
+{
+  "Name": "PeriodicForceEffectKind",
+  "Namespace": "Windows.Gaming.Input.ForceFeedback",
+  "Values": {
+    "SquareWave": 0,
+    "SineWave": 1,
+    "TriangleWave": 2,
+    "SawtoothWaveUp": 3,
+    "SawtoothWaveDown": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

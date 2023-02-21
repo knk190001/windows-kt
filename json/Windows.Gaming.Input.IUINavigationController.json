@@ -1,0 +1,67 @@
+{
+  "Name": "IUINavigationController",
+  "Namespace": "Windows.Gaming.Input",
+  "Guid": "e5aeefddf50e4a558cdcd33229548175",
+  "Methods": [
+    {
+      "Name": "GetCurrentReading",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "UINavigationReading",
+        "Namespace": "Windows.Gaming.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "GetOptionalButtonLabel",
+      "Parameters": [
+        {
+          "Name": "button",
+          "Type": {
+            "Name": "OptionalUINavigationButtons",
+            "Namespace": "Windows.Gaming.Input",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "GameControllerButtonLabel",
+        "Namespace": "Windows.Gaming.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "GetRequiredButtonLabel",
+      "Parameters": [
+        {
+          "Name": "button",
+          "Type": {
+            "Name": "RequiredUINavigationButtons",
+            "Namespace": "Windows.Gaming.Input",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "GameControllerButtonLabel",
+        "Namespace": "Windows.Gaming.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

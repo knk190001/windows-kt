@@ -1,0 +1,17 @@
+{
+  "Name": "PhoneCallState",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "Unknown": 0,
+    "Ringing": 1,
+    "Talking": 2,
+    "Held": 3,
+    "Ended": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

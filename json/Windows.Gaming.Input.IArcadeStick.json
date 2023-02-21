@@ -1,0 +1,44 @@
+{
+  "Name": "IArcadeStick",
+  "Namespace": "Windows.Gaming.Input",
+  "Guid": "b14a539dbefb4c81805115ecf3b13036",
+  "Methods": [
+    {
+      "Name": "GetButtonLabel",
+      "Parameters": [
+        {
+          "Name": "button",
+          "Type": {
+            "Name": "ArcadeStickButtons",
+            "Namespace": "Windows.Gaming.Input",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "GameControllerButtonLabel",
+        "Namespace": "Windows.Gaming.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "GetCurrentReading",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "ArcadeStickReading",
+        "Namespace": "Windows.Gaming.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

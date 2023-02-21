@@ -1,0 +1,15 @@
+{
+  "Name": "ReminderState",
+  "Namespace": "Windows.Phone.Notification.Management",
+  "Values": {
+    "Active": 0,
+    "Snoozed": 1,
+    "Dismissed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

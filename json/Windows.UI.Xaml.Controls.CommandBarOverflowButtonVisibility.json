@@ -1,0 +1,15 @@
+{
+  "Name": "CommandBarOverflowButtonVisibility",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Auto": 0,
+    "Visible": 1,
+    "Collapsed": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "TimedTextFlowDirection",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "LeftToRight": 0,
+    "RightToLeft": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

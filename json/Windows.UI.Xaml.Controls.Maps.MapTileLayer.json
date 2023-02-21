@@ -1,0 +1,17 @@
+{
+  "Name": "MapTileLayer",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "LabelOverlay": 0,
+    "RoadOverlay": 1,
+    "AreaOverlay": 2,
+    "BackgroundOverlay": 3,
+    "BackgroundReplacement": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

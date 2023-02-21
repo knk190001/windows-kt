@@ -1,0 +1,16 @@
+{
+  "Name": "AudioDecoderDegradation",
+  "Namespace": "Windows.Media.Core",
+  "Values": {
+    "None": 0,
+    "DownmixTo2Channels": 1,
+    "DownmixTo6Channels": 2,
+    "DownmixTo8Channels": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

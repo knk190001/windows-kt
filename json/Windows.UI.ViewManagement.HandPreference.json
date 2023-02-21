@@ -1,0 +1,14 @@
+{
+  "Name": "HandPreference",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "LeftHanded": 0,
+    "RightHanded": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

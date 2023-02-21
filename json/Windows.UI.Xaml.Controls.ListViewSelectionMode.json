@@ -1,0 +1,16 @@
+{
+  "Name": "ListViewSelectionMode",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "None": 0,
+    "Single": 1,
+    "Multiple": 2,
+    "Extended": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

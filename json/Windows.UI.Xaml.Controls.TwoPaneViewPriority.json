@@ -1,0 +1,14 @@
+{
+  "Name": "TwoPaneViewPriority",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Values": {
+    "Pane1": 0,
+    "Pane2": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

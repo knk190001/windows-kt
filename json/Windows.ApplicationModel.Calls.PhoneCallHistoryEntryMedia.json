@@ -1,0 +1,14 @@
+{
+  "Name": "PhoneCallHistoryEntryMedia",
+  "Namespace": "Windows.ApplicationModel.Calls",
+  "Values": {
+    "Audio": 0,
+    "Video": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

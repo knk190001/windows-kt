@@ -1,0 +1,18 @@
+{
+  "Name": "UserDataTaskListSyncStatus",
+  "Namespace": "Windows.ApplicationModel.UserDataTasks",
+  "Values": {
+    "Idle": 0,
+    "Syncing": 1,
+    "UpToDate": 2,
+    "AuthenticationError": 3,
+    "PolicyError": 4,
+    "UnknownError": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

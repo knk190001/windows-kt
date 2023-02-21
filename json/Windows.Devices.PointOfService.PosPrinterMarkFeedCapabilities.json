@@ -1,0 +1,20 @@
+{
+  "Name": "PosPrinterMarkFeedCapabilities",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "None": 0,
+    "ToTakeUp": 1,
+    "ToCutter": 2,
+    "ToCurrentTopOfForm": 4,
+    "ToNextTopOfForm": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "StoreUninstallStorePackageStatus",
+  "Namespace": "Windows.Services.Store",
+  "Values": {
+    "Succeeded": 0,
+    "CanceledByUser": 1,
+    "NetworkError": 2,
+    "UninstallNotApplicable": 3,
+    "Error": 4
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

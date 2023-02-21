@@ -1,0 +1,14 @@
+{
+  "Name": "ProviderGpioPinEdge",
+  "Namespace": "Windows.Devices.Gpio.Provider",
+  "Values": {
+    "FallingEdge": 0,
+    "RisingEdge": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

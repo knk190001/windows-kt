@@ -1,0 +1,14 @@
+{
+  "Name": "ContactAnnotationStoreAccessType",
+  "Namespace": "Windows.ApplicationModel.Contacts",
+  "Values": {
+    "AppAnnotationsReadWrite": 0,
+    "AllAnnotationsReadWrite": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "TextDecorations",
+  "Namespace": "Windows.UI.Text",
+  "Values": {
+    "None": 0,
+    "Underline": 1,
+    "Strikethrough": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

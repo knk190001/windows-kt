@@ -1,0 +1,15 @@
+{
+  "Name": "AccelerometerReadingType",
+  "Namespace": "Windows.Devices.Sensors",
+  "Values": {
+    "Standard": 0,
+    "Linear": 1,
+    "Gravity": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "MediaPlayerState",
+  "Namespace": "Windows.Media.Playback",
+  "Values": {
+    "Closed": 0,
+    "Opening": 1,
+    "Buffering": 2,
+    "Playing": 3,
+    "Paused": 4,
+    "Stopped": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

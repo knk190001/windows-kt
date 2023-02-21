@@ -1,0 +1,18 @@
+{
+  "Name": "WebTokenRequestStatus",
+  "Namespace": "Windows.Security.Authentication.Web.Core",
+  "Values": {
+    "Success": 0,
+    "UserCancel": 1,
+    "AccountSwitch": 2,
+    "UserInteractionRequired": 3,
+    "AccountProviderNotAvailable": 4,
+    "ProviderError": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Stereo3DVideoRenderMode",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Mono": 0,
+    "Stereo": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

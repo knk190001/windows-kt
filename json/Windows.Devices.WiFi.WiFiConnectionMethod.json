@@ -1,0 +1,15 @@
+{
+  "Name": "WiFiConnectionMethod",
+  "Namespace": "Windows.Devices.WiFi",
+  "Values": {
+    "Default": 0,
+    "WpsPin": 1,
+    "WpsPushButton": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

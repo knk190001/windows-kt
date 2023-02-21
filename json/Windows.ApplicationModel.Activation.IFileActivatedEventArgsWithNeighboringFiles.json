@@ -1,0 +1,21 @@
+{
+  "Name": "IFileActivatedEventArgsWithNeighboringFiles",
+  "Namespace": "Windows.ApplicationModel.Activation",
+  "Guid": "433ba1a4e1e248fdb7fcb5d6eee65033",
+  "Methods": [
+    {
+      "Name": "get_NeighboringFilesQuery",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "StorageFileQueryResult",
+        "Namespace": "Windows.Storage.Search",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

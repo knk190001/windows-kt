@@ -1,0 +1,15 @@
+{
+  "Name": "ForceFeedbackLoadEffectResult",
+  "Namespace": "Windows.Gaming.Input.ForceFeedback",
+  "Values": {
+    "Succeeded": 0,
+    "EffectStorageFull": 1,
+    "EffectNotSupported": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

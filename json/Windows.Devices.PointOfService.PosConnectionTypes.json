@@ -1,0 +1,19 @@
+{
+  "Name": "PosConnectionTypes",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Local": 1,
+    "IP": 2,
+    "Bluetooth": 4,
+    "All": -1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

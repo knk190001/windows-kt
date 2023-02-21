@@ -1,0 +1,19 @@
+{
+  "Name": "CoreInputViewKind",
+  "Namespace": "Windows.UI.ViewManagement.Core",
+  "Values": {
+    "Default": 0,
+    "Keyboard": 1,
+    "Handwriting": 2,
+    "Emoji": 3,
+    "Symbols": 4,
+    "Clipboard": 5,
+    "Dictation": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

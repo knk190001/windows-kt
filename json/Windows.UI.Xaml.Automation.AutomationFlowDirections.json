@@ -1,0 +1,16 @@
+{
+  "Name": "AutomationFlowDirections",
+  "Namespace": "Windows.UI.Xaml.Automation",
+  "Values": {
+    "Default": 0,
+    "RightToLeft": 1,
+    "BottomToTop": 2,
+    "Vertical": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

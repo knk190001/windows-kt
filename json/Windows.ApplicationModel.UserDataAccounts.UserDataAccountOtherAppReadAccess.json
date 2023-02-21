@@ -1,0 +1,15 @@
+{
+  "Name": "UserDataAccountOtherAppReadAccess",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts",
+  "Values": {
+    "SystemOnly": 0,
+    "Full": 1,
+    "None": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

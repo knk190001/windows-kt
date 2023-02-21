@@ -1,0 +1,19 @@
+{
+  "Name": "MdmSessionState",
+  "Namespace": "Windows.Management",
+  "Values": {
+    "NotStarted": 0,
+    "Starting": 1,
+    "Connecting": 2,
+    "Communicating": 3,
+    "AlertStatusAvailable": 4,
+    "Retrying": 5,
+    "Completed": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

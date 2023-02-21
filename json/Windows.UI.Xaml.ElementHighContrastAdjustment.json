@@ -1,0 +1,18 @@
+{
+  "Name": "ElementHighContrastAdjustment",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "None": 0,
+    "Application": -2147483648,
+    "Auto": -1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

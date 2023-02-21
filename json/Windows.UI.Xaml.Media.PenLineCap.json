@@ -1,0 +1,16 @@
+{
+  "Name": "PenLineCap",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Values": {
+    "Flat": 0,
+    "Square": 1,
+    "Round": 2,
+    "Triangle": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

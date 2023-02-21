@@ -1,0 +1,21 @@
+{
+  "Name": "IPerceptionDepthFrame",
+  "Namespace": "Windows.Devices.Perception",
+  "Guid": "a37b81fc99064ffd91610024b360b657",
+  "Methods": [
+    {
+      "Name": "get_VideoFrame",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "VideoFrame",
+        "Namespace": "Windows.Media",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

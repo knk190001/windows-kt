@@ -1,0 +1,15 @@
+{
+  "Name": "WriteActivationMode",
+  "Namespace": "Windows.Storage.Provider",
+  "Values": {
+    "ReadOnly": 0,
+    "NotNeeded": 1,
+    "AfterWrite": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

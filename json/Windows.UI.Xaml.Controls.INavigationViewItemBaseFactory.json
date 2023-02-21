@@ -1,0 +1,9 @@
+{
+  "Name": "INavigationViewItemBaseFactory",
+  "Namespace": "Windows.UI.Xaml.Controls",
+  "Guid": "eb014cef78904ebb824502e8510f321d",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

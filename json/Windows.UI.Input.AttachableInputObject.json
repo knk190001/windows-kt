@@ -1,0 +1,33 @@
+{
+  "Name": "AttachableInputObject",
+  "Namespace": "Windows.UI.Input",
+  "Interfaces": [
+    {
+      "Name": "IAttachableInputObject",
+      "Namespace": "Windows.UI.Input",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IClosable",
+      "Namespace": "Windows.Foundation",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "DefaultInterface": {
+        "Name": "IAttachableInputObject",
+        "Namespace": "Windows.UI.Input",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

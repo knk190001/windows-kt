@@ -1,0 +1,15 @@
+{
+  "Name": "CompositionEasingFunctionMode",
+  "Namespace": "Windows.UI.Composition",
+  "Values": {
+    "In": 0,
+    "Out": 1,
+    "InOut": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

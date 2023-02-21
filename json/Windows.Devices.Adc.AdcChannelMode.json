@@ -1,0 +1,14 @@
+{
+  "Name": "AdcChannelMode",
+  "Namespace": "Windows.Devices.Adc",
+  "Values": {
+    "SingleEnded": 0,
+    "Differential": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

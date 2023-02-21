@@ -1,0 +1,14 @@
+{
+  "Name": "EmailMessageBodyKind",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "Html": 0,
+    "PlainText": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

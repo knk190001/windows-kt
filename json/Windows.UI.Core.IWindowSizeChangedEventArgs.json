@@ -1,0 +1,21 @@
+{
+  "Name": "IWindowSizeChangedEventArgs",
+  "Namespace": "Windows.UI.Core",
+  "Guid": "5a200ec7042647dcb86c6f475915e451",
+  "Methods": [
+    {
+      "Name": "get_Size",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "Size",
+        "Namespace": "Windows.Foundation",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

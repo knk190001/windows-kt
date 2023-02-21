@@ -1,0 +1,15 @@
+{
+  "Name": "DeviceAccountAuthenticationType",
+  "Namespace": "Windows.ApplicationModel.UserDataAccounts.SystemAccess",
+  "Values": {
+    "Basic": 0,
+    "OAuth": 1,
+    "SingleSignOn": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

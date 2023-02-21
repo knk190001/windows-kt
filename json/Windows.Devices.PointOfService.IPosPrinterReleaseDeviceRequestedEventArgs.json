@@ -1,0 +1,9 @@
+{
+  "Name": "IPosPrinterReleaseDeviceRequestedEventArgs",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Guid": "2bcba3591cef40b29ecbf927f856ae3c",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

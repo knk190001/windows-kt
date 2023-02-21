@@ -1,0 +1,15 @@
+{
+  "Name": "GattClientCharacteristicConfigurationDescriptorValue",
+  "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+  "Values": {
+    "None": 0,
+    "Notify": 1,
+    "Indicate": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

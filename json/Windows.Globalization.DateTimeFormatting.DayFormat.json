@@ -1,0 +1,14 @@
+{
+  "Name": "DayFormat",
+  "Namespace": "Windows.Globalization.DateTimeFormatting",
+  "Values": {
+    "None": 0,
+    "Default": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

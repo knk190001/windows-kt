@@ -1,0 +1,15 @@
+{
+  "Name": "TetheringWiFiBand",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Auto": 0,
+    "TwoPointFourGigahertz": 1,
+    "FiveGigahertz": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

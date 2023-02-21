@@ -1,0 +1,14 @@
+{
+  "Name": "InkDrawingAttributesKind",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "Default": 0,
+    "Pencil": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

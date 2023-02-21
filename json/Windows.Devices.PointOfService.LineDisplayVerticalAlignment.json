@@ -1,0 +1,15 @@
+{
+  "Name": "LineDisplayVerticalAlignment",
+  "Namespace": "Windows.Devices.PointOfService",
+  "Values": {
+    "Top": 0,
+    "Center": 1,
+    "Bottom": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

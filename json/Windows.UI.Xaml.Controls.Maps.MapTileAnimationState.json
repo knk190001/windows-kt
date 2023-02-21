@@ -1,0 +1,15 @@
+{
+  "Name": "MapTileAnimationState",
+  "Namespace": "Windows.UI.Xaml.Controls.Maps",
+  "Values": {
+    "Stopped": 0,
+    "Paused": 1,
+    "Playing": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

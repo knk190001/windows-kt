@@ -1,0 +1,15 @@
+{
+  "Name": "KeySize",
+  "Namespace": "Windows.Security.Cryptography.Certificates",
+  "Values": {
+    "Invalid": 0,
+    "Rsa2048": 2048,
+    "Rsa4096": 4096
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

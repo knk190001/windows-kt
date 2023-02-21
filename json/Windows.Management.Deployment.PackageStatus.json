@@ -1,0 +1,20 @@
+{
+  "Name": "PackageStatus",
+  "Namespace": "Windows.Management.Deployment",
+  "Values": {
+    "OK": 0,
+    "LicenseIssue": 1,
+    "Modified": 2,
+    "Tampered": 4,
+    "Disabled": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

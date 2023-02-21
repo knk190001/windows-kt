@@ -1,0 +1,9 @@
+{
+  "Name": "IGraphicsEffectSource",
+  "Namespace": "Windows.Graphics.Effects",
+  "Guid": "2d8f9ddc43394eb99216f9deb75658a2",
+  "Methods": [],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "RemoteSystemStatusType",
+  "Namespace": "Windows.System.RemoteSystems",
+  "Values": {
+    "Any": 0,
+    "Available": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

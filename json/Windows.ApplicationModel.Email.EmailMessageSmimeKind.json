@@ -1,0 +1,16 @@
+{
+  "Name": "EmailMessageSmimeKind",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "None": 0,
+    "ClearSigned": 1,
+    "OpaqueSigned": 2,
+    "Encrypted": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

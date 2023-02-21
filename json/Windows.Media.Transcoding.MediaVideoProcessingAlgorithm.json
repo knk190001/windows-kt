@@ -1,0 +1,14 @@
+{
+  "Name": "MediaVideoProcessingAlgorithm",
+  "Namespace": "Windows.Media.Transcoding",
+  "Values": {
+    "Default": 0,
+    "MrfCrf444": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

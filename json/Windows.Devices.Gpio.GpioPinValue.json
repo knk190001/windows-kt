@@ -1,0 +1,14 @@
+{
+  "Name": "GpioPinValue",
+  "Namespace": "Windows.Devices.Gpio",
+  "Values": {
+    "Low": 0,
+    "High": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

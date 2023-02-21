@@ -1,0 +1,20 @@
+{
+  "Name": "MiracastReceiverApplySettingsStatus",
+  "Namespace": "Windows.Media.Miracast",
+  "Values": {
+    "Success": 0,
+    "UnknownFailure": 1,
+    "MiracastNotSupported": 2,
+    "AccessDenied": 3,
+    "FriendlyNameTooLong": 4,
+    "ModelNameTooLong": 5,
+    "ModelNumberTooLong": 6,
+    "InvalidSettings": 7
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

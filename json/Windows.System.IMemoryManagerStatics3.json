@@ -1,0 +1,33 @@
+{
+  "Name": "IMemoryManagerStatics3",
+  "Namespace": "Windows.System",
+  "Guid": "149b59ce92ad4e3589eb50dfb4c0d91c",
+  "Methods": [
+    {
+      "Name": "TrySetAppMemoryUsageLimit",
+      "Parameters": [
+        {
+          "Name": "value",
+          "Type": {
+            "Name": "UInt64",
+            "Namespace": "System",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "Boolean",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

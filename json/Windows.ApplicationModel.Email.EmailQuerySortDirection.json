@@ -1,0 +1,14 @@
+{
+  "Name": "EmailQuerySortDirection",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "Descending": 0,
+    "Ascending": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

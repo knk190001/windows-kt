@@ -1,0 +1,15 @@
+{
+  "Name": "PlatformDiagnosticActionState",
+  "Namespace": "Windows.System.Diagnostics.TraceReporting",
+  "Values": {
+    "Success": 0,
+    "FreeNetworkNotAvailable": 1,
+    "ACPowerNotAvailable": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

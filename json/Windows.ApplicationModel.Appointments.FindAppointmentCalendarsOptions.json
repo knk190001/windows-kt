@@ -1,0 +1,17 @@
+{
+  "Name": "FindAppointmentCalendarsOptions",
+  "Namespace": "Windows.ApplicationModel.Appointments",
+  "Values": {
+    "None": 0,
+    "IncludeHidden": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

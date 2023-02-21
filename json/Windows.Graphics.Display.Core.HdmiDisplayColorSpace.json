@@ -1,0 +1,16 @@
+{
+  "Name": "HdmiDisplayColorSpace",
+  "Namespace": "Windows.Graphics.Display.Core",
+  "Values": {
+    "RgbLimited": 0,
+    "RgbFull": 1,
+    "BT2020": 2,
+    "BT709": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

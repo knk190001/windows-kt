@@ -1,0 +1,16 @@
+{
+  "Name": "FlyoutShowMode",
+  "Namespace": "Windows.UI.Xaml.Controls.Primitives",
+  "Values": {
+    "Auto": 0,
+    "Standard": 1,
+    "Transient": 2,
+    "TransientWithDismissOnPointerMoveAway": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

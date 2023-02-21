@@ -1,0 +1,15 @@
+{
+  "Name": "EmailMailboxSmimeSigningAlgorithm",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "Any": 0,
+    "Sha1": 1,
+    "MD5": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

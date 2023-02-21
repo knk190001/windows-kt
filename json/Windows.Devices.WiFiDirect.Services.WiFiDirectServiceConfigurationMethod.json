@@ -1,0 +1,15 @@
+{
+  "Name": "WiFiDirectServiceConfigurationMethod",
+  "Namespace": "Windows.Devices.WiFiDirect.Services",
+  "Values": {
+    "Default": 0,
+    "PinDisplay": 1,
+    "PinEntry": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

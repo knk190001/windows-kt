@@ -1,0 +1,16 @@
+{
+  "Name": "MobileBroadbandModemStatus",
+  "Namespace": "Windows.Networking.NetworkOperators",
+  "Values": {
+    "Success": 0,
+    "OtherFailure": 1,
+    "Busy": 2,
+    "NoDeviceSupport": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

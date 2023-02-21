@@ -1,0 +1,14 @@
+{
+  "Name": "NDStartAsyncOptions",
+  "Namespace": "Windows.Media.Protection.PlayReady",
+  "Values": {
+    "MutualAuthentication": 1,
+    "WaitForLicenseDescriptor": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

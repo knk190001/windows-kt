@@ -1,0 +1,14 @@
+{
+  "Name": "GattWriteOption",
+  "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+  "Values": {
+    "WriteWithResponse": 0,
+    "WriteWithoutResponse": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

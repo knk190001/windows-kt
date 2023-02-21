@@ -1,0 +1,19 @@
+{
+  "Name": "WebViewControlPermissionType",
+  "Namespace": "Windows.Web.UI",
+  "Values": {
+    "Geolocation": 0,
+    "UnlimitedIndexedDBQuota": 1,
+    "Media": 2,
+    "PointerLock": 3,
+    "WebNotifications": 4,
+    "Screen": 5,
+    "ImmersiveView": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

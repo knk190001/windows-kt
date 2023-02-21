@@ -1,0 +1,18 @@
+{
+  "Name": "DisplayStateFunctionalizeOptions",
+  "Namespace": "Windows.Devices.Display.Core",
+  "Values": {
+    "None": 0,
+    "FailIfStateChanged": 1,
+    "ValidateTopologyOnly": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    },
+    {
+      "TraitType": "FlagEnum"
+    }
+  ],
+  "Type": "Enum"
+}

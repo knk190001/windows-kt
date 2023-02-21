@@ -1,0 +1,19 @@
+{
+  "Name": "ViewSizePreference",
+  "Namespace": "Windows.UI.ViewManagement",
+  "Values": {
+    "Default": 0,
+    "UseLess": 1,
+    "UseHalf": 2,
+    "UseMore": 3,
+    "UseMinimum": 4,
+    "UseNone": 5,
+    "Custom": 6
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

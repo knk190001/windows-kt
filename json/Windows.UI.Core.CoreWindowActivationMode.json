@@ -1,0 +1,16 @@
+{
+  "Name": "CoreWindowActivationMode",
+  "Namespace": "Windows.UI.Core",
+  "Values": {
+    "None": 0,
+    "Deactivated": 1,
+    "ActivatedNotForeground": 2,
+    "ActivatedInForeground": 3
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "ExifOrientationMode",
+  "Namespace": "Windows.Graphics.Imaging",
+  "Values": {
+    "IgnoreExifOrientation": 0,
+    "RespectExifOrientation": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

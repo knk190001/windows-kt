@@ -1,0 +1,15 @@
+{
+  "Name": "IsolatedWindowsEnvironmentPostMessageStatus",
+  "Namespace": "Windows.Security.Isolation",
+  "Values": {
+    "Success": 0,
+    "UnknownFailure": 1,
+    "EnvironmentUnavailable": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

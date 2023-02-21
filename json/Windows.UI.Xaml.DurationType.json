@@ -1,0 +1,15 @@
+{
+  "Name": "DurationType",
+  "Namespace": "Windows.UI.Xaml",
+  "Values": {
+    "Automatic": 0,
+    "TimeSpan": 1,
+    "Forever": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

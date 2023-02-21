@@ -1,0 +1,44 @@
+{
+  "Name": "IPlayReadyMeteringReportServiceRequest",
+  "Namespace": "Windows.Media.Protection.PlayReady",
+  "Guid": "c12b231c0ecd4f11a1851e24a4a67fb7",
+  "Methods": [
+    {
+      "Name": "get_MeteringCertificate",
+      "Parameters": [],
+      "ReturnType": {
+        "Name": "Byte",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": true,
+        "IsReference": false
+      }
+    },
+    {
+      "Name": "put_MeteringCertificate",
+      "Parameters": [
+        {
+          "Name": "meteringCertBytes",
+          "Type": {
+            "Name": "Byte",
+            "Namespace": "System",
+            "GenericParameters": null,
+            "IsArray": true,
+            "IsReference": false
+          },
+          "ParameterType": "In"
+        }
+      ],
+      "ReturnType": {
+        "Name": "Void",
+        "Namespace": "System",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      }
+    }
+  ],
+  "Traits": [],
+  "GenericParameters": null,
+  "Type": "Interface"
+}

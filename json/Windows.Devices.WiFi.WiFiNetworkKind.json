@@ -1,0 +1,15 @@
+{
+  "Name": "WiFiNetworkKind",
+  "Namespace": "Windows.Devices.WiFi",
+  "Values": {
+    "Any": 0,
+    "Infrastructure": 1,
+    "Adhoc": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

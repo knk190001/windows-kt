@@ -1,0 +1,15 @@
+{
+  "Name": "CausalitySource",
+  "Namespace": "Windows.Foundation.Diagnostics",
+  "Values": {
+    "Application": 0,
+    "Library": 1,
+    "System": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

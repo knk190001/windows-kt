@@ -1,0 +1,15 @@
+{
+  "Name": "BackgroundTaskThrottleCounter",
+  "Namespace": "Windows.ApplicationModel.Background",
+  "Values": {
+    "All": 0,
+    "Cpu": 1,
+    "Network": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

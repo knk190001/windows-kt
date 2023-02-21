@@ -1,0 +1,14 @@
+{
+  "Name": "AppWindowTitleBarVisibility",
+  "Namespace": "Windows.UI.WindowManagement",
+  "Values": {
+    "Default": 0,
+    "AlwaysHidden": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

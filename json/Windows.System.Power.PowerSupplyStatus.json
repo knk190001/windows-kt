@@ -1,0 +1,15 @@
+{
+  "Name": "PowerSupplyStatus",
+  "Namespace": "Windows.System.Power",
+  "Values": {
+    "NotPresent": 0,
+    "Inadequate": 1,
+    "Adequate": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

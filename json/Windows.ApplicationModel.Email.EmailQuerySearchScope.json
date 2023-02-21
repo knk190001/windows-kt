@@ -1,0 +1,14 @@
+{
+  "Name": "EmailQuerySearchScope",
+  "Namespace": "Windows.ApplicationModel.Email",
+  "Values": {
+    "Local": 0,
+    "Server": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

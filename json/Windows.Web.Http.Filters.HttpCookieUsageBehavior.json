@@ -1,0 +1,14 @@
+{
+  "Name": "HttpCookieUsageBehavior",
+  "Namespace": "Windows.Web.Http.Filters",
+  "Values": {
+    "Default": 0,
+    "NoCookies": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

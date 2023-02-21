@@ -1,0 +1,14 @@
+{
+  "Name": "PenHandedness",
+  "Namespace": "Windows.UI.Input.Inking",
+  "Values": {
+    "Right": 0,
+    "Left": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

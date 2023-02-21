@@ -1,0 +1,15 @@
+{
+  "Name": "WebUICommandBarClosedDisplayMode",
+  "Namespace": "Windows.UI.WebUI.Core",
+  "Values": {
+    "Default": 0,
+    "Minimal": 1,
+    "Compact": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

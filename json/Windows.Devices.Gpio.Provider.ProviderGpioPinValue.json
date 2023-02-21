@@ -1,0 +1,14 @@
+{
+  "Name": "ProviderGpioPinValue",
+  "Namespace": "Windows.Devices.Gpio.Provider",
+  "Values": {
+    "Low": 0,
+    "High": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

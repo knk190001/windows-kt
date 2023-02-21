@@ -1,0 +1,14 @@
+{
+  "Name": "AppRecordingSaveScreenshotOption",
+  "Namespace": "Windows.Media.AppRecording",
+  "Values": {
+    "None": 0,
+    "HdrContentVisible": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "TimelineMarkerRoutedEventArgs",
+  "Namespace": "Windows.UI.Xaml.Media",
+  "Interfaces": [
+    {
+      "Name": "ITimelineMarkerRoutedEventArgs",
+      "Namespace": "Windows.UI.Xaml.Media",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
+  "Traits": [
+    {
+      "TraitType": "DirectActivation"
+    },
+    {
+      "DefaultInterface": {
+        "Name": "ITimelineMarkerRoutedEventArgs",
+        "Namespace": "Windows.UI.Xaml.Media",
+        "GenericParameters": null,
+        "IsArray": false,
+        "IsReference": false
+      },
+      "TraitType": "DefaultInterface"
+    }
+  ],
+  "Type": "Class"
+}

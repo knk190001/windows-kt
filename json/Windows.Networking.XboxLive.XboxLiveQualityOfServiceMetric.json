@@ -1,0 +1,21 @@
+{
+  "Name": "XboxLiveQualityOfServiceMetric",
+  "Namespace": "Windows.Networking.XboxLive",
+  "Values": {
+    "AverageLatencyInMilliseconds": 0,
+    "MinLatencyInMilliseconds": 1,
+    "MaxLatencyInMilliseconds": 2,
+    "AverageOutboundBitsPerSecond": 3,
+    "MinOutboundBitsPerSecond": 4,
+    "MaxOutboundBitsPerSecond": 5,
+    "AverageInboundBitsPerSecond": 6,
+    "MinInboundBitsPerSecond": 7,
+    "MaxInboundBitsPerSecond": 8
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

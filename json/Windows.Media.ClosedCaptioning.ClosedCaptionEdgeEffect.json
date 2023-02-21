@@ -1,0 +1,18 @@
+{
+  "Name": "ClosedCaptionEdgeEffect",
+  "Namespace": "Windows.Media.ClosedCaptioning",
+  "Values": {
+    "Default": 0,
+    "None": 1,
+    "Raised": 2,
+    "Depressed": 3,
+    "Uniform": 4,
+    "DropShadow": 5
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

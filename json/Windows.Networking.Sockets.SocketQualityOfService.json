@@ -1,0 +1,14 @@
+{
+  "Name": "SocketQualityOfService",
+  "Namespace": "Windows.Networking.Sockets",
+  "Values": {
+    "Normal": 0,
+    "LowLatency": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

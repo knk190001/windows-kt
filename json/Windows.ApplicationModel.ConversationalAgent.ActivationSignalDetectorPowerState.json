@@ -1,0 +1,15 @@
+{
+  "Name": "ActivationSignalDetectorPowerState",
+  "Namespace": "Windows.ApplicationModel.ConversationalAgent",
+  "Values": {
+    "HighPower": 0,
+    "ConnectedLowPower": 1,
+    "DisconnectedLowPower": 2
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}

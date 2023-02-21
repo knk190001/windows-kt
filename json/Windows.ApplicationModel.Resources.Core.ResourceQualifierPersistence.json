@@ -1,0 +1,14 @@
+{
+  "Name": "ResourceQualifierPersistence",
+  "Namespace": "Windows.ApplicationModel.Resources.Core",
+  "Values": {
+    "None": 0,
+    "LocalMachine": 1
+  },
+  "Traits": [
+    {
+      "TraitType": "ValueType"
+    }
+  ],
+  "Type": "Enum"
+}
