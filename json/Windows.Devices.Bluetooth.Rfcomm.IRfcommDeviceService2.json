@@ -16,6 +16,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IRfcommDeviceService",
+      "Namespace": "Windows.Devices.Bluetooth.Rfcomm",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

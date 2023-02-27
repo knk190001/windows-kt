@@ -50,6 +50,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IVpnCustomPromptElement",
+      "Namespace": "Windows.Networking.Vpn",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

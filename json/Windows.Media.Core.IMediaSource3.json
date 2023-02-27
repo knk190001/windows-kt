@@ -96,6 +96,29 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IMediaSource2",
+      "Namespace": "Windows.Media.Core",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IMediaPlaybackSource",
+      "Namespace": "Windows.Media.Playback",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IClosable",
+      "Namespace": "Windows.Foundation",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

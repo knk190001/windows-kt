@@ -39,6 +39,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IPhoneCallOrigin2",
+      "Namespace": "Windows.ApplicationModel.Calls.Provider",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IPhoneCallOrigin",
+      "Namespace": "Windows.ApplicationModel.Calls.Provider",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

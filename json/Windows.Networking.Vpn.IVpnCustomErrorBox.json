@@ -4,6 +4,15 @@
   "Guid": "9ec4efb2c94242afb223588b48328721",
   "Methods": [],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IVpnCustomPrompt",
+      "Namespace": "Windows.Networking.Vpn",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

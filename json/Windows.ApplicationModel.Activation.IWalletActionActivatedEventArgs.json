@@ -38,6 +38,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IActivatedEventArgs",
+      "Namespace": "Windows.ApplicationModel.Activation",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

@@ -4,6 +4,13 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="IDE">
+            <builds>
+              <build path="$PROJECT_DIR$/../TestWinRT" name="TestWinRT" />
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
@@ -15,22 +22,43 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$" name="windows-kt">
+                <projects>
+                  <project path="$PROJECT_DIR$" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../TestABIGen" name="kotlin-winrt-generator">
+                <projects>
+                  <project path="$PROJECT_DIR$/../TestABIGen" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
         <option name="delegatedBuild" value="true" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../TestWinRT" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/../TestABIGen" />
             <option value="$PROJECT_DIR$/../TestWinRT" />
+            <option value="$PROJECT_DIR$" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <compositeConfiguration>
-          <compositeBuild compositeDefinitionSource="IDE">
+          <compositeBuild compositeDefinitionSource="SCRIPT">
             <builds>
-              <build path="$PROJECT_DIR$/../TestABIGen" name="TestABIGen" />
-              <build path="$PROJECT_DIR$/../TestWinRT" name="TestWinRT" />
+              <build path="$PROJECT_DIR$/../TestABIGen" name="kotlin-winrt-generator">
+                <projects>
+                  <project path="$PROJECT_DIR$/../TestABIGen" />
+                </projects>
+              </build>
             </builds>
           </compositeBuild>
         </compositeConfiguration>
@@ -40,6 +68,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/../TestABIGen" />
             <option value="$PROJECT_DIR$" />
           </set>
         </option>

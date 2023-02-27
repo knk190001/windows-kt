@@ -106,6 +106,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IStorageItemMostRecentlyUsedList",
+      "Namespace": "Windows.Storage.AccessCache",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IStorageItemAccessList",
+      "Namespace": "Windows.Storage.AccessCache",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

@@ -16,6 +16,29 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IPlayReadyLicenseAcquisitionServiceRequest",
+      "Namespace": "Windows.Media.Protection.PlayReady",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IPlayReadyServiceRequest",
+      "Namespace": "Windows.Media.Protection.PlayReady",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IMediaProtectionServiceRequest",
+      "Namespace": "Windows.Media.Protection",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

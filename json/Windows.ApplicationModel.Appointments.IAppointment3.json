@@ -84,6 +84,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IAppointment2",
+      "Namespace": "Windows.ApplicationModel.Appointments",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IAppointment",
+      "Namespace": "Windows.ApplicationModel.Appointments",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

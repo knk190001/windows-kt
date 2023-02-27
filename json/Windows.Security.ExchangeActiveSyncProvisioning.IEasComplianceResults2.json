@@ -16,6 +16,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IEasComplianceResults",
+      "Namespace": "Windows.Security.ExchangeActiveSyncProvisioning",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

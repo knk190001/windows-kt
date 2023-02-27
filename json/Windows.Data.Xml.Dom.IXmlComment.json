@@ -4,6 +4,36 @@
   "Guid": "bca474d5b61f46119cac2e92e3476d47",
   "Methods": [],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IXmlCharacterData",
+      "Namespace": "Windows.Data.Xml.Dom",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IXmlNode",
+      "Namespace": "Windows.Data.Xml.Dom",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IXmlNodeSelector",
+      "Namespace": "Windows.Data.Xml.Dom",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IXmlNodeSerializer",
+      "Namespace": "Windows.Data.Xml.Dom",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

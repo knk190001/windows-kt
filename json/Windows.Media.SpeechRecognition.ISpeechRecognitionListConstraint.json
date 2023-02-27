@@ -28,6 +28,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "ISpeechRecognitionConstraint",
+      "Namespace": "Windows.Media.SpeechRecognition",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

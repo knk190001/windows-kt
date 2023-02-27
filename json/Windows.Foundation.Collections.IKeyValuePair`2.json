@@ -27,6 +27,7 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [],
   "GenericParameters": [
     {
       "Name": "K",

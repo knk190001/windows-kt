@@ -4,6 +4,15 @@
   "Guid": "e21caeeb32f24d31b553b9e01bde37e0",
   "Methods": [],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IBackgroundTrigger",
+      "Namespace": "Windows.ApplicationModel.Background",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

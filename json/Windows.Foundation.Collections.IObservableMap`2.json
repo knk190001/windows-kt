@@ -74,6 +74,38 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IMap`2",
+      "Namespace": "Windows.Foundation.Collections",
+      "GenericParameters": [
+        {
+          "Name": "K",
+          "Position": 0,
+          "Type": {
+            "Name": "K",
+            "Namespace": "",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          }
+        },
+        {
+          "Name": "V",
+          "Position": 1,
+          "Type": {
+            "Name": "V",
+            "Namespace": "",
+            "GenericParameters": null,
+            "IsArray": false,
+            "IsReference": false
+          }
+        }
+      ],
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": [
     {
       "Name": "K",

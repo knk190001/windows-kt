@@ -39,6 +39,36 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "INumberFormatterOptions",
+      "Namespace": "Windows.Globalization.NumberFormatting",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "INumberFormatter",
+      "Namespace": "Windows.Globalization.NumberFormatting",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "INumberFormatter2",
+      "Namespace": "Windows.Globalization.NumberFormatting",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "INumberParser",
+      "Namespace": "Windows.Globalization.NumberFormatting",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

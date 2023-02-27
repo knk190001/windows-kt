@@ -73,6 +73,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IHolographicCamera2",
+      "Namespace": "Windows.Graphics.Holographic",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IHolographicCamera",
+      "Namespace": "Windows.Graphics.Holographic",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

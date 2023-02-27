@@ -39,6 +39,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IGattCharacteristic",
+      "Namespace": "Windows.Devices.Bluetooth.GenericAttributeProfile",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

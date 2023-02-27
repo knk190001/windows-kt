@@ -239,6 +239,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IEmailMailbox2",
+      "Namespace": "Windows.ApplicationModel.Email",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IEmailMailbox",
+      "Namespace": "Windows.ApplicationModel.Email",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

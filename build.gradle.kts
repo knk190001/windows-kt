@@ -23,6 +23,8 @@ repositories {
 }
 
 tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
+    kotlinOptions.freeCompilerArgs += "-Xjvm-default=all"
+    kotlinOptions.suppressWarnings = true
     kotlinOptions.jvmTarget = "16"
 }
 
@@ -32,6 +34,9 @@ java {
     }
 }
 
+tasks.withType<org.gradle.jvm.tasks.Jar> {
+    this.isZip64 = true
+}
 
 val generatingSourceSet = sourceSets["mainGenerator"]!!
 val generatingConfig = configurations[generatingSourceSet.implementationConfigurationName]!!
@@ -40,8 +45,6 @@ dependencies {
     api("com.github.knk190001:kotlin-winrt-generator:0.1.7")
     generatingConfig("com.github.knk190001:kotlin-winrt-generator:0.1.7")
 }
-
-
 
 tasks.test {
     useJUnitPlatform()

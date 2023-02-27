@@ -16,6 +16,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "ISpatialInteractionSourceState2",
+      "Namespace": "Windows.UI.Input.Spatial",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "ISpatialInteractionSourceState",
+      "Namespace": "Windows.UI.Input.Spatial",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

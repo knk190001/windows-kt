@@ -62,6 +62,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IWebAuthenticationCoreManagerStatics",
+      "Namespace": "Windows.Security.Authentication.Web.Core",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

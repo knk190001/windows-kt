@@ -39,6 +39,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IPrintCustomOptionDetails",
+      "Namespace": "Windows.Graphics.Printing.OptionDetails",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IPrintOptionDetails",
+      "Namespace": "Windows.Graphics.Printing.OptionDetails",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

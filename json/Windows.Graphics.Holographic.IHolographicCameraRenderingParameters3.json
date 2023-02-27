@@ -39,6 +39,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IHolographicCameraRenderingParameters2",
+      "Namespace": "Windows.Graphics.Holographic",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IHolographicCameraRenderingParameters",
+      "Namespace": "Windows.Graphics.Holographic",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

@@ -27,6 +27,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IAccountsSettingsPaneStatics",
+      "Namespace": "Windows.UI.ApplicationSettings",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

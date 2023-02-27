@@ -427,6 +427,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IContactManagerStatics2",
+      "Namespace": "Windows.ApplicationModel.Contacts",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IContactManagerStatics",
+      "Namespace": "Windows.ApplicationModel.Contacts",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

@@ -178,6 +178,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IInkStrokeContainer",
+      "Namespace": "Windows.UI.Input.Inking",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IInkRecognizerContainer",
+      "Namespace": "Windows.UI.Input.Inking",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

@@ -28,6 +28,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "ICommunicationBlockingAppManagerStatics",
+      "Namespace": "Windows.ApplicationModel.CommunicationBlocking",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

@@ -27,6 +27,15 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IUserDataAccountProviderOperation",
+      "Namespace": "Windows.ApplicationModel.UserDataAccounts.Provider",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

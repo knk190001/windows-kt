@@ -324,6 +324,7 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [],
   "GenericParameters": null,
   "Type": "Interface"
 }

@@ -529,6 +529,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IChatMessage3",
+      "Namespace": "Windows.ApplicationModel.Chat",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IChatMessage",
+      "Namespace": "Windows.ApplicationModel.Chat",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

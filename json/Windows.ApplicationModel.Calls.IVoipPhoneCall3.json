@@ -28,6 +28,22 @@
     }
   ],
   "Traits": [],
+  "SuperInterfaces": [
+    {
+      "Name": "IVoipPhoneCall2",
+      "Namespace": "Windows.ApplicationModel.Calls",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    },
+    {
+      "Name": "IVoipPhoneCall",
+      "Namespace": "Windows.ApplicationModel.Calls",
+      "GenericParameters": null,
+      "IsArray": false,
+      "IsReference": false
+    }
+  ],
   "GenericParameters": null,
   "Type": "Interface"
 }

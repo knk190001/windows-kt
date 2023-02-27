@@ -2,6 +2,7 @@
 rootProject.name = "windows-kt"
 
 includeBuild("../TestABIGen")
+includeBuild("../windows-kt")
 
 pluginManagement {
     repositories {
