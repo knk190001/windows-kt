@@ -13,8 +13,8 @@
         </compositeConfiguration>
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="PLATFORM" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../TestABIGen" />
+        <option name="gradleJvm" value="corretto-19" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../TestABIGen" />
@@ -25,22 +25,20 @@
         <compositeConfiguration>
           <compositeBuild compositeDefinitionSource="SCRIPT">
             <builds>
-              <build path="$PROJECT_DIR$" name="windows-kt">
-                <projects>
-                  <project path="$PROJECT_DIR$" />
-                </projects>
-              </build>
               <build path="$PROJECT_DIR$/../TestABIGen" name="kotlin-winrt-generator">
                 <projects>
                   <project path="$PROJECT_DIR$/../TestABIGen" />
                 </projects>
               </build>
+              <build path="$PROJECT_DIR$" name="windows-kt">
+                <projects>
+                  <project path="$PROJECT_DIR$" />
+                </projects>
+              </build>
             </builds>
           </compositeBuild>
         </compositeConfiguration>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../TestWinRT" />
         <option name="modules">
           <set>
@@ -63,7 +61,6 @@
           </compositeBuild>
         </compositeConfiguration>
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">

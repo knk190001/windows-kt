@@ -1,5 +1,7 @@
+import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+
 plugins {
-    kotlin("jvm") version "1.6.10"
+    kotlin("jvm") version "1.8.21"
     `maven-publish`
 }
 
@@ -25,12 +27,20 @@ repositories {
 tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
     kotlinOptions.freeCompilerArgs += "-Xjvm-default=all"
     kotlinOptions.suppressWarnings = true
-    kotlinOptions.jvmTarget = "16"
 }
 
 java {
     toolchain {
-        targetCompatibility = JavaVersion.VERSION_16
+        vendor.set(JvmVendorSpec.ADOPTIUM)
+        languageVersion.set(JavaLanguageVersion.of(19))
+    }
+}
+
+kotlin {
+    sourceSets.all {
+        languageSettings {
+            languageVersion = "2.0"
+        }
     }
 }
 
@@ -43,7 +53,10 @@ val generatingConfig = configurations[generatingSourceSet.implementationConfigur
 dependencies {
     testImplementation(kotlin("test"))
     api("com.github.knk190001:kotlin-winrt-generator:0.1.7")
+    implementation("org.jetbrains.kotlin:kotlin-reflect:1.8.21")
     generatingConfig("com.github.knk190001:kotlin-winrt-generator:0.1.7")
+    generatingConfig("org.jetbrains.kotlin:kotlin-reflect:1.6.21")
+
 }
 
 tasks.test {
@@ -52,7 +65,7 @@ tasks.test {
 
 buildscript {
     dependencies {
-        classpath("com.github.knk190001:GradleCodeGenerator:1.0.5")
+        classpath("com.github.knk190001:GradleCodeGenerator:1.1.0")
     }
 }
 
@@ -72,4 +85,9 @@ publishing {
             from(components["java"])
         }
     }
+}
+
+val compileKotlin: KotlinCompile by tasks
+compileKotlin.kotlinOptions {
+    jvmTarget = "19"
 }
