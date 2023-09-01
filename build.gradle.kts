@@ -52,10 +52,10 @@ val generatingSourceSet = sourceSets["mainGenerator"]!!
 val generatingConfig = configurations[generatingSourceSet.implementationConfigurationName]!!
 dependencies {
     testImplementation(kotlin("test"))
-    api("com.github.knk190001:kotlin-winrt-generator:0.1.7")
+    api("com.github.knk190001:kotlin-winrt-generator:0.1.8")
     implementation("org.jetbrains.kotlin:kotlin-reflect:1.8.21")
-    generatingConfig("com.github.knk190001:kotlin-winrt-generator:0.1.7")
-    generatingConfig("org.jetbrains.kotlin:kotlin-reflect:1.6.21")
+    generatingConfig("com.github.knk190001:kotlin-winrt-generator:0.1.8")
+    generatingConfig("org.jetbrains.kotlin:kotlin-reflect:1.8.21")
 
 }
 
