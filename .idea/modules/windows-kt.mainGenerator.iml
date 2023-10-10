@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="NewModuleRootManager">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
     <content url="file://$MODULE_DIR$/../../src/mainGenerator">
       <sourceFolder url="file://$MODULE_DIR$/../../src/mainGenerator/kotlin" isTestSource="false" />
     </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.21" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.knk190001.GradleCodeGenerator:api-common:1.1.0" level="project" />
+    <orderEntry type="module" module-name="kotlin-winrt-generator.main" />
   </component>
 </module>
